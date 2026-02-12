@@ -28,6 +28,7 @@ import pandas as pd
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import plotly.express as px
+import plotly.utils
 from geopy.geocoders import ArcGIS
 
 # ─── Constants ────────────────────────────────────────────────────────────────
@@ -500,7 +501,7 @@ def generate_dashboard(metrics_df, csv_filename, output_file="dashboard.html"):
             template="plotly_white",
             margin=dict(l=60, r=30, t=60, b=60),
         )
-        chart_json = fig.to_json()
+        chart_json = json.dumps(fig.to_plotly_json(), cls=plotly.utils.PlotlyJSONEncoder)
         html_parts.append(f"""
     <div class="chart-container">
         <div id="{chart_id}" style="width:100%;"></div>

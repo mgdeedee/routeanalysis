@@ -2,13 +2,18 @@
 """
 Route Analysis Dashboard Generator
 
-Reads a CSV file with appointment data (id, date, staff_id, address, duration, revenue),
-geocodes addresses, calculates driving distances between sequential appointments per staff
-per day, and generates an interactive HTML dashboard.
+Reads a CSV file with appointment data, geocodes addresses, calculates driving
+distances between sequential appointments per staff per day, and generates an
+interactive HTML dashboard.
+
+Supports two CSV formats:
+  Basic:    id, date, staff_id, address, duration, revenue
+  Extended: id, date, start_time, end_time, staff_id, staff_name, address,
+            duration, revenue, gap_with_previous
 
 Usage:
     python3 route_analysis.py <csv_file>
-    python3 route_analysis.py 116676-company-Jan.csv
+    python3 route_analysis.py Jan-Appts.csv
 """
 
 import sys
@@ -139,11 +144,24 @@ def calculate_daily_metrics(df):
     df_valid = df.dropna(subset=["latitude", "longitude"]).copy()
     df_valid["date"] = pd.to_datetime(df_valid["date"])
 
+    has_start_time = "start_time" in df_valid.columns
+    has_staff_name = "staff_name" in df_valid.columns
+    has_gap = "gap_with_previous" in df_valid.columns
+
+    # Build staff name lookup
+    staff_names = {}
+    if has_staff_name:
+        for _, row in df_valid[["staff_id", "staff_name"]].drop_duplicates().iterrows():
+            staff_names[str(row["staff_id"])] = row["staff_name"]
+
     daily_records = []
 
     for (staff_id, date), group in df_valid.groupby(["staff_id", "date"]):
-        # Sort by appointment id (proxy for chronological order)
-        group = group.sort_values("id")
+        # Sort by start_time if available, otherwise by id
+        if has_start_time:
+            group = group.sort_values("start_time")
+        else:
+            group = group.sort_values("id")
 
         # Calculate sequential distances
         total_distance_km = 0
@@ -164,13 +182,27 @@ def calculate_daily_metrics(df):
         total_revenue = group["revenue"].sum()
         num_appointments = len(group)
 
+        # Compute total gap time from data if available
+        total_gap_min = 0
+        if has_gap:
+            gaps = pd.to_numeric(group["gap_with_previous"], errors="coerce").dropna()
+            total_gap_min = gaps[gaps > 0].sum()
+
+        # Working time: use start/end times if available for actual day span
+        if has_start_time:
+            day_start = group["start_time"].min()
+            day_end = group["end_time"].max()
+            total_day_span_min = day_end - day_start
+        else:
+            total_day_span_min = total_appt_duration + est_drive_time_min
+
         # Efficiency metrics
         revenue_per_mile = total_revenue / total_distance_miles if total_distance_miles > 0 else 0
         revenue_per_hour = total_revenue / (total_appt_duration / 60) if total_appt_duration > 0 else 0
         total_working_min = total_appt_duration + est_drive_time_min
         productive_pct = (total_appt_duration / total_working_min * 100) if total_working_min > 0 else 0
 
-        daily_records.append({
+        record = {
             "staff_id": str(staff_id),
             "date": date,
             "num_appointments": num_appointments,
@@ -182,7 +214,16 @@ def calculate_daily_metrics(df):
             "revenue_per_mile": round(revenue_per_mile, 2),
             "revenue_per_hour": round(revenue_per_hour, 2),
             "productive_pct": round(productive_pct, 1),
-        })
+            "total_day_span_min": round(total_day_span_min, 1),
+        }
+
+        if has_gap:
+            record["total_gap_min"] = round(total_gap_min, 1)
+
+        if has_staff_name:
+            record["staff_name"] = staff_names.get(str(staff_id), str(staff_id))
+
+        daily_records.append(record)
 
     return pd.DataFrame(daily_records)
 
@@ -197,11 +238,19 @@ def generate_dashboard(metrics_df, csv_filename, output_file="dashboard.html"):
     metrics_df["date_str"] = metrics_df["date"].dt.strftime("%Y-%m-%d")
     metrics_df["day_of_week"] = metrics_df["date"].dt.day_name()
 
+    has_staff_name = "staff_name" in metrics_df.columns
+
+    # Create a display label: "Name (ID)" if names available, else just ID
+    if has_staff_name:
+        metrics_df["staff_label"] = metrics_df["staff_name"] + " (" + metrics_df["staff_id"] + ")"
+    else:
+        metrics_df["staff_label"] = metrics_df["staff_id"]
+
     # Sort by date
-    metrics_df = metrics_df.sort_values(["date", "staff_id"])
+    metrics_df = metrics_df.sort_values(["date", "staff_label"])
 
     # ── Aggregate summaries ──
-    staff_summary = metrics_df.groupby("staff_id").agg(
+    staff_summary = metrics_df.groupby("staff_label").agg(
         total_miles=("total_distance_miles", "sum"),
         total_drive_min=("est_drive_time_min", "sum"),
         total_appt_min=("total_appt_duration_min", "sum"),
@@ -219,7 +268,7 @@ def generate_dashboard(metrics_df, csv_filename, output_file="dashboard.html"):
         total_appt_min=("total_appt_duration_min", "sum"),
         total_revenue=("total_revenue", "sum"),
         total_appointments=("num_appointments", "sum"),
-        staff_count=("staff_id", "nunique"),
+        staff_count=("staff_label", "nunique"),
     ).reset_index()
 
     # ── KPI totals ──
@@ -229,14 +278,15 @@ def generate_dashboard(metrics_df, csv_filename, output_file="dashboard.html"):
     total_revenue = metrics_df["total_revenue"].sum()
     total_appointments = metrics_df["num_appointments"].sum()
     avg_rev_per_mile = total_revenue / total_miles if total_miles > 0 else 0
+    staff_col_label = "Staff" if has_staff_name else "Staff ID"
 
     # ── Build figures ──
 
     # 1. Daily Overview - Stacked bar by staff (mileage)
     fig_daily_miles = px.bar(
-        metrics_df, x="date_str", y="total_distance_miles", color="staff_id",
+        metrics_df, x="date_str", y="total_distance_miles", color="staff_label",
         title="Daily Driving Distance by Staff (Miles)",
-        labels={"date_str": "Date", "total_distance_miles": "Miles", "staff_id": "Staff ID"},
+        labels={"date_str": "Date", "total_distance_miles": "Miles", "staff_label": staff_col_label},
     )
     fig_daily_miles.update_layout(barmode="stack", xaxis_tickangle=-45, height=500)
 
@@ -273,33 +323,33 @@ def generate_dashboard(metrics_df, csv_filename, output_file="dashboard.html"):
     # 4. Staff Summary - Mileage vs Revenue scatter
     fig_staff_scatter = px.scatter(
         staff_summary, x="total_miles", y="total_revenue",
-        size="total_appointments", color="staff_id",
+        size="total_appointments", color="staff_label",
         hover_data=["days_worked", "avg_revenue_per_mile"],
         title="Staff Efficiency: Total Miles vs Total Revenue (size = # appointments)",
-        labels={"total_miles": "Total Miles Driven", "total_revenue": "Total Revenue ($)", "staff_id": "Staff ID"},
+        labels={"total_miles": "Total Miles Driven", "total_revenue": "Total Revenue ($)", "staff_label": staff_col_label},
     )
     fig_staff_scatter.update_layout(height=500)
 
     # 5. Staff Daily Breakdown - Heatmap of mileage
     pivot_miles = metrics_df.pivot_table(
-        index="staff_id", columns="date_str", values="total_distance_miles", aggfunc="sum", fill_value=0
+        index="staff_label", columns="date_str", values="total_distance_miles", aggfunc="sum", fill_value=0
     )
     fig_heatmap_miles = px.imshow(
         pivot_miles, aspect="auto",
         title="Daily Mileage Heatmap by Staff",
-        labels=dict(x="Date", y="Staff ID", color="Miles"),
+        labels=dict(x="Date", y=staff_col_label, color="Miles"),
         color_continuous_scale="YlOrRd",
     )
     fig_heatmap_miles.update_layout(height=600, xaxis_tickangle=-45)
 
     # 6. Staff Daily Revenue Heatmap
     pivot_revenue = metrics_df.pivot_table(
-        index="staff_id", columns="date_str", values="total_revenue", aggfunc="sum", fill_value=0
+        index="staff_label", columns="date_str", values="total_revenue", aggfunc="sum", fill_value=0
     )
     fig_heatmap_revenue = px.imshow(
         pivot_revenue, aspect="auto",
         title="Daily Revenue Heatmap by Staff",
-        labels=dict(x="Date", y="Staff ID", color="Revenue ($)"),
+        labels=dict(x="Date", y=staff_col_label, color="Revenue ($)"),
         color_continuous_scale="Greens",
     )
     fig_heatmap_revenue.update_layout(height=600, xaxis_tickangle=-45)
@@ -307,9 +357,9 @@ def generate_dashboard(metrics_df, csv_filename, output_file="dashboard.html"):
     # 7. Efficiency: Revenue per Mile by Staff
     fig_efficiency = px.bar(
         staff_summary.sort_values("avg_revenue_per_mile", ascending=True),
-        x="avg_revenue_per_mile", y="staff_id", orientation="h",
+        x="avg_revenue_per_mile", y="staff_label", orientation="h",
         title="Average Revenue per Mile by Staff (Higher = More Efficient)",
-        labels={"avg_revenue_per_mile": "Revenue per Mile ($)", "staff_id": "Staff ID"},
+        labels={"avg_revenue_per_mile": "Revenue per Mile ($)", "staff_label": staff_col_label},
         color="avg_revenue_per_mile", color_continuous_scale="RdYlGn",
     )
     fig_efficiency.update_layout(height=600)
@@ -317,33 +367,36 @@ def generate_dashboard(metrics_df, csv_filename, output_file="dashboard.html"):
     # 8. Productive Time % by Staff
     fig_productive = px.bar(
         staff_summary.sort_values("avg_productive_pct", ascending=True),
-        x="avg_productive_pct", y="staff_id", orientation="h",
+        x="avg_productive_pct", y="staff_label", orientation="h",
         title="Average Productive Time % by Staff (Appointment Time / Total Working Time)",
-        labels={"avg_productive_pct": "Productive %", "staff_id": "Staff ID"},
+        labels={"avg_productive_pct": "Productive %", "staff_label": staff_col_label},
         color="avg_productive_pct", color_continuous_scale="RdYlGn",
     )
     fig_productive.update_layout(height=600)
 
     # 9. Per-Staff Daily Detail Table
+    table_headers = [staff_col_label, "Date", "Appts", "Miles", "Drive (min)",
+                     "Appt Duration (min)", "Revenue ($)", "Rev/Mile", "Productive %"]
+    table_values = [
+        metrics_df["staff_label"],
+        metrics_df["date_str"],
+        metrics_df["num_appointments"],
+        metrics_df["total_distance_miles"],
+        metrics_df["est_drive_time_min"],
+        metrics_df["total_appt_duration_min"],
+        metrics_df["total_revenue"],
+        metrics_df["revenue_per_mile"],
+        metrics_df["productive_pct"],
+    ]
+
     fig_table = go.Figure(data=[go.Table(
         header=dict(
-            values=["Staff ID", "Date", "Appts", "Miles", "Drive (min)",
-                     "Appt Duration (min)", "Revenue ($)", "Rev/Mile", "Productive %"],
+            values=table_headers,
             fill_color="#636EFA", font=dict(color="white", size=12),
             align="left",
         ),
         cells=dict(
-            values=[
-                metrics_df["staff_id"],
-                metrics_df["date_str"],
-                metrics_df["num_appointments"],
-                metrics_df["total_distance_miles"],
-                metrics_df["est_drive_time_min"],
-                metrics_df["total_appt_duration_min"],
-                metrics_df["total_revenue"],
-                metrics_df["revenue_per_mile"],
-                metrics_df["productive_pct"],
-            ],
+            values=table_values,
             fill_color="lavender",
             align="left",
         ),
@@ -398,7 +451,7 @@ def generate_dashboard(metrics_df, csv_filename, output_file="dashboard.html"):
 <body>
     <div class="header">
         <h1>Route Analysis Dashboard</h1>
-        <p>Data: {csv_filename} | {len(metrics_df["staff_id"].unique())} staff | {len(metrics_df["date_str"].unique())} days | {total_appointments} appointments</p>
+        <p>Data: {csv_filename} | {len(metrics_df["staff_label"].unique())} staff | {len(metrics_df["date_str"].unique())} days | {total_appointments} appointments</p>
     </div>
 
     <div class="kpi-row">
@@ -458,11 +511,12 @@ def generate_dashboard(metrics_df, csv_filename, output_file="dashboard.html"):
     </div>
 """)
 
-    html_parts.append("""
+    order_note = "Appointment order based on start_time." if has_staff_name else "Appointment order based on appointment ID (chronological proxy)."
+    html_parts.append(f"""
     <div class="note">
         Distances are estimated using haversine formula with 1.3x road factor.
         Drive times estimated at 30 mph average urban speed.
-        Appointment order is based on appointment ID (chronological proxy).
+        {order_note}
     </div>
 </body>
 </html>

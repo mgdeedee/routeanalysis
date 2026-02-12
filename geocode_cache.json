@@ -1,0 +1,5546 @@
+{
+  "4000 Mission Avenue,Room 2261,Oceanside,CA,92057": {
+    "latitude": 33.230423397958,
+    "longitude": -117.321981292834
+  },
+  "3668 Harvard Drive,Oceanside,CA,92056": {
+    "latitude": 33.184904173568,
+    "longitude": -117.300054988498
+  },
+  "3720 Arapaho,Carlsbad,CA,92010": {
+    "latitude": 33.153913721048,
+    "longitude": -117.290230308329
+  },
+  "3625 Pontiac Drive,Carlsbad,CA,92010": {
+    "latitude": 33.165648888408,
+    "longitude": -117.310018640622
+  },
+  "4011 Canario St.,Unit D,Carlsbad,CA,92008": {
+    "latitude": 33.147524573443,
+    "longitude": -117.338598499698
+  },
+  "4135 Caminito Cassis,San Diego,CA,92122": {
+    "latitude": 32.857069751647,
+    "longitude": -117.22405509894
+  },
+  "16118 Via Madera Circa,Rancho Santa Fe,CA,92091": {
+    "latitude": 32.993381038771,
+    "longitude": -117.209959420008
+  },
+  "6161 Paseo Valencia,Fairbanks Ranch,CA,92067": {
+    "latitude": 32.988592080301,
+    "longitude": -117.183995469093
+  },
+  "11792 Scripps Cape Vista Point,San Diego,CA,92131": {
+    "latitude": 32.918864578437,
+    "longitude": -117.084282337261
+  },
+  "8398 Katherine Claire Lane,San Diego,CA,92127": {
+    "latitude": 33.014083124238,
+    "longitude": -117.146418726606
+  },
+  "1556 Clifftop Ave,San Marcos,Ca,92078": {
+    "latitude": 33.101148509002,
+    "longitude": -117.187237589242
+  },
+  "1131 Coyote Way,San Marcos,CA,92078": {
+    "latitude": 33.121522652508,
+    "longitude": -117.190666877288
+  },
+  "18021 Cerro Del Sol,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.051890494792,
+    "longitude": -117.144451326292
+  },
+  "8317 Katherine Claire Lane,San Diego,CA,92127": {
+    "latitude": 33.015107308987,
+    "longitude": -117.147793274907
+  },
+  "15936 Avenida Calma,Rancho Santa Fe,CA,92091": {
+    "latitude": 32.988026679022,
+    "longitude": -117.215037176951
+  },
+  "519 Lupine Way,Oceanside,CA,92057": {
+    "latitude": 33.217655161031,
+    "longitude": -117.308567146449
+  },
+  "1016 North Drive,Vista,CA,92083": {
+    "latitude": 33.213403566374,
+    "longitude": -117.251988378005
+  },
+  "1935 WillowBrook Drive,Oceanside,CA,92056": {
+    "latitude": 33.229049729756,
+    "longitude": -117.260804715222
+  },
+  "1418 Willowspring Dr N,Encinitas,CA,92024": {
+    "latitude": 33.05987744269,
+    "longitude": -117.255349940274
+  },
+  "332 Bandini Place,Vista,CA,92083": {
+    "latitude": 33.191446081359,
+    "longitude": -117.240993584153
+  },
+  "1311 Greenlake Drive,Encinitas,CA,92007": {
+    "latitude": 33.033729131815,
+    "longitude": -117.270258496176
+  },
+  "18547 Aliso Canyon Road,Rancho Cielo Equestrian Facility,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.04455,
+    "longitude": -117.17288
+  },
+  "1790 Lemon Tree Ct,San Marcos,CA,92078": {
+    "latitude": 33.097420825203,
+    "longitude": -117.180759048639
+  },
+  "2460 Bear Valley Parkway,Unit 14,Escondido,CA,92027": {
+    "latitude": 33.139399072686,
+    "longitude": -117.041922042632
+  },
+  "1318 Vista Colina Drive,San Marcos,CA,92078": {
+    "latitude": 33.119137791507,
+    "longitude": -117.188590344595
+  },
+  "1535 Crescent Place,San Marcos,CA,92078": {
+    "latitude": 33.099676688714,
+    "longitude": -117.206908239614
+  },
+  "18203 Via De Sueno,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.042966617757,
+    "longitude": -117.212915214343
+  },
+  "517 N Rios Ave,Solana Beach,CA,92075": {
+    "latitude": 32.998358296695,
+    "longitude": -117.271323836069
+  },
+  "15844 The River Trail,Del Mar,CA,92014": {
+    "latitude": 32.9545681,
+    "longitude": -117.2484339
+  },
+  "17460 Via Cuatro Caminos,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.031636841144,
+    "longitude": -117.176528031554
+  },
+  "2815 Sugarman Court,San Diego,CA,92037": {
+    "latitude": 32.863072870701,
+    "longitude": -117.241993964297
+  },
+  "3857 Wildwood Rd,San Diego,CA,92107": {
+    "latitude": 32.734153332531,
+    "longitude": -117.237844251673
+  },
+  "5109 middleton rd,San Diego,CA,92109": {
+    "latitude": 32.812259007624,
+    "longitude": -117.23161934746
+  },
+  "4954 Orleck Place,San Diego,CA,92124": {
+    "latitude": 32.822121504443,
+    "longitude": -117.108263654011
+  },
+  "164 Southern Rd,El Cajon,CA,92020": {
+    "latitude": 32.795703994481,
+    "longitude": -116.998292560223
+  },
+  "7485 Volclay Dr,San Diego,CA,92119": {
+    "latitude": 32.811679734295,
+    "longitude": -117.041913996004
+  },
+  "11442 Bracken Fern Cove,San Diego,CA,92131": {
+    "latitude": 32.92641562546,
+    "longitude": -117.08365310779
+  },
+  "11800 Carmel Creek Road,San Diego,CA,92130": {
+    "latitude": 32.934851717639,
+    "longitude": -117.226011267503
+  },
+  "1519 Avila Ln,Vista,CA,92083": {
+    "latitude": 33.224523627769,
+    "longitude": -117.255381623868
+  },
+  "2543 Glasgow Dr,Carlsbad,CA,92010": {
+    "latitude": 33.155255747566,
+    "longitude": -117.30569818863
+  },
+  "17040 Rendezvous Cir,San Diego,CA,92127": {
+    "latitude": 33.030542835142,
+    "longitude": -117.146544622791
+  },
+  "602 Monterey Drive,Oceanside,CA,92058": {
+    "latitude": 33.209359549549,
+    "longitude": -117.384718664635
+  },
+  "2966 Renault Place,San Diego,CA,92122": {
+    "latitude": 32.848628169321,
+    "longitude": -117.220234962748
+  },
+  "5322 Sweetwater Trail,San Diego,CA,92130": {
+    "latitude": 32.968425137442,
+    "longitude": -117.199813880585
+  },
+  "16655 Zumaque St,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.015946672771,
+    "longitude": -117.179188279984
+  },
+  "8800 Lombard Place,San Diego,CA,92122": {
+    "latitude": 32.86766196269,
+    "longitude": -117.212037545262
+  },
+  "5456 Calzada Del Bosque,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.007342691071,
+    "longitude": -117.215728851601
+  },
+  "2134 View Crest Glen,Escondido,CA,92026": {
+    "latitude": 33.166503926351,
+    "longitude": -117.129391477038
+  },
+  "2953 Paseo Del Sol,Escondido,CA,92025": {
+    "latitude": 33.086797936394,
+    "longitude": -117.037595723308
+  },
+  "3815 Via Reposo,Rancho Santa Fe,CA,92091": {
+    "latitude": 32.987815957976,
+    "longitude": -117.21353363116
+  },
+  "2804 Dove Tail Drive,San Marcos,CA,92078": {
+    "latitude": 33.091909723865,
+    "longitude": -117.213163737773
+  },
+  "4645 La Noria,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.026635569067,
+    "longitude": -117.234198626706
+  },
+  "4910 Loma Laguna Dr,Carlsbad,CA,92008": {
+    "latitude": 33.147958001656,
+    "longitude": -117.30790648484
+  },
+  "3500 Lake Boulevard,Oceanside,CA,92056": {
+    "latitude": 33.179496002001,
+    "longitude": -117.29337000162
+  },
+  "4645 Calle de retiro,Oceanside,CA,92057": {
+    "latitude": 33.249037970439,
+    "longitude": -117.31134842956
+  },
+  "631 Merit Drive,San Marcos,CA,92078": {
+    "latitude": 33.121807846763,
+    "longitude": -117.168760940977
+  },
+  "2605 Emerald Place,Escondido,CA,92027": {
+    "latitude": 33.128609886918,
+    "longitude": -117.032151090462
+  },
+  "3420 Cameo Drive,Oceanside,CA,92056": {
+    "latitude": 33.194097905976,
+    "longitude": -117.308170095695
+  },
+  "5181 Cerulean Way,Oceanside,CA,92057": {
+    "latitude": 33.275686471386,
+    "longitude": -117.298512299218
+  },
+  "648 Via Costa Rica,Vista,CA,92081": {
+    "latitude": 33.187042816164,
+    "longitude": -117.263175536535
+  },
+  "1581 E Washington Ave,Apt P,El Cajon,CA,92019": {
+    "latitude": 32.787048003071,
+    "longitude": -116.923687000258
+  },
+  "1669 Amante Court,Carlsbad,CA,92011": {
+    "latitude": 33.108884125533,
+    "longitude": -117.281300228686
+  },
+  "9889 Caminito Cuadro,San Diego,CA,92129": {
+    "latitude": 32.961646482796,
+    "longitude": -117.114351911989
+  },
+  "342 10th Street,Del Mar,CA,92014": {
+    "latitude": 32.954977253897,
+    "longitude": -117.262478329829
+  },
+  "652 Jocelyn Way,Encinitas,CA,92024": {
+    "latitude": 33.060991229984,
+    "longitude": -117.284280246722
+  },
+  "526 Stratford Ct,Apt A,Del Mar,CA,92014": {
+    "latitude": 32.948968896153,
+    "longitude": -117.263473680831
+  },
+  "2515 Glenridge Road,Escondido,CA,92027": {
+    "latitude": 33.129787775894,
+    "longitude": -117.034330431363
+  },
+  "5022 El Mirlo,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.036606471537,
+    "longitude": -117.226660278266
+  },
+  "7847 Sendero Angelica,San Diego,CA,92127": {
+    "latitude": 32.987752129784,
+    "longitude": -117.146129299489
+  },
+  "8202 Waverly Lane,Unit 18,San Diego,CA,92129": {
+    "latitude": 32.953446383101,
+    "longitude": -117.148976548179
+  },
+  "7730 Calle Amanacer,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.041399201863,
+    "longitude": -117.167214479841
+  },
+  "4619 Rancho Verde Trail,San Diego,CA,92130": {
+    "latitude": 32.969691726831,
+    "longitude": -117.220135218101
+  },
+  "3252 Beven Dr Escondido,Escondido,CA,92027": {
+    "latitude": 33.152664524108,
+    "longitude": -117.026903180884
+  },
+  "1169 Breakaway Dr.,Oceanside,CA,92057": {
+    "latitude": 33.270104417238,
+    "longitude": -117.291859666487
+  },
+  "6829 El Fuerte Street,Carlsbad,CA,92009": {
+    "latitude": 33.105406809182,
+    "longitude": -117.239868565109
+  },
+  "17109 Ralphs Ranch Road,San Diego,CA,92127": {
+    "latitude": 33.026951105812,
+    "longitude": -117.112081841152
+  },
+  "843 Concerto Glen,Escondido,CA,92025": {
+    "latitude": 33.062971286971,
+    "longitude": -117.052612321941
+  },
+  "8559 Run of the Knolls,San Diego,CA,92127": {
+    "latitude": 32.989807665809,
+    "longitude": -117.136825889878
+  },
+  "1002 Calle De Alcala,Escondido,CA,92025": {
+    "latitude": 33.070691941805,
+    "longitude": -117.048383400332
+  },
+  "8481 High Rose Terrace,San Diego,CA,92127": {
+    "latitude": 33.012561222079,
+    "longitude": -117.141858971278
+  },
+  "7500 Viejo Castilla Way,Carlsbad,CA,92009": {
+    "latitude": 33.08836954324,
+    "longitude": -117.251290584566
+  },
+  "5113 Whitman Way,UNIT 205,Carlsbad,CA,92008": {
+    "latitude": 33.139157003322,
+    "longitude": -117.301621985297
+  },
+  "11287 Featherhill Lane,San Diego,CA,92126": {
+    "latitude": 32.923959727829,
+    "longitude": -117.121803088636
+  },
+  "13158 Lomas Verdes Dr.,Poway,CA,92064": {
+    "latitude": 33.029503437239,
+    "longitude": -117.045304978753
+  },
+  "9435 Oviedo Street,San Diego,CA,92129": {
+    "latitude": 32.97061977115,
+    "longitude": -117.125314100238
+  },
+  "17723 Calle Mayor,San Diego,CA,92127": {
+    "latitude": 33.005752099215,
+    "longitude": -117.175498901482
+  },
+  "5430 Imperial Ave apt 2,San Diego,CA,92114": {
+    "latitude": 32.707523607047,
+    "longitude": -117.07809456488
+  },
+  "3044 Bonita Woods Drive,Bonita,CA,91902": {
+    "latitude": 32.678522892612,
+    "longitude": -117.024551973224
+  },
+  "6977 Amherst Street,San Diego,CA,92115": {
+    "latitude": 32.767534344324,
+    "longitude": -117.047466565866
+  },
+  "8370 Yosemite Street,Lemon Grove,CA,91945": {
+    "latitude": 32.747016201144,
+    "longitude": -117.016527977314
+  },
+  "143 Taft ave Unit A,El Cajon,CA,92020": {
+    "latitude": 32.793790447895,
+    "longitude": -116.955707798226
+  },
+  "1623 Woodrun Pl,El Cajon,CA,92019": {
+    "latitude": 32.750450266875,
+    "longitude": -116.923710804863
+  },
+  "3786 Fallon Circle,San Diego,CA,92130": {
+    "latitude": 32.953764727783,
+    "longitude": -117.235570911893
+  },
+  "7070 Black Mountain Road,Arroyo Del Mar,San Diego,CA,92130": {
+    "latitude": 32.977845341162,
+    "longitude": -117.169153341805
+  },
+  "12364 Carmel Country Road,San Diego,CA,92130": {
+    "latitude": 32.948031715559,
+    "longitude": -117.228666402972
+  },
+  "12790 Via Donada,Del Mar,CA,92014": {
+    "latitude": 32.934188792917,
+    "longitude": -117.251947390499
+  },
+  "5536 Mill Creek Rd,San Diego,CA,92130": {
+    "latitude": 32.956005168593,
+    "longitude": -117.198388957045
+  },
+  "1261 Diamond Street,San Diego,CA,92109": {
+    "latitude": 32.801085637324,
+    "longitude": -117.247701872721
+  },
+  "8443 El Paseo Grande,San Diego,CA,92037": {
+    "latitude": 32.859574809139,
+    "longitude": -117.255049281407
+  },
+  "3467 western springs road,Encinitas,CA,92024": {
+    "latitude": 33.064259878855,
+    "longitude": -117.210193023649
+  },
+  "1665 El Camino Del Teatro,San Diego,CA,92037": {
+    "latitude": 32.828899180903,
+    "longitude": -117.258108005513
+  },
+  "5270 Vallery Ct,San Diego,CA,92130": {
+    "latitude": 32.955539847238,
+    "longitude": -117.205190620015
+  },
+  "7595 Navigator Circle,Carlsbad,CA,92011": {
+    "latitude": 33.092172789896,
+    "longitude": -117.308132125674
+  },
+  "17546 Teal Stone Court,San Diego,CA,92127": {
+    "latitude": 33.034743761194,
+    "longitude": -117.113202333969
+  },
+  "2085 Costa Vista Way,Oceanside,CA,92054": {
+    "latitude": 33.190909555736,
+    "longitude": -117.332083162541
+  },
+  "6851 Wigeon Place,Carlsbad,CA,92011": {
+    "latitude": 33.100429341709,
+    "longitude": -117.278781969696
+  },
+  "3330 Avenida Anacapa,Carlsbad,CA,92009": {
+    "latitude": 33.070094312108,
+    "longitude": -117.234310692751
+  },
+  "2685 Roosevelt St,Carlsbad,CA,92008": {
+    "latitude": 33.163217801211,
+    "longitude": -117.350623597089
+  },
+  "518 Hillock Pl,Encinitas,CA,92024": {
+    "latitude": 33.056413663112,
+    "longitude": -117.248254323959
+  },
+  "352 Arroyo Dr,Encinitas,CA,92024": {
+    "latitude": 33.051121371356,
+    "longitude": -117.292608673355
+  },
+  "9808 Paseo Montalban,Apt.4,San Diego,CA,92129": {
+    "latitude": 32.962768358627,
+    "longitude": -117.117419185637
+  },
+  "4746 East Mountain View Drive,San Diego,CA,92116": {
+    "latitude": 32.764149481786,
+    "longitude": -117.113323117193
+  },
+  "6650 Canopy Ridge Ln,San Diego,CA,92121": {
+    "latitude": 32.915635869333,
+    "longitude": -117.179609889714
+  },
+  "5518 San Elijo,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.027898554238,
+    "longitude": -117.215593483865
+  },
+  "2415 Blom St,San Diego,CA,92109": {
+    "latitude": 32.806718569625,
+    "longitude": -117.226868736198
+  },
+  "4732 Gainard Way,San Diego,CA,92124": {
+    "latitude": 32.819380985023,
+    "longitude": -117.113646826294
+  },
+  "1421 Trailwood Avenue,Chula Vista,CA,91913": {
+    "latitude": 32.625822388858,
+    "longitude": -116.981679711948
+  },
+  "6558 Antigua Blvd,San Diego,CA,92124": {
+    "latitude": 32.838280919398,
+    "longitude": -117.087496964767
+  },
+  "2137 Solara Lane,Vista,CA,92081": {
+    "latitude": 33.132447415559,
+    "longitude": -117.222049812424
+  },
+  "7124 Lantana Terrace,Carlsbad,CA,92011": {
+    "latitude": 33.101467775694,
+    "longitude": -117.305714952436
+  },
+  "6438 La Jolla Scenic Drive South,San Diego,CA,92037": {
+    "latitude": 32.832244147003,
+    "longitude": -117.251847645851
+  },
+  "18378 Calle Stellina,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.053249955668,
+    "longitude": -117.19418568406
+  },
+  "16825 Saintsbury Glen,Apt.81,San Diego,CA,92127": {
+    "latitude": 33.021286986754,
+    "longitude": -117.121074574591
+  },
+  "6937 Corte Stagna,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.057275322758,
+    "longitude": -117.185255017683
+  },
+  "16712 circa del norte,Rancho santa fe,CA,92067": {
+    "latitude": 33.001894412097,
+    "longitude": -117.1927175099
+  },
+  "4515 Los Pinos,Rancho santa fe,CA,92067": {
+    "latitude": 33.022095511212,
+    "longitude": -117.237381989713
+  },
+  "16854 Camino Lago De Cristal,San Diego,CA,92127": {
+    "latitude": 33.001659509261,
+    "longitude": -117.180835575415
+  },
+  "14777 Rancho Santa Fe Farms Rd,Rancho Santa Fe,CA,92091": {
+    "latitude": 32.980950634452,
+    "longitude": -117.180918807714
+  },
+  "13712 Mercado,Del Mar,CA,92014": {
+    "latitude": 32.947452945145,
+    "longitude": -117.251246495755
+  },
+  "6930 Via Del Charro,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.0499870484,
+    "longitude": -117.184363853738
+  },
+  "16762 Calle Corta,Poway,CA,92064": {
+    "latitude": 33.016637425412,
+    "longitude": -117.046878681074
+  },
+  "10978 Serafina Ln,#66,San Diego,CA,92128": {
+    "latitude": 32.947352320397,
+    "longitude": -117.092699025335
+  },
+  "2143 David Way,Del Mar,CA,92014": {
+    "latitude": 32.968228539903,
+    "longitude": -117.263431184582
+  },
+  "8472 Old Stonefield Chase,San Diego,CA,92127": {
+    "latitude": 33.016773882795,
+    "longitude": -117.138799911895
+  },
+  "598 Telegraph Canyon Road,Chula Vista,CA,91910": {
+    "latitude": 32.627665862733,
+    "longitude": -117.037023826054
+  },
+  "240 Cypress Street,Chula Vista,CA,91910": {
+    "latitude": 32.640092662834,
+    "longitude": -117.07667919671
+  },
+  "1457 Fuerte Heights Lane,El Cajon,CA,92019": {
+    "latitude": 32.762643966248,
+    "longitude": -116.928985201255
+  },
+  "1633 Hollow Place,El Cajon,CA,92019": {
+    "latitude": 32.764860225266,
+    "longitude": -116.925000109209
+  },
+  "10146 Keppler Dr,San Diego,CA,92124": {
+    "latitude": 32.822551649447,
+    "longitude": -117.110758673917
+  },
+  "14445 Emerald Lane,Del Mar,CA,92014": {
+    "latitude": 32.977149902367,
+    "longitude": -117.189621486324
+  },
+  "6023 Del Mar Mesa Rd,San Diego,CA,92130": {
+    "latitude": 32.941696128315,
+    "longitude": -117.194406714847
+  },
+  "5134 Rancho Verde Trail,San Diego,CA,92130": {
+    "latitude": 32.971797931461,
+    "longitude": -117.209192559686
+  },
+  "7638 St Andrews Rd,San Diego,CA,92067": {
+    "latitude": 32.991598920427,
+    "longitude": -117.177354822484
+  },
+  "6162 Lemonglaze Ct,San Diego,CA,92130": {
+    "latitude": 32.971245354494,
+    "longitude": -117.193317737986
+  },
+  "16750 Via De Los Rosales,Del Mar,CA,92014": {
+    "latitude": 32.9545681,
+    "longitude": -117.2484339
+  },
+  "7717 La Orquidia,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.044040884377,
+    "longitude": -117.169418668919
+  },
+  "1148 Championship Rd,Oceanside,CA,92057": {
+    "latitude": 33.27694828309,
+    "longitude": -117.285898121673
+  },
+  "687 Paseo Rio,Vista,CA,92081": {
+    "latitude": 33.187364010693,
+    "longitude": -117.268192859957
+  },
+  "2585 Fire Mountain Drive,Oceanside,CA,92054": {
+    "latitude": 33.190609315965,
+    "longitude": -117.337495189783
+  },
+  "2030 South Tremont Street,Apt 4,Oceanside,CA,92054": {
+    "latitude": 33.170688926787,
+    "longitude": -117.359323761128
+  },
+  "3367 Summer Set Way,Oceanside,CA,92056": {
+    "latitude": 33.194264663939,
+    "longitude": -117.315093463899
+  },
+  "630 Magnolia Ave,Carlsbad,CA,92008": {
+    "latitude": 33.154353016594,
+    "longitude": -117.342322411641
+  },
+  "417 Bridoon Terrace,Encinitas,CA,92024": {
+    "latitude": 33.074751171784,
+    "longitude": -117.20484478269
+  },
+  "18586 aceituno st,San Diego,CA,92128": {
+    "latitude": 33.042770481223,
+    "longitude": -117.047317808982
+  },
+  "7977 Camino de la Dora,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.043264007682,
+    "longitude": -117.16343323568
+  },
+  "11714 Ridge Run Way,San Diego,CA,92131": {
+    "latitude": 32.93120454202,
+    "longitude": -117.103604719557
+  },
+  "444 South Cedros Avenue,OFFICE: Suite 235,Solana Beach,CA,92075": {
+    "latitude": 32.986649197054,
+    "longitude": -117.268925438295
+  },
+  "4549 Vereda Mar De Ponderosa,San Diego,CA,92130": {
+    "latitude": 32.921633665879,
+    "longitude": -117.217023017452
+  },
+  "14131 Old El Camino Real,San Diego,CA,92130": {
+    "latitude": 32.971725553727,
+    "longitude": -117.231770389356
+  },
+  "3791 Fallon Circle,San Diego,CA,92130": {
+    "latitude": 32.954045186264,
+    "longitude": -117.235711560229
+  },
+  "1856 Crest Drive,Encinitas,CA,92024": {
+    "latitude": 33.024427440494,
+    "longitude": -117.262819221831
+  },
+  "534 Splitrail Drive,Encinitas,CA,92024": {
+    "latitude": 33.056821903706,
+    "longitude": -117.250144610764
+  },
+  "843 Requeza St,Encinitas,Ca,92024": {
+    "latitude": 33.043085221687,
+    "longitude": -117.273940498603
+  },
+  "533 3rd Street,Encinitas,CA,92024": {
+    "latitude": 33.045172776582,
+    "longitude": -117.295446618132
+  },
+  "3665 Village Drive,Unit B,Carlsbad,CA,92008": {
+    "latitude": 33.151921007387,
+    "longitude": -117.343031017735
+  },
+  "876 Nolbey St,Encinitas,CA,92007": {
+    "latitude": 33.028883637408,
+    "longitude": -117.273003988561
+  },
+  "3192 Sitio Sendero,Carlsbad,CA,92009": {
+    "latitude": 33.103041226558,
+    "longitude": -117.238247337396
+  },
+  "5210 Candlelight St,Oceanside,CA,92056": {
+    "latitude": 33.167609876565,
+    "longitude": -117.260490142396
+  },
+  "2257 montgomery ave,Cardiff,CA,92007": {
+    "latitude": 33.01999814949,
+    "longitude": -117.278070765211
+  },
+  "2336 Moana Place,Carlsbad,CA,92008": {
+    "latitude": 33.171924377406,
+    "longitude": -117.34509003225
+  },
+  "9650 Covey Lane,Escondido,CA,92026": {
+    "latitude": 33.286569869745,
+    "longitude": -117.12626016565
+  },
+  "693 Gemstone Drive,San Marcos,CA,92078": {
+    "latitude": 33.120341307074,
+    "longitude": -117.167335346885
+  },
+  "4571 Sun Valley Road,Del Mar,CA,92014": {
+    "latitude": 32.994562132747,
+    "longitude": -117.234251767972
+  },
+  "10838 Panera St,Mira Mesa,Ca,92126": {
+    "latitude": 32.913825,
+    "longitude": -117.138549
+  },
+  "2071 South El Camino Real,Oceanside,CA,92054": {
+    "latitude": 33.191133855465,
+    "longitude": -117.328474920862
+  },
+  "2225 Terrace Wood Lane,Escondido,CA,92026": {
+    "latitude": 33.161923928727,
+    "longitude": -117.086305812507
+  },
+  "2004 Summit Drive,Escondido,CA,92025": {
+    "latitude": 33.107319978581,
+    "longitude": -117.045689205195
+  },
+  "16728 Camino Sierra Del Sur,Del Mar,CA,92014": {
+    "latitude": 32.9545681,
+    "longitude": -117.2484339
+  },
+  "3200 Paseo Village Way,San Diego,CA,92130": {
+    "latitude": 32.951538703847,
+    "longitude": -117.237531271408
+  },
+  "4563 Coronado Drive,Oceanside,CA,92057": {
+    "latitude": 33.256280647244,
+    "longitude": -117.315550612898
+  },
+  "702 Cathy Lane,Cardiff,CA,92007": {
+    "latitude": 33.033905109872,
+    "longitude": -117.27704247333
+  },
+  "6758 Terrazo Court,San Diego,CA,92130": {
+    "latitude": 32.962613041961,
+    "longitude": -117.173105113755
+  },
+  "2422 Soledad Ct,San Diego,CA,92037": {
+    "latitude": 32.823020784568,
+    "longitude": -117.240069982242
+  },
+  "13307 wyngate pt,San Diego,CA,92130": {
+    "latitude": 32.960058908425,
+    "longitude": -117.211135903937
+  },
+  "6633 Via Dos Valles,San Diego,CA,92067": {
+    "latitude": 32.99855007464,
+    "longitude": -117.181946009948
+  },
+  "13251 Petunia Way,San Diego,CA,92130": {
+    "latitude": 32.960425113775,
+    "longitude": -117.181910805955
+  },
+  "6559 Halite Place,Carlsbad,CA,92009": {
+    "latitude": 33.122548094542,
+    "longitude": -117.26125851146
+  },
+  "705 West Street,Oceanside,CA,92054": {
+    "latitude": 33.187504365662,
+    "longitude": -117.37027010758
+  },
+  "1230 V\u00eda del Cerro,Vista,CA,92084": {
+    "latitude": 33.254107974122,
+    "longitude": -117.224118633766
+  },
+  "5449 Parrolette Court,Oceanside,CA,92057": {
+    "latitude": 33.27876791045,
+    "longitude": -117.292547401643
+  },
+  "3560 Sky Haven Lane,Oceanside,CA,92056": {
+    "latitude": 33.179699263153,
+    "longitude": -117.279744966552
+  },
+  "4316 Sea Bright Place,Carlsebad,CA,92008": {
+    "latitude": 33.149990194081,
+    "longitude": -117.323015787323
+  },
+  "16429 sunstone drive,San Diego,CA,92127": {
+    "latitude": 33.010952902497,
+    "longitude": -117.11212534323
+  },
+  "7708 Top O the Morning Way,San Diego,CA,92127": {
+    "latitude": 33.022290348551,
+    "longitude": -117.160862673615
+  },
+  "3146 Vista Mar,Carlsbad,CA,92009": {
+    "latitude": 33.092268720778,
+    "longitude": -117.242552282867
+  },
+  "13818 Paseo Cardiel,San Diego,CA,92129": {
+    "latitude": 32.965993337783,
+    "longitude": -117.115612131132
+  },
+  "13236 Caminito Mendiola,San Diego,CA,92130": {
+    "latitude": 32.95892621994,
+    "longitude": -117.179972155569
+  },
+  "16653 Avenida Molino Viejo,Rancho Santa Fe,CA,92067": {
+    "latitude": 32.994248817206,
+    "longitude": -117.183458356738
+  },
+  "14901 Tercer Verde Way,Del Mar,CA,92014": {
+    "latitude": 32.986948682455,
+    "longitude": -117.245498521833
+  },
+  "16755 Zumaque,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.017370674302,
+    "longitude": -117.179981291844
+  },
+  "3535 Manchester Avenue,Encinitas,CA,92007": {
+    "latitude": 33.02050806257,
+    "longitude": -117.256681740869
+  },
+  "529 N Cedros Ave,Solana Beach,CA,92075": {
+    "latitude": 32.998329253401,
+    "longitude": -117.273138601926
+  },
+  "6551 Calle Valperizo,La Costa,CA,92009": {
+    "latitude": 33.112654976134,
+    "longitude": -117.233995784649
+  },
+  "1041 Regal Rd,Encinitas,CA,92024": {
+    "latitude": 33.039261984191,
+    "longitude": -117.281228982509
+  },
+  "1275 Hagen Oakes Ct,Escondido,CA,92026": {
+    "latitude": 33.135415154107,
+    "longitude": -117.104081063114
+  },
+  "1631 Avery Road,San Marcos,CA,92078": {
+    "latitude": 33.097460513514,
+    "longitude": -117.201704502665
+  },
+  "1575 West Valley Parkway,Space 31,Escondido,CA,92029": {
+    "latitude": 33.107613177554,
+    "longitude": -117.102852527566
+  },
+  "1877 Matin Circle unit 130,San Marcos,CA,92069": {
+    "latitude": 33.138000049227,
+    "longitude": -117.11760249786
+  },
+  "1138 Harwich Drive,San Marcos,CA,92069": {
+    "latitude": 33.150861953921,
+    "longitude": -117.135152610547
+  },
+  "9378 Sawtooth Way,Rancho Penasquito,CA,92129": {
+    "latitude": 32.963963198924,
+    "longitude": -117.124663999828
+  },
+  "5237 Beachcomber Court,San Diego,CA,92130": {
+    "latitude": 32.952444200848,
+    "longitude": -117.205571158419
+  },
+  "1741 Mallow Court,Carlsbad,CA,92011": {
+    "latitude": 33.098338517872,
+    "longitude": -117.270565106194
+  },
+  "13132 Greer Drive,San Diego,CA,92129": {
+    "latitude": 32.987524351565,
+    "longitude": -117.083793756125
+  },
+  "1260 Santa Lucia Rd,Chula Vista,CA,91913": {
+    "latitude": 32.631218532394,
+    "longitude": -116.992943397254
+  },
+  "813 Auburn Ave,Chula Vista,CA,91913": {
+    "latitude": 32.645813730846,
+    "longitude": -116.992568223268
+  },
+  "5190 Mount Helix Drive,La Mesa,CA,91941": {
+    "latitude": 32.772828649158,
+    "longitude": -116.980274653519
+  },
+  "2680 Buena Vista Avenue,Lemon Grove,CA,91945": {
+    "latitude": 32.735127225861,
+    "longitude": -117.034586452429
+  },
+  "3043 32nd Street,San Diego,CA,92104": {
+    "latitude": 32.737299144611,
+    "longitude": -117.124847814965
+  },
+  "10385 Chaparral Drive,Santee,CA,92071": {
+    "latitude": 32.867312982151,
+    "longitude": -116.979897635514
+  },
+  "2164 Fenton Parkway,Apt 103,San Diego,CA,92108": {
+    "latitude": 32.777385512729,
+    "longitude": -117.128663927842
+  },
+  "10395 Caminito Alvarez,San Diego,CA,92126": {
+    "latitude": 32.90642277473,
+    "longitude": -117.168479979582
+  },
+  "6423 Reflection Drive,San Diego,CA,92124": {
+    "latitude": 32.790548369657,
+    "longitude": -117.110470504086
+  },
+  "3312 zola street,San diego,CA,92106": {
+    "latitude": 32.739156364807,
+    "longitude": -117.221795421663
+  },
+  "5095 Constitution Rd,San Diego,CA,92117": {
+    "latitude": 32.837903440389,
+    "longitude": -117.192989837934
+  },
+  "14392 Garden Trail,San Diego,CA,92127": {
+    "latitude": 32.982861163552,
+    "longitude": -117.164909205011
+  },
+  "2220 Edgehill Rd,Vista,CA,92084": {
+    "latitude": 33.212160446314,
+    "longitude": -117.203118529731
+  },
+  "15014 Luis Street,Poway,CA,92064": {
+    "latitude": 32.986826600035,
+    "longitude": -117.055654785156
+  },
+  "17275 Via Recanto,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.026732673415,
+    "longitude": -117.217935052336
+  },
+  "4318 Navajo Avenue,Oceanside,CA,92056": {
+    "latitude": 33.2119357694,
+    "longitude": -117.281057404951
+  },
+  "9860 La Jolla Farms Road,San Diego,CA,92037": {
+    "latitude": 32.884602752926,
+    "longitude": -117.249977978528
+  },
+  "6305 mimulus,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.029523511897,
+    "longitude": -117.198125932924
+  },
+  "10911 Vereda Sol Del Dios,San Diego,CA,92130": {
+    "latitude": 32.915868886242,
+    "longitude": -117.215479489982
+  },
+  "10763 Esmeralda Drive,San Diego,CA,92124": {
+    "latitude": 32.825840247248,
+    "longitude": -117.097977864136
+  },
+  "7964 Willa Way,San Diego,CA,92119": {
+    "latitude": 32.804770028593,
+    "longitude": -117.024050567776
+  },
+  "1431 Cascade Place,El Cajon,CA,92021": {
+    "latitude": 32.829407794787,
+    "longitude": -116.958585892319
+  },
+  "3340 Del Sol Boulevard,Space 85 ,San Diego,CA,92154": {
+    "latitude": 32.575201141916,
+    "longitude": -117.061540557566
+  },
+  "6002 Del Mar Mesa Road,San Diego,CA,92130": {
+    "latitude": 32.943228130668,
+    "longitude": -117.194205800627
+  },
+  "5196 Sea Mist Court,San Diego,CA,92121": {
+    "latitude": 32.910725624725,
+    "longitude": -117.202324595862
+  },
+  "320 11th Street,Del Mar,CA,92014": {
+    "latitude": 32.955812636277,
+    "longitude": -117.263314759947
+  },
+  "17323 Via De Fortuna,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.025949971297,
+    "longitude": -117.222887583646
+  },
+  "6249 Via Dos Valles,Del Mar,CA,92014": {
+    "latitude": 32.979366861559,
+    "longitude": -117.257059368136
+  },
+  "1640 Stratford Way,Del Mar,CA,92014": {
+    "latitude": 32.961247462296,
+    "longitude": -117.264762649902
+  },
+  "8405 Paseo Del Ocaso,San Diego,CA,92037": {
+    "latitude": 32.859349461673,
+    "longitude": -117.254263645622
+  },
+  "9510 Chesapeake Drive,Clairemont,CA,92123": {
+    "latitude": 32.836149233783,
+    "longitude": -117.123821953835
+  },
+  "6416 Glidden,San Diego,CA,92111": {
+    "latitude": 32.776257560019,
+    "longitude": -117.179452729029
+  },
+  "2390 King Arthur Ct,La Jolla,CA,92037": {
+    "latitude": 32.836166374775,
+    "longitude": -117.24938311486
+  },
+  "4531 Pescadero Avenue,San Diego,CA,92107": {
+    "latitude": 32.734978111803,
+    "longitude": -117.249002408818
+  },
+  "1026 San Julian Drive,San Marcos,CA,92078": {
+    "latitude": 33.124155911209,
+    "longitude": -117.199900298007
+  },
+  "2010 West San Marcos Boulevard,unit 36,San Marcos,CA,92078": {
+    "latitude": 33.134894051186,
+    "longitude": -117.217899010153
+  },
+  "2246 Granby Way,San Marcos,CA,92078": {
+    "latitude": 33.108118480587,
+    "longitude": -117.222150479081
+  },
+  "1762 Star Crest Place,San Marcos,CA,92078": {
+    "latitude": 33.097481426363,
+    "longitude": -117.214022882848
+  },
+  "12506 Cabezon Place,San Diego,CA,92129": {
+    "latitude": 32.945335089669,
+    "longitude": -117.115597798077
+  },
+  "15402 Van Lodensteyn Way,San Diego,CA,92127": {
+    "latitude": 32.987056599458,
+    "longitude": -117.108146872887
+  },
+  "4921 Rancho Del Mar Trail,San Diego,CA,92130": {
+    "latitude": 32.972775219461,
+    "longitude": -117.213925401314
+  },
+  "17285 Avenida De Acacias,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.025863470056,
+    "longitude": -117.203786148319
+  },
+  "5720 Old Carmel Valley Rd,San Diego,CA,92130": {
+    "latitude": 32.956650197951,
+    "longitude": -117.202601701581
+  },
+  "4765 Westridge Drive,Oceanside,CA,92056": {
+    "latitude": 33.216523226917,
+    "longitude": -117.272193626162
+  },
+  "6048 Castleton Dr,San Diego,CA,92117": {
+    "latitude": 32.824675414164,
+    "longitude": -117.171346590468
+  },
+  "1656 Corte Verano,Oceanside,CA,92056": {
+    "latitude": 33.219534006538,
+    "longitude": -117.282928078101
+  },
+  "266 Rancho Del Oro Dr,Oceanside,CA,92057": {
+    "latitude": 33.223643486027,
+    "longitude": -117.318480842429
+  },
+  "2378 casa hermosa ct,Encinitas,CA,92024": {
+    "latitude": 33.057745170341,
+    "longitude": -117.230157040632
+  },
+  "7807 Segovia Way,Carlsbad,Ca,92009": {
+    "latitude": 33.08102858862,
+    "longitude": -117.24990337959
+  },
+  "6945 Corte Langosta,Carlsbad,CA,92009": {
+    "latitude": 33.10240395046,
+    "longitude": -117.238610944356
+  },
+  "231 Barbara Avenue,Solana Beach,CA,92075": {
+    "latitude": 32.99416970621,
+    "longitude": -117.26929764034
+  },
+  "2994 Carrillo Way,Carlsbad,CA,92009": {
+    "latitude": 33.11701830156,
+    "longitude": -117.235117031836
+  },
+  "2356 Rue De Anne,San Diego,CA,92037": {
+    "latitude": 32.843326615562,
+    "longitude": -117.252821371543
+  },
+  "660 S 66th St,San Diego,CA,92114": {
+    "latitude": 32.698444622894,
+    "longitude": -117.057220692307
+  },
+  "5872 Chaumont Dr,San Diego,CA,92114": {
+    "latitude": 32.724342147226,
+    "longitude": -117.071001379318
+  },
+  "720 Toulon Court,San Diego,CA,92109": {
+    "latitude": 32.786495426105,
+    "longitude": -117.253780680361
+  },
+  "7705 Volclay Drive,San Diego,CA,92119": {
+    "latitude": 32.814770812548,
+    "longitude": -117.044618836159
+  },
+  "4206 Olive Ave,La Mesa,CA,91941": {
+    "latitude": 32.755231974998,
+    "longitude": -117.033717668165
+  },
+  "6639 San Miguel Avenue,Lemon Grove,CA,91945": {
+    "latitude": 32.733657584867,
+    "longitude": -117.054830508798
+  },
+  "10110 Pinewood View,Santee,CA,92071": {
+    "latitude": 32.864832483635,
+    "longitude": -116.976980733209
+  },
+  "1415 Camanito Garibay,Chula Vista,CA,91915": {
+    "latitude": 32.630948677022,
+    "longitude": -116.962291531713
+  },
+  "6281 avenida cresta,La Jolla,CA,92037": {
+    "latitude": 32.82324047425,
+    "longitude": -117.278107142671
+  },
+  "9860 Dale Ave,B12,Spring Valley,CA,91977": {
+    "latitude": 32.746367525657,
+    "longitude": -116.984294111367
+  },
+  "840 Muirfield Drive,Oceanside,CA,92058": {
+    "latitude": 33.236396761256,
+    "longitude": -117.347834015893
+  },
+  "1646 Quiet Hills Drive,Oceanside,CA,92056": {
+    "latitude": 33.216967635423,
+    "longitude": -117.277844202368
+  },
+  "303 Lado De Loma Drive,A,Vista,CA,92083": {
+    "latitude": 33.196628905459,
+    "longitude": -117.242953356934
+  },
+  "3522 Wild Oak Lane,Escondido,CA,92027": {
+    "latitude": 33.130418785443,
+    "longitude": -117.006615035705
+  },
+  "405 South Barnwell Street,Oceanside,CA,92054": {
+    "latitude": 33.202475324833,
+    "longitude": -117.347564621525
+  },
+  "2037 Via Ladeta,San Diego,CA,92037": {
+    "latitude": 32.824503207963,
+    "longitude": -117.250110496418
+  },
+  "6720 Muirlands Drive,San Diego,CA,92037": {
+    "latitude": 32.831949439287,
+    "longitude": -117.262933048076
+  },
+  "11460 Hadar Drive,San Diego,CA,92126": {
+    "latitude": 32.933809930894,
+    "longitude": -117.14063730889
+  },
+  "3816 Rancho La Bella,San Diego,CA,92130": {
+    "latitude": 32.972395519247,
+    "longitude": -117.232589049839
+  },
+  "11790 Clearwood Court,San Diego,CA,92131": {
+    "latitude": 32.922821507288,
+    "longitude": -117.076608118171
+  },
+  "1125 Avocado Summit Drive,El Cajon,CA,92019": {
+    "latitude": 32.776167286921,
+    "longitude": -116.922205750329
+  },
+  "1543 Hacienda Drive,El Cajon,CA,92020": {
+    "latitude": 32.816458634481,
+    "longitude": -116.988260344131
+  },
+  "3262 Citrus St,Lemon Grove,CA,91945": {
+    "latitude": 32.741053901958,
+    "longitude": -117.04100279931
+  },
+  "10707 Jamacha Blvd space 165,Spring Valley,CA,91978": {
+    "latitude": 32.726896699856,
+    "longitude": -116.963512104453
+  },
+  "18385 Saint Etienne Lane,San Diego,CA,92128": {
+    "latitude": 33.044516850749,
+    "longitude": -117.060053775581
+  },
+  "4454 Kansas Street,San Diego,CA,92116": {
+    "latitude": 32.758336631934,
+    "longitude": -117.131689794889
+  },
+  "6701 Avenida Manana,San Diego,CA,92037": {
+    "latitude": 32.831715709917,
+    "longitude": -117.266414974475
+  },
+  "2649 Elyssee Street,San Diego,CA,92123": {
+    "latitude": 32.793284935315,
+    "longitude": -117.145183066439
+  },
+  "5811 Rutgers rd,La Jolla,CA,92037": {
+    "latitude": 32.820979246321,
+    "longitude": -117.254783826533
+  },
+  "2337 Calle Chiquita,San Diego,CA,92037": {
+    "latitude": 32.862680388085,
+    "longitude": -117.251209447743
+  },
+  "4411 Coronado Avenue,San Diego,CA,92107": {
+    "latitude": 32.736278773628,
+    "longitude": -117.244691679834
+  },
+  "21420 Harmony Village Drive,Escondido,CA,92029": {
+    "latitude": 33.101063767961,
+    "longitude": -117.133615118048
+  },
+  "2280 Durango Way,San Marcos,CA,92078": {
+    "latitude": 33.108916102494,
+    "longitude": -117.223032087657
+  },
+  "29726 Platanus Drive,Gate Code: 494030,Escondido,CA,92026": {
+    "latitude": 33.255116987627,
+    "longitude": -117.141211636896
+  },
+  "2772 Oakwood Creek Way,Escondido,CA,92027": {
+    "latitude": 33.150858014427,
+    "longitude": -117.039452985413
+  },
+  "3153 Shue Place,Escondido,CA,92027": {
+    "latitude": 33.156030235419,
+    "longitude": -117.028423155206
+  },
+  "1207 Crestview Drive,Encinitas,CA,92007": {
+    "latitude": 33.022639161452,
+    "longitude": -117.266084978947
+  },
+  "15609 Rising River Pl N,San Diego,CA,92127": {
+    "latitude": 33.019169263085,
+    "longitude": -117.148225613473
+  },
+  "330 South Cedros,Solana Beach,CA,92075": {
+    "latitude": 32.988463501906,
+    "longitude": -117.269568330268
+  },
+  "3121 Camino Del Rancho,Encinitas,CA,92024": {
+    "latitude": 33.056240283445,
+    "longitude": -117.216878178165
+  },
+  "7708 Garboso Place,Carlsbad,CA,92009": {
+    "latitude": 33.082475682293,
+    "longitude": -117.239899494331
+  },
+  "12227 Briar knoll way,San Diego,CA,92128": {
+    "latitude": 32.94107930406,
+    "longitude": -117.082624815909
+  },
+  "14350 Community Rd,Poway,CA,92064": {
+    "latitude": 32.973932377272,
+    "longitude": -117.040713135875
+  },
+  "17164 Reflections Circle,San Diego,CA,92127": {
+    "latitude": 33.035392688138,
+    "longitude": -117.151345609292
+  },
+  "12819 Elmfield Ln,Poway,CA,92064": {
+    "latitude": 33.016633863103,
+    "longitude": -117.053188661604
+  },
+  "7694 Sonata Lane,San Diego,CA,92127": {
+    "latitude": 32.992314106316,
+    "longitude": -117.160026159678
+  },
+  "18138 Pacifica Ranch Drive,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.046365437585,
+    "longitude": -117.178462993902
+  },
+  "4655 Rancho verde trail,San Diego,CA,92130": {
+    "latitude": 32.969692145926,
+    "longitude": -117.219078427748
+  },
+  "17277 Russet Street,San Diego,CA,92127": {
+    "latitude": 33.026786233777,
+    "longitude": -117.105949389332
+  },
+  "9086 Meadowrun Way,San Diego,CA,92129": {
+    "latitude": 32.976353495836,
+    "longitude": -117.133297695375
+  },
+  "6104 Castilla st,Santee,CA,92071": {
+    "latitude": 32.834104426594,
+    "longitude": -116.953234801513
+  },
+  "6227 Lake Athabaska Place,San Diego,CA,92119": {
+    "latitude": 32.792623770792,
+    "longitude": -117.009524226659
+  },
+  "1296 Pershing Road,Chula Vista,CA,91913": {
+    "latitude": 32.614676343563,
+    "longitude": -116.996362962293
+  },
+  "3658 Suffolk Drive,San Diego,CA,92115": {
+    "latitude": 32.74449048226,
+    "longitude": -117.050621871394
+  },
+  "315 nova way,Chula vista,CA,91911": {
+    "latitude": 32.624965129711,
+    "longitude": -117.047984254103
+  },
+  "529 Las Estancias Drive,Chula Vista,CA,91910": {
+    "latitude": 32.64947004274,
+    "longitude": -117.018253392083
+  },
+  "6405 Alexandri Circle,Carlsbad,CA,92011": {
+    "latitude": 33.113987405372,
+    "longitude": -117.279244818389
+  },
+  "1786 Valley Oak Way,Oceanside,CA,92056": {
+    "latitude": 33.221872725162,
+    "longitude": -117.259069158351
+  },
+  "4963 Chalet Dr,Oceanside,CA,92057": {
+    "latitude": 33.235093081945,
+    "longitude": -117.286441604275
+  },
+  "319 wind flower way,Oceanside,CA,92057": {
+    "latitude": 33.233378312193,
+    "longitude": -117.305279596385
+  },
+  "4911 Seascape Drive,Oceanside,CA,92057": {
+    "latitude": 33.236493572237,
+    "longitude": -117.290277666082
+  },
+  "1030 Alexandria Drive,San Diego,CA,92107": {
+    "latitude": 32.725699512626,
+    "longitude": -117.249449164257
+  },
+  "1265 Veronica Court,Carlsbad,CA,92011": {
+    "latitude": 33.110735687944,
+    "longitude": -117.298056575143
+  },
+  "2271 Lagoon View Drive,Encinitas,CA,92007": {
+    "latitude": 33.016868598301,
+    "longitude": -117.265293811106
+  },
+  "8762 robin hood lane,La Jolla,CA,92037": {
+    "latitude": 32.865988683359,
+    "longitude": -117.242091194374
+  },
+  "16614 El Zorro Vista,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.014916453052,
+    "longitude": -117.194810052027
+  },
+  "6103 Blue Dawn Trail,San Diego,CA,92130": {
+    "latitude": 32.965184023122,
+    "longitude": -117.189991379711
+  },
+  "139 27th St,Del Mar,CA,92014": {
+    "latitude": 32.97065011364,
+    "longitude": -117.268724775533
+  },
+  "200 Pacific Ave,Solana Beach,CA,92075": {
+    "latitude": 32.992762496226,
+    "longitude": -117.274315756408
+  },
+  "6894 Tradewinds Dr,Carlsbad,CA,92011": {
+    "latitude": 33.106381498792,
+    "longitude": -117.319081824887
+  },
+  "4520 avenida privado,Oceanside,CA,92057": {
+    "latitude": 33.222840122517,
+    "longitude": -117.299867233867
+  },
+  "3216 Via Pescado,Carlsbad,CA,92010": {
+    "latitude": 33.171886030199,
+    "longitude": -117.31809301177
+  },
+  "924 sea wind ct,Carlsbad,Ca,92011": {
+    "latitude": 33.117534774933,
+    "longitude": -117.3139175079
+  },
+  "311 Liberty Way,Oceanside,CA,92057": {
+    "latitude": 33.237761041726,
+    "longitude": -117.309400223805
+  },
+  "525 Nobel Court,Encinitas,CA,92024": {
+    "latitude": 33.040921978206,
+    "longitude": -117.280819694177
+  },
+  "16455 Avenida Cuesta Del Sol,Rancho Santa Fe,CA,92067": {
+    "latitude": 32.995513143481,
+    "longitude": -117.188082317444
+  },
+  "16836 El Zorro Vista,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.017889178832,
+    "longitude": -117.194442505573
+  },
+  "15083 Tierra Alta,Del Mar,CA,92014": {
+    "latitude": 32.989643548145,
+    "longitude": -117.247786194667
+  },
+  "6715 Lago Lindo,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.041298032292,
+    "longitude": -117.187969580846
+  },
+  "5354 El Camino Del Norte,Encinitas,CA,92024": {
+    "latitude": 33.047450852137,
+    "longitude": -117.218293797792
+  },
+  "12078 Wooded Vista Ln,San Diego,CA,92128": {
+    "latitude": 32.93824860963,
+    "longitude": -117.07536600394
+  },
+  "11685 windcrest lane,San Diego,CA,92128": {
+    "latitude": 32.973188531107,
+    "longitude": -117.081654778254
+  },
+  "6935 Quiet Cove Drive,Carlsbad,CA,92011": {
+    "latitude": 33.105788604871,
+    "longitude": -117.311304676026
+  },
+  "12505 Shropshire Lane,San Diego,CA,92128": {
+    "latitude": 33.045951832573,
+    "longitude": -117.063286005083
+  },
+  "7086 Crystalline Dr,Carlsbad,CA,92011": {
+    "latitude": 33.103548750795,
+    "longitude": -117.297440086164
+  },
+  "252 Kolmar,La Jolla,CA,92037": {
+    "latitude": 32.828132613948,
+    "longitude": -117.278911973014
+  },
+  "7065 Bradberry Ct,San Diego,CA,91945": {
+    "latitude": 32.729060739618,
+    "longitude": -117.046136128272
+  },
+  "11965 Chalon Ln,San Diego,CA,92128": {
+    "latitude": 32.966290057155,
+    "longitude": -117.072798291721
+  },
+  "245 Sunset Drive,Encinitas,CA,92024": {
+    "latitude": 33.053091034784,
+    "longitude": -117.293499334386
+  },
+  "10151 Prairie Fawn Dr,San Diego,CA,92127": {
+    "latitude": 33.016675227795,
+    "longitude": -117.114198104066
+  },
+  "28547 Lawrence Welk Court,Escondido,CA,92026": {
+    "latitude": 33.231917262651,
+    "longitude": -117.152900284693
+  },
+  "2485 Monterey Glen,Escondido,CA,92029": {
+    "latitude": 33.082246060056,
+    "longitude": -117.097991442819
+  },
+  "1233 North Ave,Escondido,CA,92026": {
+    "latitude": 33.172721370669,
+    "longitude": -117.080963355061
+  },
+  "4555 Lambeth Court,Carlsbad,CA,92010": {
+    "latitude": 33.15772254167,
+    "longitude": -117.310488446295
+  },
+  "2108 Solara Lane,Vista,CA,92081": {
+    "latitude": 33.132144661216,
+    "longitude": -117.223414386261
+  },
+  "1247 Bellingham Drive,Oceanside,CA,92057": {
+    "latitude": 33.266729485833,
+    "longitude": -117.290657282477
+  },
+  "3597 trieste dr,Carlsbad,CA,92010": {
+    "latitude": 33.165819963052,
+    "longitude": -117.319021894279
+  },
+  "6438 Torreyanna Cir,Carlsbad,CA,92011": {
+    "latitude": 33.118301948122,
+    "longitude": -117.301110856841
+  },
+  "3151 Willow Tree Lane,Escondido,CA,92027": {
+    "latitude": 33.145108447943,
+    "longitude": -117.028168848263
+  },
+  "2436 Timber Creek Lane,Escondido,CA,92027": {
+    "latitude": 33.116992569117,
+    "longitude": -117.003215754872
+  },
+  "1719 Elser Lane,Escondido,CA,92026": {
+    "latitude": 33.147482244832,
+    "longitude": -117.118661802783
+  },
+  "1497 North Las Flores Drive,San Marcos,CA,92069": {
+    "latitude": 33.157152823711,
+    "longitude": -117.199642638303
+  },
+  "1245 Avenida Fragata,San Marcos,CA,92069": {
+    "latitude": 33.16259284651,
+    "longitude": -117.181275960608
+  },
+  "16593 Franzen Farm Road,San Diego,CA,92127": {
+    "latitude": 33.015365345876,
+    "longitude": -117.157571854609
+  },
+  "10460 rancho Carmel Dr,San Diego,CA,92128": {
+    "latitude": 32.969997959663,
+    "longitude": -117.088917529718
+  },
+  "7452 La Mantanza,San Diego,CA,92127": {
+    "latitude": 32.986290451598,
+    "longitude": -117.168536641248
+  },
+  "706 Glorietta Blvd,Coronado,CA,92118": {
+    "latitude": 32.685959778114,
+    "longitude": -117.168920113318
+  },
+  "771 Saint Laurent Place,San Diego,CA,92037": {
+    "latitude": 32.84859234043,
+    "longitude": -117.245105005338
+  },
+  "6874 Fuji Street,San Diego,CA,92139": {
+    "latitude": 32.686014218575,
+    "longitude": -117.045189979042
+  },
+  "1825 La Jolla Rancho Road,San Diego,CA,92037": {
+    "latitude": 32.826054195327,
+    "longitude": -117.254364396098
+  },
+  "926 Leslie Road,El Cajon,CA,92020": {
+    "latitude": 32.783327904895,
+    "longitude": -116.961466081888
+  },
+  "4117 Huerfano Ave,San Diego,CA,92117": {
+    "latitude": 32.816687963352,
+    "longitude": -117.216580955878
+  },
+  "4624 West Point Loma Blvd,San Diego,CA,92107": {
+    "latitude": 32.751479019761,
+    "longitude": -117.236925008351
+  },
+  "2425 Blom Street,San Diego,CA,92109": {
+    "latitude": 32.806598708409,
+    "longitude": -117.226652650734
+  },
+  "2375 Etiwanda Street,San Diego,CA,92107": {
+    "latitude": 32.749109497643,
+    "longitude": -117.236333665082
+  },
+  "7350 Golfcrest Place,#3021,San Diego,CA,92119": {
+    "latitude": 32.802372008004,
+    "longitude": -117.037976010255
+  },
+  "2200 Auto Park Way,Suite A,Escondido,CA,92029": {
+    "latitude": 33.121034741924,
+    "longitude": -117.112083852809
+  },
+  "742 Neptune Ave,Encinitas,CA,92024": {
+    "latitude": 33.061614466394,
+    "longitude": -117.303477403383
+  },
+  "2017 Cassia Road,Carlsbad,CA,92009": {
+    "latitude": 33.113818007109,
+    "longitude": -117.270600813101
+  },
+  "3202 Country Rose Circle,Encinitas,CA,92024": {
+    "latitude": 33.063031008031,
+    "longitude": -117.212854613183
+  },
+  "1258 Skyros Way,Encinitas,CA,92024": {
+    "latitude": 33.071263839058,
+    "longitude": -117.293120807639
+  },
+  "655 Corte Buena Vista,Vista,CA,92084": {
+    "latitude": 33.205596997033,
+    "longitude": -117.234855013543
+  },
+  "1629 Calle Las Casas,Oceanside,CA,92056": {
+    "latitude": 33.219831396462,
+    "longitude": -117.288691474725
+  },
+  "1456 Via Ronda,San Marcos,CA,92069": {
+    "latitude": 33.140933715338,
+    "longitude": -117.123796305211
+  },
+  "2316 Paseo De Laura,Oceanside,CA,92056": {
+    "latitude": 33.182966948106,
+    "longitude": -117.31524752328
+  },
+  "14730 Calle Diegueno,Rancho Santa Fe,CA,92091": {
+    "latitude": 32.981645265093,
+    "longitude": -117.189390410239
+  },
+  "2224 Mountain Ridge Road,Chula Vista,CA,91914": {
+    "latitude": 32.663125839393,
+    "longitude": -116.976227116294
+  },
+  "1428 OCala Ct,Chula Vista,CA,91911": {
+    "latitude": 32.609195249439,
+    "longitude": -117.035628490632
+  },
+  "2829 Echo Ridge Place,Chula Vista,CA,91915": {
+    "latitude": 32.641267554202,
+    "longitude": -116.939353280207
+  },
+  "1793 Reichert Wy,Chula Vista,CA,91913": {
+    "latitude": 32.614545208688,
+    "longitude": -116.975655135222
+  },
+  "1360 Corvidae St,Carlsbad,Ca,92011": {
+    "latitude": 33.095975491729,
+    "longitude": -117.294226799763
+  },
+  "3890 Vista Campana S,unit 41,Oceanside,CA,92057": {
+    "latitude": 33.217614760258,
+    "longitude": -117.324173579609
+  },
+  "4991 Lassen Dr,Oceanside,CA,92056": {
+    "latitude": 33.171011965336,
+    "longitude": -117.256123757575
+  },
+  "677 Montage Road,Oceanside,CA,92057": {
+    "latitude": 33.239136092942,
+    "longitude": -117.284620719629
+  },
+  "1105 South Clementine,Oceanside,CA,92054": {
+    "latitude": 33.186928570823,
+    "longitude": -117.367105855312
+  },
+  "887 La Jolla Rancho Road,San Diego,CA,92037": {
+    "latitude": 32.820076012434,
+    "longitude": -117.266058408313
+  },
+  "2573 Marathon Drive,San Diego,CA,92123": {
+    "latitude": 32.792570545707,
+    "longitude": -117.121429591031
+  },
+  "1625 Clemson Circle,San Diego,CA,92037": {
+    "latitude": 32.821082092273,
+    "longitude": -117.255595781494
+  },
+  "2067 Cecelia Terrace,San Diego,CA,92110": {
+    "latitude": 32.782360800906,
+    "longitude": -117.197746903262
+  },
+  "2251 Penrose Street,San Diego,CA,92110": {
+    "latitude": 32.783518677011,
+    "longitude": -117.194375953262
+  },
+  "1930 West San Marcos Boulevard,Space 366,San Marcos,CA,92078": {
+    "latitude": 33.134693681791,
+    "longitude": -117.215570433631
+  },
+  "922 La Tierra Dr,San Marcos,CA,92078": {
+    "latitude": 33.128794288788,
+    "longitude": -117.210704403562
+  },
+  "1505 La Plaza Dr,San Marcos,CA,92078": {
+    "latitude": 33.116744464783,
+    "longitude": -117.203778856063
+  },
+  "2864 Dove Tail Dr,San Marcos,CA,92078": {
+    "latitude": 33.094372788022,
+    "longitude": -117.211267499817
+  },
+  "816 Applewilde Drive,San Marcos,CA,92078": {
+    "latitude": 33.127185424383,
+    "longitude": -117.186421610967
+  },
+  "1841 Corte Pulsera,Oceanside,CA,92056": {
+    "latitude": 33.219683372052,
+    "longitude": -117.286587868485
+  },
+  "707 California Oaks Drive,Vista,CA,92081": {
+    "latitude": 33.173850287299,
+    "longitude": -117.238296120073
+  },
+  "1379 Corte Alveo,Oceanside,CA,92057": {
+    "latitude": 33.266782710919,
+    "longitude": -117.30495370799
+  },
+  "881 Sunningdale Drive,Oceanside,CA,92057": {
+    "latitude": 33.252321078094,
+    "longitude": -117.31904351959
+  },
+  "4204 Vista Panorama Way,Unit 284,Oceanside,CA,92057": {
+    "latitude": 33.225346521114,
+    "longitude": -117.311908927426
+  },
+  "108 Knoll Rd,Vista,CA,92083": {
+    "latitude": 33.198642825335,
+    "longitude": -117.253775483581
+  },
+  "4634 El Nido,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.004273321947,
+    "longitude": -117.233991593697
+  },
+  "1334 Emeraude Glen,Escondido,CA,92029": {
+    "latitude": 33.081022763197,
+    "longitude": -117.093091466042
+  },
+  "714 Passiflora Avenue,Encinitas,CA,92024": {
+    "latitude": 33.061991191032,
+    "longitude": -117.28317232676
+  },
+  "324 Sycamore Crk,San Marcos,CA,92069": {
+    "latitude": 33.177204138216,
+    "longitude": -117.151704606205
+  },
+  "11715 Lake Grove Ct,San Diego,CA,92131": {
+    "latitude": 32.909439128316,
+    "longitude": -117.081755109635
+  },
+  "15133 Almond Orchard Lane,San Diego,CA,92131": {
+    "latitude": 32.920906242412,
+    "longitude": -117.023001488775
+  },
+  "1401 Reed Avenue,San Diego,CA,92109": {
+    "latitude": 32.794876994004,
+    "longitude": -117.242934330014
+  },
+  "11645 Winding Ridge Drive,San Diego,CA,92131": {
+    "latitude": 32.929599952386,
+    "longitude": -117.105631044649
+  },
+  "3591 Ruffin Road,Unit 227,San Diego,CA,92123": {
+    "latitude": 32.808725993526,
+    "longitude": -117.128262350861
+  },
+  "559 Ballantyne Street,El Cajon,CA,92020": {
+    "latitude": 32.801890132391,
+    "longitude": -116.957866725027
+  },
+  "10950 Brooke Drive,San Diego,CA,92126": {
+    "latitude": 32.919321601707,
+    "longitude": -117.117315669133
+  },
+  "745 Inspiration Lane,Escondido,CA,92025": {
+    "latitude": 33.064695654001,
+    "longitude": -117.053980080902
+  },
+  "17708 Camino De La Mitra,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.038297855779,
+    "longitude": -117.16447552534
+  },
+  "620 Maybritt Circle,San Marcos,CA,92069": {
+    "latitude": 33.156555319743,
+    "longitude": -117.155234309451
+  },
+  "4815 La Jacaranda,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.026020337374,
+    "longitude": -117.229734257436
+  },
+  "10916 Evening Creek Drive East,#45,San Diego,CA,92128": {
+    "latitude": 32.962667566241,
+    "longitude": -117.0910001812
+  },
+  "1084 Fulton Road,San Marcos,CA,92069": {
+    "latitude": 33.152340773098,
+    "longitude": -117.13277349115
+  },
+  "1436 Idaho Ave.,Escondido,CA,92027": {
+    "latitude": 33.114867672843,
+    "longitude": -117.046318183209
+  },
+  "25672 Rue De Lac,Escondido,CA,92026": {
+    "latitude": 33.177933782888,
+    "longitude": -117.104430839934
+  },
+  "4958 Quincy St,San Diego,CA,92109": {
+    "latitude": 32.809810108882,
+    "longitude": -117.228658607802
+  },
+  "3885 Riviera Drive,Unit B,San Diego,CA,92109": {
+    "latitude": 32.789660348925,
+    "longitude": -117.240476085451
+  },
+  "1815 Sweetwater Road,Space 145,Spring Valley,CA,91977": {
+    "latitude": 32.722897400485,
+    "longitude": -117.011450304189
+  },
+  "5970 Jamar Dr,San Diego,CA,92117": {
+    "latitude": 32.831354701347,
+    "longitude": -117.169847235628
+  },
+  "1255 N Broadway,CYPRESS COURT,Escondido,CA,92026": {
+    "latitude": 33.139143,
+    "longitude": -117.089675
+  },
+  "612 Allison Lane,San Marcos,CA,92069": {
+    "latitude": 33.147858424647,
+    "longitude": -117.169333257326
+  },
+  "15777 Paseo Penasco,Escondido,CA,92025": {
+    "latitude": 33.071526192628,
+    "longitude": -116.990835180968
+  },
+  "2191 Camino Robledo,Carlsbad,CA,92009": {
+    "latitude": 33.078425043765,
+    "longitude": -117.260665910906
+  },
+  "237 Treasure Drive,San Marcos,CA,92078": {
+    "latitude": 33.124048622848,
+    "longitude": -117.173281133721
+  },
+  "849 Orion Way,San Marcos,CA,92078": {
+    "latitude": 33.101517522289,
+    "longitude": -117.178168789101
+  },
+  "16074 Avenida Calma,Rancho Santa Fe,CA,92091": {
+    "latitude": 32.991149189412,
+    "longitude": -117.215857346177
+  },
+  "17520 Frondoso Drive,San Diego,CA,92128": {
+    "latitude": 33.031453445103,
+    "longitude": -117.060080010938
+  },
+  "10357 Reserve Drive,Apt 301,San Diego,CA,92127": {
+    "latitude": 33.021373996987,
+    "longitude": -117.116305985076
+  },
+  "17000 Butterfield Trail,Poway,CA,92064": {
+    "latitude": 33.020261089793,
+    "longitude": -117.031726295609
+  },
+  "209 Via Osuna,Rancho Santa Fe,CA,92091": {
+    "latitude": 32.992513553702,
+    "longitude": -117.211662119819
+  },
+  "15838 Babcock Street,San Diego,CA,92127": {
+    "latitude": 33.017271642116,
+    "longitude": -117.129876621594
+  },
+  "8211 Waverly Lane,#25,San Diego,CA,92129": {
+    "latitude": 32.953626216833,
+    "longitude": -117.150507335156
+  },
+  "18136 Avenida Orilla,Cielo,Escondido,CA,92029": {
+    "latitude": 33.051484349673,
+    "longitude": -117.13130012021
+  },
+  "2254 Del Mar Heights Rd,Del Mar,CA,92014": {
+    "latitude": 32.949770834739,
+    "longitude": -117.256431792516
+  },
+  "4999 Bradshaw Ct,San Diego,CA,92130": {
+    "latitude": 32.948883526469,
+    "longitude": -117.20815772992
+  },
+  "4074 Carmel Brooks way,San Diego,CA,92130": {
+    "latitude": 32.941983585685,
+    "longitude": -117.227394449165
+  },
+  "4323 vista de la tierra,Del Mar,Ca,92014": {
+    "latitude": 32.986396901769,
+    "longitude": -117.24094966298
+  },
+  "1786 Fairlead Avenue,Carlsbad,CA,92011": {
+    "latitude": 33.112891052436,
+    "longitude": -117.275495090185
+  },
+  "218 Newport Pier Way,Oceanside,CA,92054": {
+    "latitude": 33.211940672813,
+    "longitude": -117.340996729834
+  },
+  "733 Merit Drive,San Marcos,CA,92078": {
+    "latitude": 33.119406221956,
+    "longitude": -117.167368790678
+  },
+  "7193 Tanager Drive,Carlsbad,CA,92011": {
+    "latitude": 33.097374808554,
+    "longitude": -117.278121811002
+  },
+  "17602 Boca Raton Lane,Poway,CA,92064": {
+    "latitude": 33.030740061323,
+    "longitude": -117.030848291251
+  },
+  "1613 Brome Court,Carlsbad,CA,92011": {
+    "latitude": 33.101662990219,
+    "longitude": -117.280069010928
+  },
+  "4140 chasin st,Oceanside,CA,92056": {
+    "latitude": 33.1997833509,
+    "longitude": -117.286026700067
+  },
+  "1378 Andorra CT,Vista,CA,92081": {
+    "latitude": 33.169105627187,
+    "longitude": -117.2431104338
+  },
+  "921 Wentworth Circle,Vista,CA,92081": {
+    "latitude": 33.167782711409,
+    "longitude": -117.226019146492
+  },
+  "4115 highland drive,Carlsbad,CA,92008": {
+    "latitude": 33.151552748471,
+    "longitude": -117.329189981022
+  },
+  "15428 Via La Gitano,Poway,CA,92064": {
+    "latitude": 32.994114036203,
+    "longitude": -117.057597375036
+  },
+  "16612 Cimarron Crest Dr,San Diego,CA,92127": {
+    "latitude": 33.015046707827,
+    "longitude": -117.115324631853
+  },
+  "13818 Tam O Shanter Ct,Poway,CA,92064": {
+    "latitude": 33.025236755156,
+    "longitude": -117.03326454248
+  },
+  "8261 Waverly Ln Unit 61,San Diego,CA,92129": {
+    "latitude": 32.953626216833,
+    "longitude": -117.150507335156
+  },
+  "2820 Camino Del Mar,Del Mar,CA,92014": {
+    "latitude": 32.97192437247,
+    "longitude": -117.268769702534
+  },
+  "1301 Sea Village Drive,Cardiff,CA,92007": {
+    "latitude": 33.021615814893,
+    "longitude": -117.267210165629
+  },
+  "13363 Wendover Terrace,San Diego,,92130": {
+    "latitude": 32.961130995751,
+    "longitude": -117.209951708657
+  },
+  "6650 Canopy Ridge Ln,Unit 53,San Diego,CA,92121": {
+    "latitude": 32.915635869333,
+    "longitude": -117.179609889714
+  },
+  "671 Quail Gardens Lane,Encinitas,CA,92024": {
+    "latitude": 33.061355172219,
+    "longitude": -117.277597522958
+  },
+  "3255 Sitio Tortuga,Carlsbad,CA,92009": {
+    "latitude": 33.103847314186,
+    "longitude": -117.229237797311
+  },
+  "1704 Willowhaven Road,Encinitas,CA,92024": {
+    "latitude": 33.066145848979,
+    "longitude": -117.254959343586
+  },
+  "539 Verbena Court,Encinitas,CA,92024": {
+    "latitude": 33.055767334558,
+    "longitude": -117.270962324585
+  },
+  "3481 Corte Fortuna,Carlsbad,CA,92009": {
+    "latitude": 33.097375353378,
+    "longitude": -117.223840522218
+  },
+  "14940 Budwin Ln,Poway,CA,92064": {
+    "latitude": 32.985320581582,
+    "longitude": -117.033388091732
+  },
+  "6993 Carnation Drive,Carlsbad,CA,92011": {
+    "latitude": 33.10481395717,
+    "longitude": -117.307168625904
+  },
+  "309 Hutchison Street,Vista,CA,92084": {
+    "latitude": 33.246158116146,
+    "longitude": -117.240474073794
+  },
+  "12609 Robison Blvd Unit 206,Poway,CA,92064": {
+    "latitude": 32.956769262886,
+    "longitude": -117.057673566536
+  },
+  "1945 Dove Lane Unit 306,Carlsbad,CA,92009": {
+    "latitude": 33.102919982329,
+    "longitude": -117.263869977213
+  },
+  "12741 Via Sombras,Poway,CA,92064": {
+    "latitude": 32.993095593058,
+    "longitude": -117.055132341131
+  },
+  "5148 Vail Creek Court,San Diego,CA,92130": {
+    "latitude": 32.94889991309,
+    "longitude": -117.205769641886
+  },
+  "1835 Vesta Dr,Chula Vista,CA,91915": {
+    "latitude": 32.613134157198,
+    "longitude": -116.963809829654
+  },
+  "1244 Via Mil Cumbres,Solana Beach,CA,92075": {
+    "latitude": 32.99731650995,
+    "longitude": -117.244195303528
+  },
+  "1208 Calistoga Avenue,Chula Vista,CA,91913": {
+    "latitude": 32.625494572625,
+    "longitude": -116.999623019714
+  },
+  "2867 Vista Acedera,Carlsbad,CA,92009": {
+    "latitude": 33.075296959409,
+    "longitude": -117.251438692795
+  },
+  "8923 Via Rancho Cielo,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.052681285447,
+    "longitude": -117.131637240356
+  },
+  "6619 Lago Courte,Rancho Santa Fe,CA,92067": {
+    "latitude": 32.976403703436,
+    "longitude": -117.178255960894
+  },
+  "5881 San Elijo Ave,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.031715253848,
+    "longitude": -117.206732052009
+  },
+  "528 Rimini Road,Del Mar,CA,92014": {
+    "latitude": 32.9587591267,
+    "longitude": -117.260577649465
+  },
+  "3951 Avenida Brisa,Rancho Santa Fe,CA,92091": {
+    "latitude": 32.988431944041,
+    "longitude": -117.210636091051
+  },
+  "14732 Encendido,San Diego,CA,92127": {
+    "latitude": 32.994644401127,
+    "longitude": -117.164118540084
+  },
+  "14918 Vall Del Sur Court,San Diego,CA,92127": {
+    "latitude": 32.998729908373,
+    "longitude": -117.125867641124
+  },
+  "11465 Eastview ct,San Diego,CA,92131": {
+    "latitude": 32.927198830492,
+    "longitude": -117.060839914279
+  },
+  "3719 Cresta Bonita Drive,Bonita,CA,91902": {
+    "latitude": 32.657470150226,
+    "longitude": -117.052517522617
+  },
+  "2878 Marathon Drive,San Diego,CA,92123": {
+    "latitude": 32.797462643496,
+    "longitude": -117.12507672474
+  },
+  "630 la cresta heights rd,El Cajon,CA,92021": {
+    "latitude": 32.815491530493,
+    "longitude": -116.872184396196
+  },
+  "1270 Sumner Ave #5,El Cajon,CA,92021": {
+    "latitude": 32.809876158279,
+    "longitude": -116.936998049234
+  },
+  "7459 Bullock Dr,San Diego,CA,92114": {
+    "latitude": 32.698519808566,
+    "longitude": -117.035678698232
+  },
+  "1810 Hillsdale Road,Space 21A,El Cajon,CA,92019": {
+    "latitude": 32.764223871177,
+    "longitude": -116.918198194782
+  },
+  "5060 Sunmeadow Road,Oceanside,CA,92056": {
+    "latitude": 33.229291966757,
+    "longitude": -117.25952111057
+  },
+  "2194 Vista La Nisa,Carlsbad,CA,92009": {
+    "latitude": 33.079349441956,
+    "longitude": -117.260950895614
+  },
+  "2015 Pointer Glen,Escondido,CA,92029": {
+    "latitude": 33.097987358038,
+    "longitude": -117.118498942404
+  },
+  "6115 Mimulus,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.027973823728,
+    "longitude": -117.201169318148
+  },
+  "320 Serpentine Drive,Del Mar,CA,92014": {
+    "latitude": 32.962537018099,
+    "longitude": -117.263482565649
+  },
+  "5285 Village Dr,Oceanside,CA,92057": {
+    "latitude": 33.275546996517,
+    "longitude": -117.291862432515
+  },
+  "414 N Tremont Street,Oceanside,CA,92054": {
+    "latitude": 33.197783470712,
+    "longitude": -117.381983062896
+  },
+  "1632 South Nevada Street,Oceanside,CA,92054": {
+    "latitude": 33.179021209096,
+    "longitude": -117.360995699354
+  },
+  "1776 Troy Lane,Oceanside,CA,92054": {
+    "latitude": 33.185661729977,
+    "longitude": -117.345718004436
+  },
+  "1370 Cassins Street,Carlsbad,CA,92011": {
+    "latitude": 33.095951309938,
+    "longitude": -117.292013139134
+  },
+  "1520 Downs St,Oceanside,CA,92054": {
+    "latitude": 33.190850044224,
+    "longitude": -117.346211195619
+  },
+  "279 Blue Springs Lane,Oceanside,CA,92054": {
+    "latitude": 33.187397580215,
+    "longitude": -117.36157430213
+  },
+  "3813 Via Del Rancho,Oceanside,CA,92056": {
+    "latitude": 33.164389381727,
+    "longitude": -117.258801440363
+  },
+  "12425 Grandee Road,San Diego,CA,92128": {
+    "latitude": 33.026193046489,
+    "longitude": -117.06296514583
+  },
+  "16709 Obispo Lane,San Diego,CA,92128": {
+    "latitude": 33.015876055237,
+    "longitude": -117.070772385723
+  },
+  "17740 Rosedown Place,San Diego,CA,92128": {
+    "latitude": 33.03657847598,
+    "longitude": -117.071406979613
+  },
+  "16315 Gabarda Road,San Diego,CA,92128": {
+    "latitude": 33.00949746883,
+    "longitude": -117.056691626579
+  },
+  "7270 Calle Cristobal,unit 54,San Diego,CA,92126": {
+    "latitude": 32.922250238677,
+    "longitude": -117.168470172756
+  },
+  "1038 Santa Florencia,Solana Beach,CA,92075": {
+    "latitude": 33.006917183756,
+    "longitude": -117.249966914416
+  },
+  "2428 Via Aprilia,Del Mar,CA,92014": {
+    "latitude": 32.934248849253,
+    "longitude": -117.249845460639
+  },
+  "461 15th st,Del Mar,CA,92014": {
+    "latitude": 32.960004635602,
+    "longitude": -117.263127340592
+  },
+  "251 26th St,Del Mar,CA,92014": {
+    "latitude": 32.970300001544,
+    "longitude": -117.266854353839
+  },
+  "2427 Torrejon Pl,Carlsbad,CA,92009": {
+    "latitude": 33.085573444361,
+    "longitude": -117.26066211321
+  },
+  "7057 Sitio Frontera,Carlsbad,CA,92009": {
+    "latitude": 33.101530095144,
+    "longitude": -117.223864159185
+  },
+  "2018 Subida Terrace,Carlsbad,CA,92009": {
+    "latitude": 33.085613070561,
+    "longitude": -117.263739135705
+  },
+  "1863 North Vulcan Ave,Encinitas,CA,92024": {
+    "latitude": 33.080203138795,
+    "longitude": -117.306668477741
+  },
+  "1139 Whispering Highlands Drive,Escondido,CA,92027": {
+    "latitude": 33.128750619073,
+    "longitude": -117.03282130744
+  },
+  "1936 Lejos Drive,Escondido,CA,92025": {
+    "latitude": 33.103592127144,
+    "longitude": -117.062203985202
+  },
+  "13246 San Pasqual Road,Escondido,CA,92025": {
+    "latitude": 33.073372809716,
+    "longitude": -117.044227233643
+  },
+  "2075 Silverado Street,San Marcos,CA,92078": {
+    "latitude": 33.107536022136,
+    "longitude": -117.218864270122
+  },
+  "2384 Fallbrook Place,Escondido,CA,92027": {
+    "latitude": 33.117388362585,
+    "longitude": -117.010584034496
+  },
+  "5126 Whitman Way,#110,Carlsbad,CA,92008": {
+    "latitude": 33.140833236661,
+    "longitude": -117.303420953711
+  },
+  "5611 Foxtail Loop,Carlsbad,CA,92010": {
+    "latitude": 33.142476739894,
+    "longitude": -117.276603429241
+  },
+  "3555 Cameo Drive Unit 59,Oceanside,CA,92056": {
+    "latitude": 33.192249193411,
+    "longitude": -117.306914318962
+  },
+  "1173 Avenida Frontera,Oceanside,CA,92057": {
+    "latitude": 33.220824065255,
+    "longitude": -117.299068438494
+  },
+  "7961 Camino de la Dora,Space E,San Diego,CA,92067": {
+    "latitude": 33.042093055808,
+    "longitude": -117.163596179878
+  },
+  "1844 Horseman's Lane,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.004186722975,
+    "longitude": -117.236931457308
+  },
+  "5450 San Elijo Avenue,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.027205957578,
+    "longitude": -117.215908978701
+  },
+  "10444 Paseo De Linda,San Diego,CA,92127": {
+    "latitude": 33.026258551062,
+    "longitude": -117.110729923989
+  },
+  "427 N Rios Ave,Solana Beach,CA,92075": {
+    "latitude": 32.997832499909,
+    "longitude": -117.271146139722
+  },
+  "100 Main Street,Unit #507,Vista,CA,92084": {
+    "latitude": 33.202249809728,
+    "longitude": -117.24314940965
+  },
+  "2524 Vantage Way,Del Mar,CA,92014": {
+    "latitude": 32.955883630997,
+    "longitude": -117.248912135721
+  },
+  "11395 Cadence Grove Way,San Diego,CA,92130": {
+    "latitude": 32.925332054927,
+    "longitude": -117.213976028009
+  },
+  "14300 Cascade Crossing,Poway,CA,92064": {
+    "latitude": 33.034321606641,
+    "longitude": -117.020887405156
+  },
+  "7729 Canyon Point Lane,San Diego,CA,92126": {
+    "latitude": 32.919963320214,
+    "longitude": -117.15568802187
+  },
+  "5164 Meadows Del Mar,San Diego,CA,92130": {
+    "latitude": 32.941089529982,
+    "longitude": -117.20294460524
+  },
+  "5185 Via Avante,San Diego,CA,92130": {
+    "latitude": 32.972209566726,
+    "longitude": -117.206835065599
+  },
+  "8237 Top O the Morning Way,San Diego,CA,92127": {
+    "latitude": 33.02803253896,
+    "longitude": -117.152908834234
+  },
+  "5527 Cancha de Golf,Rancho Santa Fe,CA,92091": {
+    "latitude": 32.991697282061,
+    "longitude": -117.212656381173
+  },
+  "11613 Alps Way,Escondido,CA,92026": {
+    "latitude": 33.211402345082,
+    "longitude": -117.078212582077
+  },
+  "979 Baylor Dr,San Marcos,CA,92078": {
+    "latitude": 33.096594621007,
+    "longitude": -117.187886348547
+  },
+  "1431 Dolphin Ct,San Marcos,CA,92078": {
+    "latitude": 33.102072236641,
+    "longitude": -117.203638962099
+  },
+  "526 Beach Street,Encinitas,CA,92024": {
+    "latitude": 33.045219505692,
+    "longitude": -117.284327017741
+  },
+  "7066 Sitio Corazon,Carlsbad,CA,92009": {
+    "latitude": 33.100964651956,
+    "longitude": -117.223926436726
+  },
+  "14030 Davenport Ave,San Diego,CA,92129": {
+    "latitude": 32.973075459233,
+    "longitude": -117.132834427586
+  },
+  "2971 Winding Fence Way,Chula Vista,CA,91914": {
+    "latitude": 32.663273821894,
+    "longitude": -116.942141939393
+  },
+  "12519 Via Diego,Lakeside,CA,92040": {
+    "latitude": 32.83690695783,
+    "longitude": -116.916604459713
+  },
+  "608 Pidgeon St,San Diego,CA,92114": {
+    "latitude": 32.711360255588,
+    "longitude": -117.047135167311
+  },
+  "619 Alber St,Chula Vista,CA,91911": {
+    "latitude": 32.617326240343,
+    "longitude": -117.029074848177
+  },
+  "2016 South Lanoitan Ave,National City,CA,91950": {
+    "latitude": 32.672710000851,
+    "longitude": -117.076442994679
+  },
+  "3704 Mission Blvd,San Diego,CA,92109": {
+    "latitude": 32.782688323773,
+    "longitude": -117.25277401379
+  },
+  "1550 Alta La Jolla Drive,San Diego,CA,92037": {
+    "latitude": 32.820744469213,
+    "longitude": -117.249030572013
+  },
+  "5150 Bellvale Ave,San Diego,CA,92117": {
+    "latitude": 32.827455188533,
+    "longitude": -117.179828154473
+  },
+  "1575 Calle Camille,San Diego,CA,92037": {
+    "latitude": 32.817437054039,
+    "longitude": -117.245713098555
+  },
+  "5154 Bellvale Ave.,San Diego,CA,92117": {
+    "latitude": 32.827461223503,
+    "longitude": -117.179641573308
+  },
+  "Palisade UTC,San Diego,CA,92122": {
+    "latitude": 32.863402,
+    "longitude": -117.209874
+  },
+  "1227 Armorlite Drive,Apt 204,San Marcos,CA,92069": {
+    "latitude": 33.145676740979,
+    "longitude": -117.187979387673
+  },
+  "1740 Buena Vista Way,Carlsbad,CA,92008": {
+    "latitude": 33.169271211684,
+    "longitude": -117.336846765753
+  },
+  "31528 Calle De Las Rosas,Bonsall,CA,92003": {
+    "latitude": 33.285170008096,
+    "longitude": -117.221694252091
+  },
+  "1325 Caminito Nazario,Unit 45,Chula Vista,CA,91915": {
+    "latitude": 32.633447657634,
+    "longitude": -116.965018332454
+  },
+  "567 4th Avenue,Chula Vista,CA,91910": {
+    "latitude": 32.63094184577,
+    "longitude": -117.080096247178
+  },
+  "479 Shy Lane,Chula vista,CA,91911": {
+    "latitude": 32.607213725619,
+    "longitude": -117.074416250491
+  },
+  "583 Port Harwick,Chula Vista,CA,91913": {
+    "latitude": 32.655848251961,
+    "longitude": -116.987209253473
+  },
+  "2539 North Trail Court,Chula Vista,CA,91914": {
+    "latitude": 32.667195965847,
+    "longitude": -116.96220612012
+  },
+  "1780 Fairlead Ave,Carlsbad,CA,92011": {
+    "latitude": 33.112891052436,
+    "longitude": -117.275495090185
+  },
+  "4809 Cardiff Bay Dr,Oceanside,CA,92057": {
+    "latitude": 33.257107186717,
+    "longitude": -117.311642466724
+  },
+  "5141 Don Ricardo Drive,Carlsbad,CA,92010": {
+    "latitude": 33.149502870231,
+    "longitude": -117.292104334241
+  },
+  "3521 Amber Ln,Oceanside,CA,92056": {
+    "latitude": 33.180053105196,
+    "longitude": -117.274299411697
+  },
+  "1718 Orange Blossom Way,Encinitas,CA,92024": {
+    "latitude": 33.059977774071,
+    "longitude": -117.2580537746
+  },
+  "13433 Frey Court,Poway,CA,92064": {
+    "latitude": 32.95914783746,
+    "longitude": -117.011908123741
+  },
+  "11429 Oak Creek Drive,Lakeside,CA,92040": {
+    "latitude": 32.884917116205,
+    "longitude": -116.954539277104
+  },
+  "1327 Capistrano Avenue,Spring Valley,CA,91977": {
+    "latitude": 32.718308601863,
+    "longitude": -116.990109140514
+  },
+  "6998 Caminito Curva,San Diego,CA,92119": {
+    "latitude": 32.803817802483,
+    "longitude": -117.037351474649
+  },
+  "1473 Merritt Dr,El Cajon,CA,92020": {
+    "latitude": 32.778260080506,
+    "longitude": -116.934951523754
+  },
+  "4836 Twain avenue,San Diego,CA,92120": {
+    "latitude": 32.78484494555,
+    "longitude": -117.090149501846
+  },
+  "1473 Merritt Drive,El Cajon,CA,92020": {
+    "latitude": 32.778260080506,
+    "longitude": -116.934951523754
+  },
+  "16466 Newcomb Street,San Diego,CA,92127": {
+    "latitude": 33.011487248825,
+    "longitude": -117.13074171782
+  },
+  "4942 amador drive,Oceanside,CA,92056": {
+    "latitude": 33.172639018471,
+    "longitude": -117.257802988057
+  },
+  "1247 Longfellow Road,Vista,CA,92081": {
+    "latitude": 33.166174936651,
+    "longitude": -117.234846715459
+  },
+  "1200 Stagecoach Trail Loop,Chula Vista,CA,91915": {
+    "latitude": 32.639611457772,
+    "longitude": -116.946829686382
+  },
+  "2472 Canyon Creek Road,Escondido,CA,92025": {
+    "latitude": 33.09248669217,
+    "longitude": -117.047785100084
+  },
+  "1971 North Nutmeg Street,Escondido,CA,92026": {
+    "latitude": 33.152546800278,
+    "longitude": -117.107339779431
+  },
+  "2428 Badger Ln,Carlsbad,CA,92010": {
+    "latitude": 33.144108277347,
+    "longitude": -117.281137452126
+  },
+  "8361 Santaluz Village Green East,San Diego,CA,92127": {
+    "latitude": 32.996624625752,
+    "longitude": -117.147513319341
+  },
+  "943 Armacost Road,San Diego,CA,92114": {
+    "latitude": 32.71554994989,
+    "longitude": -117.039066914953
+  },
+  "3501 Unida Place,San Diego,CA,92123": {
+    "latitude": 32.806637893807,
+    "longitude": -117.137097631179
+  },
+  "4586 pauling ave,San Diego,CA,92122": {
+    "latitude": 32.85958252049,
+    "longitude": -117.195046002602
+  },
+  "5280 Jamestown Road,San Diego,CA,92117": {
+    "latitude": 32.841779190508,
+    "longitude": -117.195781514605
+  },
+  "4086 Sequoia Street,San Diego,CA,92109": {
+    "latitude": 32.794926782509,
+    "longitude": -117.234766752103
+  },
+  "1125 Lake Ridge Dr,San Marcos,CA,92078": {
+    "latitude": 33.127240074392,
+    "longitude": -117.216371240661
+  },
+  "1255 North Broadway,Escondido,CA,92026": {
+    "latitude": 33.139086721064,
+    "longitude": -117.090024276213
+  },
+  "4807 Glenhaven Drive,Oceanside,CA,92056": {
+    "latitude": 33.21947143563,
+    "longitude": -117.270066718231
+  },
+  "1918 Via Rancho Parkway,Escondido,CA,92029": {
+    "latitude": 33.086415973067,
+    "longitude": -117.107525354767
+  },
+  "1583 Andorre Glen,Escondido,CA,92029": {
+    "latitude": 33.081717539151,
+    "longitude": -117.102222376085
+  },
+  "5348 Wild Blossom Terrace,San Diego,CA,92121": {
+    "latitude": 32.911193795926,
+    "longitude": -117.200026361831
+  },
+  "8397 katherine claire lane,San Diego,CA,92127": {
+    "latitude": 33.013987612451,
+    "longitude": -117.146927172852
+  },
+  "2473 Montgomery Avenue,Encinitas,CA,92007": {
+    "latitude": 33.016746515882,
+    "longitude": -117.275768424047
+  },
+  "4505 La Noria,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.025045773492,
+    "longitude": -117.235772748122
+  },
+  "13595 Kibbings Road,Del Mar Hights,CA,92130": {
+    "latitude": 32.962952173763,
+    "longitude": -117.22767532674
+  },
+  "5720 Old Carmel Valley Road,Casita 8,San Diego,CA,92130": {
+    "latitude": 32.956650197951,
+    "longitude": -117.202601701581
+  },
+  "20063 elfin forest lane,Escondido,CA,92029": {
+    "latitude": 33.07611239286,
+    "longitude": -117.172500694717
+  },
+  "17543 Via Del Bravo,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.033213267584,
+    "longitude": -117.177316014272
+  },
+  "4490 Collwood Boulevard ,Apt 52,San Diego,CA,92115": {
+    "latitude": 32.759321589376,
+    "longitude": -117.080510061737
+  },
+  "1228 La Vida Ct,Chula Vista,CA,91915": {
+    "latitude": 32.642707104163,
+    "longitude": -116.955663122682
+  },
+  "828 Lehigh Ave.,Chula Vista,CA,91913": {
+    "latitude": 32.648074120585,
+    "longitude": -116.980649240772
+  },
+  "215 San Miguel Drive,Chula Vista,CA,91911": {
+    "latitude": 32.623716268048,
+    "longitude": -117.069207903496
+  },
+  "7880 Highgate Lane,La Mesa,CA,91942": {
+    "latitude": 32.786570486048,
+    "longitude": -117.027600471409
+  },
+  "13205 Mystic Way,El Cajon,CA,92021": {
+    "latitude": 32.832261623271,
+    "longitude": -116.910075460053
+  },
+  "5510 Marengo Avenue,La Mesa,CA,91942": {
+    "latitude": 32.778784536188,
+    "longitude": -117.023006937012
+  },
+  "5606 Amaya Drive,Unit 4,La Mesa,CA,91942": {
+    "latitude": 32.787019504601,
+    "longitude": -117.000755750109
+  },
+  "3120 Smith Place,Escondido,CA,92027": {
+    "latitude": 33.158646101672,
+    "longitude": -117.028915592017
+  },
+  "1612 Aryana Drive,Encinitas,CA,92024": {
+    "latitude": 33.078240893352,
+    "longitude": -117.276519358753
+  },
+  "3004 Via Conquistador,Carlsbad,CA,92009": {
+    "latitude": 33.117123536354,
+    "longitude": -117.235529589111
+  },
+  "3207 San Tomas Dr,Oceanside,CA,92056": {
+    "latitude": 33.198289402387,
+    "longitude": -117.31277595149
+  },
+  "18173 Verano Dr,San Diego,CA,92128": {
+    "latitude": 33.04136487797,
+    "longitude": -117.067769149816
+  },
+  "730 Herder Lane,Encinitas,CA,92024": {
+    "latitude": 33.040791067074,
+    "longitude": -117.27686525986
+  },
+  "647 Paseo Rio,Vista,CA,92081": {
+    "latitude": 33.188553067478,
+    "longitude": -117.267789690414
+  },
+  "167 Helmlock Ave,Carlsbad,CA,92008": {
+    "latitude": 33.149234146415,
+    "longitude": -117.345297735811
+  },
+  "2611 Commerce Way,Suit #2,Vista,CA,92081": {
+    "latitude": 33.148179577267,
+    "longitude": -117.22455893514
+  },
+  "6325 Encanto Dr,Carlsbad,CA,92009": {
+    "latitude": 33.122725078428,
+    "longitude": -117.253976481619
+  },
+  "9032 West Bluff Place,Santee,CA,92071": {
+    "latitude": 32.86247306171,
+    "longitude": -117.011773426557
+  },
+  "600 Beach Street,Encinitas,CA,92024": {
+    "latitude": 33.044458554613,
+    "longitude": -117.284583755436
+  },
+  "652 marsolan ave,Solana beach,CA,92075": {
+    "latitude": 32.984517679077,
+    "longitude": -117.267636888319
+  },
+  "15140 Avenida Rorras,San Diego,CA,92128": {
+    "latitude": 32.995041577609,
+    "longitude": -117.072976155706
+  },
+  "12921 corte juana,Poway,CA,92064": {
+    "latitude": 33.013261697727,
+    "longitude": -117.052329516528
+  },
+  "3030 Rancho Diego Cr,El Cajon,CA,92019": {
+    "latitude": 32.736673100263,
+    "longitude": -116.913570043125
+  },
+  "5025 estates way,El Cajon,CA,92020": {
+    "latitude": 32.772246903168,
+    "longitude": -116.954871703384
+  },
+  "1062 Hornblend Street,San Diego,CA,92109": {
+    "latitude": 32.797081141172,
+    "longitude": -117.250355080352
+  },
+  "2842 Monarch St,San Diego,CA,92123": {
+    "latitude": 32.797669550775,
+    "longitude": -117.122819729672
+  },
+  "12446 Del Vino Court,San Diego,CA,92130": {
+    "latitude": 32.942362782984,
+    "longitude": -117.183047978758
+  },
+  "4532 Louisiana Street,San Diego,CA,92116": {
+    "latitude": 32.759786449727,
+    "longitude": -117.140332794348
+  },
+  "25455 Rue De Lac,Escondido,CA,92026": {
+    "latitude": 33.181213998786,
+    "longitude": -117.099457186227
+  },
+  "2823 California Poppy Street,Escondido,CA,92029": {
+    "latitude": 33.100616174331,
+    "longitude": -117.131420903435
+  },
+  "1030 Stephanie Ct,San Marcos,CA,92078": {
+    "latitude": 33.103137786083,
+    "longitude": -117.192464208786
+  },
+  "3296 San Helena Drive,Oceanside,CA,92056": {
+    "latitude": 33.197650659456,
+    "longitude": -117.309322942658
+  },
+  "6152 Camino Selva,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.019616605257,
+    "longitude": -117.199663006328
+  },
+  "6831 Caminito Sueno,Carlsbad,CA,92009": {
+    "latitude": 33.107148484842,
+    "longitude": -117.22948724275
+  },
+  "10335 Spruce Grove Avenue,San Diego,CA,92131": {
+    "latitude": 32.910073680296,
+    "longitude": -117.072221365325
+  },
+  "7986 Doug Hill,San Diego,CA,92127": {
+    "latitude": 32.985277289052,
+    "longitude": -117.152661232814
+  },
+  "1219 East Barham Drive,Space 71,San Marcos,CA,92078": {
+    "latitude": 33.130541831781,
+    "longitude": -117.130631328156
+  },
+  "16181 Veridian Circle,San Diego,CA,92127": {
+    "latitude": 33.009793936745,
+    "longitude": -117.124271726759
+  },
+  "15657 Hidden Valley Dr,Poway,CA,92064": {
+    "latitude": 32.96091721531,
+    "longitude": -116.999556802679
+  },
+  "3485 East Vista Way,Vista,CA,92084": {
+    "latitude": 33.257774148633,
+    "longitude": -117.237206719531
+  },
+  "1711 Grandview St,Oceanside,CA,92054": {
+    "latitude": 33.188639191533,
+    "longitude": -117.356968446335
+  },
+  "168 Kenyatta Drive,San Diego,CA,92114": {
+    "latitude": 32.702001357778,
+    "longitude": -117.069121234617
+  },
+  "6623 jonel way,Bonita,CA,91902": {
+    "latitude": 32.674531095044,
+    "longitude": -116.992360352069
+  },
+  "7645 Volclay Drive,San Diego,CA,92119": {
+    "latitude": 32.813905590593,
+    "longitude": -117.043702275047
+  },
+  "561 Hawthorne Avenue,El Cajon,CA,92020": {
+    "latitude": 32.789377208235,
+    "longitude": -116.982874552246
+  },
+  "1302 Jamestown Drive,Chula Vista,CA,91913": {
+    "latitude": 32.632426574189,
+    "longitude": -116.976645289444
+  },
+  "3718 Mississippi Street,San Diego,CA,92104": {
+    "latitude": 32.745935941462,
+    "longitude": -117.141380783702
+  },
+  "4933 Fir Street,San Diego,CA,92102": {
+    "latitude": 32.72534596395,
+    "longitude": -117.087906085461
+  },
+  "3524 Village Commercial Drive,Oceanside,CA,92056": {
+    "latitude": 33.208006365118,
+    "longitude": -117.314017620923
+  },
+  "13075 Old Winery Road,Poway,CA,92064": {
+    "latitude": 33.031197629418,
+    "longitude": -117.046350621174
+  },
+  "13630 Portofino Drive,Del Mar,CA,92014": {
+    "latitude": 32.946754648791,
+    "longitude": -117.244480874969
+  },
+  "14041 Painted Desert Road,Poway,CA,92064": {
+    "latitude": 33.017322101173,
+    "longitude": -117.026227934764
+  },
+  "1524 Sand Dune Way,San Marcos,CA,92078": {
+    "latitude": 33.106278359474,
+    "longitude": -117.205281898941
+  },
+  "769 Turtle Point Way,San Marcos,CA,92069": {
+    "latitude": 33.159325748291,
+    "longitude": -117.153021067918
+  },
+  "14801 Las Mananas,Rancho Santa Fe,CA,92067": {
+    "latitude": 32.98175852419,
+    "longitude": -117.170362052121
+  },
+  "1849 Lynx Ter,Chula Vista,CA,91915": {
+    "latitude": 32.612899589638,
+    "longitude": -116.963176912145
+  },
+  "764 56th Street,San Diego,CA,92114": {
+    "latitude": 32.713540556242,
+    "longitude": -117.076027168462
+  },
+  "1114 Marysville Ave,Chula Vista,CA,91913": {
+    "latitude": 32.623647452622,
+    "longitude": -117.00563980127
+  },
+  "2928 Winding Fence Way,CHula VIsta,CA,91914": {
+    "latitude": 32.664395697724,
+    "longitude": -116.944831775941
+  },
+  "1333 Camino Linda Drive,San Marcos,CA,92078": {
+    "latitude": 33.121804535911,
+    "longitude": -117.217244048238
+  },
+  "6224 Paseo Colina,Carlsbad,CA,92009": {
+    "latitude": 33.124308084661,
+    "longitude": -117.24455522245
+  },
+  "550 Anchor Way,Carlsbad,CA,92008": {
+    "latitude": 33.152798257374,
+    "longitude": -117.340242526187
+  },
+  "1673 Amante Ct,Carlsbad,CA,92011": {
+    "latitude": 33.108859901833,
+    "longitude": -117.281010382474
+  },
+  "711 Sherwood Dr,Oceanside,CA,92058": {
+    "latitude": 33.236871344613,
+    "longitude": -117.335070808108
+  },
+  "4307 Star Path Way,Oceanside,CA,92056": {
+    "latitude": 33.216095833674,
+    "longitude": -117.301740840684
+  },
+  "1330 Krug Court,Vista,CA,92081": {
+    "latitude": 33.171043062197,
+    "longitude": -117.236014566029
+  },
+  "3632 Alander Ct,Carlsbad,CA,92010": {
+    "latitude": 33.15484507622,
+    "longitude": -117.292280605665
+  },
+  "1510 S Coast Hwy,Oceanside,CA,92054": {
+    "latitude": 33.182186509102,
+    "longitude": -117.366207063834
+  },
+  "3335 fortuna ranch rd,Encinitas,CA,92024": {
+    "latitude": 33.062050451088,
+    "longitude": -117.208148258369
+  },
+  "1869 Avenida Flores,Encinitas,CA,92024": {
+    "latitude": 33.062100113864,
+    "longitude": -117.245490559025
+  },
+  "5111 El Secreto,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.01736388496,
+    "longitude": -117.223028986353
+  },
+  "17161 Alva Road,Unit 1322,San Diego,CA,92127": {
+    "latitude": 33.025332350761,
+    "longitude": -117.104837781333
+  },
+  "16922 Silver Crest Dr,San Diego,CA,92127": {
+    "latitude": 33.023590339824,
+    "longitude": -117.116088055594
+  },
+  "9872 mercy rd APT #6,San Diego,CA,92129": {
+    "latitude": 32.938433179138,
+    "longitude": -117.113307694492
+  },
+  "7771 Tierra Tesoro,San Diego,CA,92127": {
+    "latitude": 32.979565147767,
+    "longitude": -117.157949375528
+  },
+  "7470 Avenida De Palais,Carlsbad,CA,92009": {
+    "latitude": 33.092563596132,
+    "longitude": -117.255321525622
+  },
+  "17265 camino de montecillo,Rancho sante fe,CA,92067": {
+    "latitude": 33.000111036468,
+    "longitude": -117.171355726743
+  },
+  "13293 Courtland Terrace,San Diego,CA,92130": {
+    "latitude": 32.957941849231,
+    "longitude": -117.237613162602
+  },
+  "2814 Ata Dero Court,Carlsbad,Ca,92009": {
+    "latitude": 33.070761469691,
+    "longitude": -117.250343848602
+  },
+  "425 Boudinot Ct,Escondido,CA,92027": {
+    "latitude": 33.153035255686,
+    "longitude": -117.030821720618
+  },
+  "2253 Big Pine Rd,Escondido,CA,92027": {
+    "latitude": 33.122197521442,
+    "longitude": -117.038461993001
+  },
+  "636 Canopy Dr,San Marcos,CA,92069": {
+    "latitude": 33.148381245857,
+    "longitude": -117.168970069461
+  },
+  "1950 Verde Via,Escondido,CA,92027": {
+    "latitude": 33.114064099786,
+    "longitude": -117.037864866218
+  },
+  "3408 Cameo Drive,Oceanside,CA,92056": {
+    "latitude": 33.194097361152,
+    "longitude": -117.308169006048
+  },
+  "1878 Burnt Maple Way,Vista,CA,92081": {
+    "latitude": 33.159178142976,
+    "longitude": -117.253925938743
+  },
+  "1924 Stewart Street,Oceanside,CA,92054": {
+    "latitude": 33.176565521013,
+    "longitude": -117.35414508607
+  },
+  "2715 Waterbury Way,Carlsbad,CA,92010": {
+    "latitude": 33.172017667988,
+    "longitude": -117.31328414628
+  },
+  "2318 Bryant Drive,Carlsbad,CA,92008": {
+    "latitude": 33.143539649036,
+    "longitude": -117.285218684601
+  },
+  "2222 Masters Rd,Carlsbad,CA,92008": {
+    "latitude": 33.142273353013,
+    "longitude": -117.293287188417
+  },
+  "2467 Douglaston Glen,Escondido,CA,92026": {
+    "latitude": 33.167729695871,
+    "longitude": -117.087677594781
+  },
+  "3420 Sagewood Hills Rd,Vista,CA,92084": {
+    "latitude": 33.188006902667,
+    "longitude": -117.185073633299
+  },
+  "717 Dane Drive,San Marcos,CA,92069": {
+    "latitude": 33.156573382745,
+    "longitude": -117.151067246288
+  },
+  "1177 San Marino Drive,San Marcos,CA,92078": {
+    "latitude": 33.124910240585,
+    "longitude": -117.210200818819
+  },
+  "14966 Encendido,San Diego,CA,92127": {
+    "latitude": 32.999898722861,
+    "longitude": -117.154695688353
+  },
+  "3428 Cameo Drive,Unit 56,Oceanside,CA,92056": {
+    "latitude": 33.194041998682,
+    "longitude": -117.307357973097
+  },
+  "17936 Sencillo Drive,San Diego,CA,92128": {
+    "latitude": 33.037568336836,
+    "longitude": -117.06351566923
+  },
+  "16367 Sunny Summit Dr,San Diego,CA,92127": {
+    "latitude": 33.022991243295,
+    "longitude": -117.141125722388
+  },
+  "1124 Sangamon Avenue,Spring Valley,CA,91977": {
+    "latitude": 32.716206043361,
+    "longitude": -116.984685881522
+  },
+  "9487 Pike Road,Santee,CA,92071": {
+    "latitude": 32.850591085316,
+    "longitude": -116.993443964512
+  },
+  "4493 Alamo Drive,La Mesa,CA,92115": {
+    "latitude": 32.759579542447,
+    "longitude": -117.054402109727
+  },
+  "8770 Lamar Street,Spring Valley,CA,91977": {
+    "latitude": 32.738869410352,
+    "longitude": -117.010666428604
+  },
+  "1912 Millenia Avenue,Apt 222,Chula Vista,CA,91915": {
+    "latitude": 32.611614979157,
+    "longitude": -116.966710973981
+  },
+  "1194 Nile Avenue,Chula Vista,CA,91911": {
+    "latitude": 32.617985770394,
+    "longitude": -117.041208658852
+  },
+  "922 Beryl Street,San Diego,CA,92109": {
+    "latitude": 32.803772875482,
+    "longitude": -117.255216248918
+  },
+  "3672 Curlew Street,San Diego,CA,92103": {
+    "latitude": 32.744792482231,
+    "longitude": -117.16809231656
+  },
+  "7083 Deerhurst Court,San Diego,CA,92139": {
+    "latitude": 32.683014042062,
+    "longitude": -117.03878930632
+  },
+  "13391 Del Poniente Road,Poway,CA,92064": {
+    "latitude": 32.990409402638,
+    "longitude": -117.045859944562
+  },
+  "7111 Princess View Drive,San Diego,CA,92120": {
+    "latitude": 32.800696172193,
+    "longitude": -117.077275904397
+  },
+  "1131 Evilo st,El Cajon,CA,92021": {
+    "latitude": 32.802221008019,
+    "longitude": -116.943078449435
+  },
+  "466 West Washington Avenue,Apt 60,El Cajon,CA,92020": {
+    "latitude": 32.788683689567,
+    "longitude": -116.967203913707
+  },
+  "7701 Primavera Way,Carlsbad,CA,92009": {
+    "latitude": 33.082106040363,
+    "longitude": -117.247653844416
+  },
+  "7155 Sitio Caliente,Carlsbad,CA,92009": {
+    "latitude": 33.096109434541,
+    "longitude": -117.226996224945
+  },
+  "1578 S Citrus Ave,Escondido,CA,92027": {
+    "latitude": 33.119044584743,
+    "longitude": -117.042300737017
+  },
+  "1653 N Las Flores Dr,San Marcos,CA,92069": {
+    "latitude": 33.16005899718,
+    "longitude": -117.196721964142
+  },
+  "1142 Bobolink Drive,Vista,CA,92083": {
+    "latitude": 33.21575163082,
+    "longitude": -117.252511241125
+  },
+  "5551 Havenridge Way,San Diego,CA,92130": {
+    "latitude": 32.927436331719,
+    "longitude": -117.197908757812
+  },
+  "1144 South Hale Avenue,Escondido,CA,92029": {
+    "latitude": 33.108104734266,
+    "longitude": -117.109397033746
+  },
+  "6020 El Camino Del Norte,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.045439530651,
+    "longitude": -117.202569515073
+  },
+  "1419 Pershing Road,Chula Vista,CA,91913": {
+    "latitude": 32.616444464129,
+    "longitude": -116.993162248746
+  },
+  "808 Stanford Ave,Chula Vista,CA,91913": {
+    "latitude": 32.648517187987,
+    "longitude": -116.986011060414
+  },
+  "518 Del Corro Ct,Chula Vista,CA,91910": {
+    "latitude": 32.644884638789,
+    "longitude": -117.033769468327
+  },
+  "2715 joshua creek rd,Chula vista,CA,91914": {
+    "latitude": 32.648524857428,
+    "longitude": -116.946426768297
+  },
+  "1017 Plover Way,Oceanside,CA,92057": {
+    "latitude": 33.22505944093,
+    "longitude": -117.298095970088
+  },
+  "4910 Via Arequipa,Carlsbad,CA,92008": {
+    "latitude": 33.148148815682,
+    "longitude": -117.307215983657
+  },
+  "5512 Giovanni Wy,Oceanside,CA,92057": {
+    "latitude": 33.246484,
+    "longitude": -117.295294
+  },
+  "4849 Northerly Street,Oceanside,CA,92056": {
+    "latitude": 33.225046993804,
+    "longitude": -117.270975316535
+  },
+  "6705 Limonite Ct,Carlsbad,CA,92009": {
+    "latitude": 33.109984376053,
+    "longitude": -117.268237116406
+  },
+  "6825 Citrine Drive,Carlsbad,CA,92009": {
+    "latitude": 33.108037259946,
+    "longitude": -117.257034367536
+  },
+  "1660 Cable Street,San Diego,CA,92107": {
+    "latitude": 32.741802764147,
+    "longitude": -117.252839007685
+  },
+  "11306 Camino Playa Cancun,San Diego,CA,92124": {
+    "latitude": 32.839794188198,
+    "longitude": -117.084288791327
+  },
+  "925 South Evans Street,San Diego,CA,92113": {
+    "latitude": 32.698616242362,
+    "longitude": -117.141276596645
+  },
+  "180 Larkspur Glen,Escondido,CA,92025": {
+    "latitude": 33.125446221384,
+    "longitude": -117.074390266591
+  },
+  "1530 East El Norte Parkway ,Space 56,Escondido,CA,92027": {
+    "latitude": 33.148429567529,
+    "longitude": -117.071295919396
+  },
+  "892 Chandelier Ct,San Marcos,CA,92078": {
+    "latitude": 33.105225760073,
+    "longitude": -117.187453423248
+  },
+  "3535 Linda Vista Drive,Space 189,San Marcos,CA,92078": {
+    "latitude": 33.14091535897,
+    "longitude": -117.210766178188
+  },
+  "17855 La Amapola,Cielo,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.041679450796,
+    "longitude": -117.163792316412
+  },
+  "2961 Cape Cod Cir,Carlsbad,CA,92010": {
+    "latitude": 33.164471063374,
+    "longitude": -117.297351908543
+  },
+  "804 Duo Ct,Vista,CA,92084": {
+    "latitude": 33.211808574019,
+    "longitude": -117.239726994764
+  },
+  "3576 Highland Drive,Carlsbad,CA,92008": {
+    "latitude": 33.159166408311,
+    "longitude": -117.33268917414
+  },
+  "4412 Olive Dr,Oceanside,CA,92056": {
+    "latitude": 33.205036624896,
+    "longitude": -117.276488932444
+  },
+  "2235 Cottage Way,Vista,CA,92081": {
+    "latitude": 33.162957710756,
+    "longitude": -117.226228023519
+  },
+  "2033 Alessandro Trail,Vista,CA,92084": {
+    "latitude": 33.216198386259,
+    "longitude": -117.204006340915
+  },
+  "16583 Newcomb Street,San Diego,CA,92127": {
+    "latitude": 33.014274105902,
+    "longitude": -117.127746277083
+  },
+  "8417 Summerdale Rd,Unit B,San Diego,CA,92126": {
+    "latitude": 32.919129530396,
+    "longitude": -117.14191077144
+  },
+  "1684 Lighthouse Rd,San Marcos,CA,92078": {
+    "latitude": 33.106972171509,
+    "longitude": -117.204635989482
+  },
+  "17823 Hunters Ridge Rd,San Diego,CA,92127": {
+    "latitude": 33.03873488821,
+    "longitude": -117.113696866256
+  },
+  "12140 Sage View Road,Poway,CA,92064": {
+    "latitude": 32.952811705392,
+    "longitude": -117.069517195723
+  },
+  "1829 Onyx Ln,Chula Vista,CA,91915": {
+    "latitude": 32.615002860602,
+    "longitude": -116.965111790674
+  },
+  "11215 Oak Creek Dr,Lakeside,CA,92040": {
+    "latitude": 32.881219732985,
+    "longitude": -116.952045996185
+  },
+  "1703 Picket Fence Drive,Chula Vista,CA,91915": {
+    "latitude": 32.624546956562,
+    "longitude": -116.947366379643
+  },
+  "16612 Quietwood Lane,San Diego,CA,92127": {
+    "latitude": 33.022480114839,
+    "longitude": -117.151139917388
+  },
+  "7140 Calabria Court,San Diego,CA,92122": {
+    "latitude": 32.864501440369,
+    "longitude": -117.206318405087
+  },
+  "1513 Marjorie St,Oceanside,CA,92056": {
+    "latitude": 33.235441140474,
+    "longitude": -117.267219385722
+  },
+  "1339 Caminito Laura,Encinitas,CA,92024": {
+    "latitude": 33.060935448418,
+    "longitude": -117.216057170749
+  },
+  "1101 Potter Valley Dr,Chula Vista,CA,91913": {
+    "latitude": 32.639561501629,
+    "longitude": -116.978349833273
+  },
+  "1929 Donahue Dr,El Cajon,CA,92019": {
+    "latitude": 32.756364453936,
+    "longitude": -116.91388126319
+  },
+  "1672 Baum Street,Chula Vista,CA,91913": {
+    "latitude": 32.615320884849,
+    "longitude": -116.981049995648
+  },
+  "8597 Noeline Avenue,San Diego,CA,92114": {
+    "latitude": 32.703703428946,
+    "longitude": -117.021361234142
+  },
+  "1840 Harrils Mill Ave,Chula Vista,CA,91913": {
+    "latitude": 32.638937971852,
+    "longitude": -116.982364513437
+  },
+  "2731 Palmetto Dr,Carlsbad,CA,92009": {
+    "latitude": 33.119846900515,
+    "longitude": -117.252104718821
+  },
+  "3295 Avenida La Cima,Carlsbad,CA,92009": {
+    "latitude": 33.065776039411,
+    "longitude": -117.238126973267
+  },
+  "2813 Rancho Rio Chico,Carlsbad,CA,92009": {
+    "latitude": 33.119284600541,
+    "longitude": -117.244077286331
+  },
+  "755 North Avenue,Vista,CA,92083": {
+    "latitude": 33.215890896141,
+    "longitude": -117.259873318141
+  },
+  "1346 Sugarbush Drive,Vista,CA,92084": {
+    "latitude": 33.187242724554,
+    "longitude": -117.188653460326
+  },
+  "1039 Bridle Path Way,Oceanside,CA,92057": {
+    "latitude": 33.247816769056,
+    "longitude": -117.268987129102
+  },
+  "4405 Sunset Bluffs Way,San Diego,CA,92130": {
+    "latitude": 32.95214882258,
+    "longitude": -117.220922865542
+  },
+  "12575 Spindletop Rd,San Diego,CA,92129": {
+    "latitude": 32.950331584062,
+    "longitude": -117.136023657925
+  },
+  "716 Crescent Drive,Vista,CA,92084": {
+    "latitude": 33.198235590569,
+    "longitude": -117.23353855183
+  },
+  "4785 Oregon St,San Diego,CA,92116": {
+    "latitude": 32.764442722669,
+    "longitude": -117.134927724085
+  },
+  "8480 via Sonoma,La Jolla,CA,92037": {
+    "latitude": 32.860453986963,
+    "longitude": -117.231309971414
+  },
+  "15583 Harrow Lane,Gate Code: #9985,Poway,CA,92064": {
+    "latitude": 32.999072728212,
+    "longitude": -117.021150010182
+  },
+  "13547 cloudcroft ct,Poway,CA,92064": {
+    "latitude": 33.023229163617,
+    "longitude": -117.036366517207
+  },
+  "10922 Ivy Hill Drive,#2,San Diego,CA,92131": {
+    "latitude": 32.937547505338,
+    "longitude": -117.094360486183
+  },
+  "10513 Zenor lane,Unit 32,San Diego,CA,92127": {
+    "latitude": 33.022064414351,
+    "longitude": -117.111863073479
+  },
+  "728 Ballantyne Street,El Cajon,CA,92021": {
+    "latitude": 32.804760557043,
+    "longitude": -116.958397467136
+  },
+  "140 Chamberlain Avenue,El Cajon,CA,92020": {
+    "latitude": 32.78957422487,
+    "longitude": -116.963089405076
+  },
+  "9416 Palomino Ridge Drive,Lakeside,CA,92040": {
+    "latitude": 32.851789529832,
+    "longitude": -116.87805508118
+  },
+  "220 jojo ct,San Diego,CA,92114": {
+    "latitude": 32.705444601693,
+    "longitude": -117.059243916096
+  },
+  "6011 Lago Lindo,Santa Fe,CA,92067": {
+    "latitude": 33.028603095109,
+    "longitude": -117.203987816909
+  },
+  "16209 Via Cazadero,Rancho Santa Fe,CA,92067": {
+    "latitude": 32.994254265444,
+    "longitude": -117.192809375558
+  },
+  "6347 Peach Way,Carmel Valley,CA,92130": {
+    "latitude": 32.960314933658,
+    "longitude": -117.180928363083
+  },
+  "5812 Greycourt Ave,San Diego,CA,92114": {
+    "latitude": 32.692400893519,
+    "longitude": -117.072577428572
+  },
+  "1543 Santa Elena Court,Solana Beach,CA,92075": {
+    "latitude": 33.002168961336,
+    "longitude": -117.237743249739
+  },
+  "10655 Esmeraldas Dr,San Diego,Ca,92124": {
+    "latitude": 32.827132694808,
+    "longitude": -117.100964420056
+  },
+  "1205 Stratford Lane,Carlsbad,CA,92008": {
+    "latitude": 33.165944643862,
+    "longitude": -117.342188971742
+  },
+  "1611 Laurelwood Way,Oceanside,CA,92056": {
+    "latitude": 33.222089062083,
+    "longitude": -117.260841595596
+  },
+  "2339 Shawn Court,Carlsbad,CA,92008": {
+    "latitude": 33.169901488894,
+    "longitude": -117.323467991
+  },
+  "609 seaward ave,Carlsbad,CA,92011": {
+    "latitude": 33.107397930281,
+    "longitude": -117.317430841419
+  },
+  "1758 Promenade Cir,Vista,CA,92083": {
+    "latitude": 33.195314623041,
+    "longitude": -117.277865073307
+  },
+  "1940 Levante Street,Carlsbad,CA,92009": {
+    "latitude": 33.077583063962,
+    "longitude": -117.267775797936
+  },
+  "1867 Avenida Mimosa,Encinitas,CA,92024": {
+    "latitude": 33.060405670228,
+    "longitude": -117.245482512398
+  },
+  "8811 Via Rancho Cielo,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.051598511195,
+    "longitude": -117.134839378826
+  },
+  "4569 Davinici St,San Diego,CA,92130": {
+    "latitude": 32.9422531896,
+    "longitude": -117.218028845833
+  },
+  "5072 Rebel Road,San Diego,CA,92117": {
+    "latitude": 32.837758307735,
+    "longitude": -117.194328679328
+  },
+  "12588 Carmel Creek Road,San Diego,CA,92130": {
+    "latitude": 32.945174785771,
+    "longitude": -117.231094472684
+  },
+  "16908 Abundante Creek,San Diego,CA,92127": {
+    "latitude": 33.014794663999,
+    "longitude": -117.109184133405
+  },
+  "3535 Manchester Avenue,#329,Encinitas,CA,92007": {
+    "latitude": 33.02050806257,
+    "longitude": -117.256681740869
+  },
+  "14121 Brent Wilsey Pl ,#2,San Diego,CA,92128": {
+    "latitude": 32.977053175204,
+    "longitude": -117.070788478977
+  },
+  "1035 Aloha Drive,Encinitas,CA,92024": {
+    "latitude": 33.039342031367,
+    "longitude": -117.269303210671
+  },
+  "18338 Avenida Apice,Escondido,CA,92029": {
+    "latitude": 33.055716665953,
+    "longitude": -117.137213720538
+  },
+  "5205 Mandarin Dr,Oceanside,CA,92054": {
+    "latitude": 33.235222666168,
+    "longitude": -117.276612314059
+  },
+  "730 East Grand Avenue,Escondido,CA,92025": {
+    "latitude": 33.125201636625,
+    "longitude": -117.072164548308
+  },
+  "20049 Elfin Forest Lane,Escondido,CA,92029": {
+    "latitude": 33.075173619704,
+    "longitude": -117.173256239469
+  },
+  "7511 Plein Aire,San Diego,CA,92127": {
+    "latitude": 32.995940746272,
+    "longitude": -117.168501940169
+  },
+  "5050 New Haven Rd,San Diego,CA,92117": {
+    "latitude": 32.837883156183,
+    "longitude": -117.19779124353
+  },
+  "961 Buckaroo Lane,Bonita,CA,91902": {
+    "latitude": 32.655782370202,
+    "longitude": -117.027575158061
+  },
+  "753 Taft Ave,El Cajon,CA,92020": {
+    "latitude": 32.786556865455,
+    "longitude": -116.956046510933
+  },
+  "478 Allview Court,Chula Vista,CA,91910": {
+    "latitude": 32.631882169578,
+    "longitude": -117.043302542085
+  },
+  "1167 Gopher Canyon Rd,Vista,CA,92084": {
+    "latitude": 33.248935082578,
+    "longitude": -117.223933309887
+  },
+  "3255 Pearl Ln,Oceanside,CA,92056": {
+    "latitude": 33.184575309597,
+    "longitude": -117.302640805628
+  },
+  "2930 Hayloft Place,Escondido,CA,92029": {
+    "latitude": 33.106625705541,
+    "longitude": -117.135491993807
+  },
+  "415 Franciscan Way,Oceanside,CA,92057": {
+    "latitude": 33.237604677322,
+    "longitude": -117.322247669716
+  },
+  "17615 Via De Fortuna,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.030678454335,
+    "longitude": -117.220122645246
+  },
+  "14606 Luna Media,San Diego,CA,92127": {
+    "latitude": 32.987353025464,
+    "longitude": -117.164680127597
+  },
+  "1115 Barry Place,Escondido,CA,92026": {
+    "latitude": 33.156464459913,
+    "longitude": -117.110452399175
+  },
+  "2295 S Summit Circle Glen,Escondido,CA,92026": {
+    "latitude": 33.165565237014,
+    "longitude": -117.133929271779
+  },
+  "1516 Idaho Avenue,Escondido,CA,92027": {
+    "latitude": 33.115752759909,
+    "longitude": -117.043332465479
+  },
+  "12431 Metate Ln,Poway,CA,92064": {
+    "latitude": 32.947231411444,
+    "longitude": -117.061394880089
+  },
+  "325 Kempton #505,Spring Valley,CA,91977": {
+    "latitude": 32.701171255997,
+    "longitude": -117.001530070324
+  },
+  "11588 Via Rancho,El Cajon,CA,92019": {
+    "latitude": 32.748055270077,
+    "longitude": -116.929472731501
+  },
+  "1924 Willis Rd,El Cajon,Ca,92020": {
+    "latitude": 32.800542070903,
+    "longitude": -116.990062620952
+  },
+  "10191 Prince Charming Ln,Santee,CA,92071": {
+    "latitude": 32.873750451428,
+    "longitude": -116.975821935095
+  },
+  "638 Silverbrook Drive,El Cajon,CA,92019": {
+    "latitude": 32.816970894494,
+    "longitude": -116.832217637837
+  },
+  "18277 Via Ascenso,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.048621720191,
+    "longitude": -117.204508249277
+  },
+  "18505 Via De Las Flores,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.056014097787,
+    "longitude": -117.176602043759
+  },
+  "3015 Caminito Torreblanca,Del Mar,CA,92014": {
+    "latitude": 32.983712262001,
+    "longitude": -117.246526226982
+  },
+  "3800 Crownpoint Court,Carlsbad,CA,92010": {
+    "latitude": 33.16979013531,
+    "longitude": -117.293410150937
+  },
+  "3665 Village Dr apt f,Carlsbad,CA,92008": {
+    "latitude": 33.151921007387,
+    "longitude": -117.343031017735
+  },
+  "1131 Brewley Lane,Vista,CA,92081": {
+    "latitude": 33.167286879927,
+    "longitude": -117.231908606939
+  },
+  "3216 Shadow Tree Drive,Oceanside,CA,92058": {
+    "latitude": 33.225253062893,
+    "longitude": -117.350994915399
+  },
+  "299 Franciscan Way,Oceanside,CA,92057": {
+    "latitude": 33.23530388681,
+    "longitude": -117.323195160051
+  },
+  "1573 Spring Creek Lane,Oceanside,CA,92057": {
+    "latitude": 33.249078790308,
+    "longitude": -117.260572787961
+  },
+  "11586 Windcrest Lane,Apt 2011,San Diego,CA,92128": {
+    "latitude": 32.978078240053,
+    "longitude": -117.078636706378
+  },
+  "7539 Delfina,San Diego,CA,92127": {
+    "latitude": 32.985790932079,
+    "longitude": -117.164961256629
+  },
+  "10249 Black Mountain Road,Unit Q1,San Diego,CA,92126": {
+    "latitude": 32.903973289255,
+    "longitude": -117.123441080155
+  },
+  "11401 Matinal Circle,San Diego,CA,92127": {
+    "latitude": 33.029367273221,
+    "longitude": -117.084657846524
+  },
+  "321 sycamore creek,San Marcos,CA,92069": {
+    "latitude": 33.176800465759,
+    "longitude": -117.152003421053
+  },
+  "12245 Darkwood Road,San Diego,CA,92129": {
+    "latitude": 32.943214845352,
+    "longitude": -117.147739714546
+  },
+  "6127 Summit Crest Circle,San Diego,CA,92130": {
+    "latitude": 32.97038432349,
+    "longitude": -117.19227771144
+  },
+  "3864 Via Reposo,Rancho Santa FE,CA,92091": {
+    "latitude": 32.988308771974,
+    "longitude": -117.21224717666
+  },
+  "412 Alviso Way,Encinitas,CA,92024": {
+    "latitude": 33.055696088381,
+    "longitude": -117.291606700649
+  },
+  "7479 Avenida de Palais,Carlsbad,CA,92009": {
+    "latitude": 33.092563596132,
+    "longitude": -117.255321525622
+  },
+  "660 Jocelyn,Encinitas,CA,92024": {
+    "latitude": 33.061378809186,
+    "longitude": -117.284622144552
+  },
+  "4405 Pacifica Way,Unit 3,Oceanside,CA,92056": {
+    "latitude": 33.219454177305,
+    "longitude": -117.298046093788
+  },
+  "3005 1/2 Blackwell Dr,Vista,CA,92084": {
+    "latitude": 33.246769282616,
+    "longitude": -117.231160941176
+  },
+  "5455 Waverly Ave,San Diego,CA,92037": {
+    "latitude": 32.812907599291,
+    "longitude": -117.264210114844
+  },
+  "4061 Wilson Ave.,San Diego,CA,92104": {
+    "latitude": 32.750891993172,
+    "longitude": -117.116447974516
+  },
+  "6221 Broadmoor Dr,La Mesa,CA,91942": {
+    "latitude": 32.791022533919,
+    "longitude": -116.989655344277
+  },
+  "7955 Hillandale Drive,San Diego,CA,92120": {
+    "latitude": 32.813306955068,
+    "longitude": -117.063817753021
+  },
+  "28037 Grassy Way,Escondido,CA,92026": {
+    "latitude": 33.218106358879,
+    "longitude": -117.105641438209
+  },
+  "503 Rockledge Street,Oceanside,CA,92054": {
+    "latitude": 33.194187676159,
+    "longitude": -117.367277516689
+  },
+  "1393 Avenida Arana,San Marcos,CA,92069": {
+    "latitude": 33.163215412369,
+    "longitude": -117.18859428409
+  },
+  "21554 Trail Ridge Drive,Escondido,CA,92029": {
+    "latitude": 33.104162892841,
+    "longitude": -117.133437337882
+  },
+  "117 N. Cleveland,Oceanside,CA,92054": {
+    "latitude": 33.194379370284,
+    "longitude": -117.381074045497
+  },
+  "18419 Calle Tramonto,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.05357957401,
+    "longitude": -117.192931416069
+  },
+  "6625 Lago Lindo,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.036688656098,
+    "longitude": -117.188880693721
+  },
+  "9860 Mercy Rd,San Diego,CA,92129": {
+    "latitude": 32.938524206606,
+    "longitude": -117.11252960242
+  },
+  "825 Klish Way,Del Mar,Ca,92014": {
+    "latitude": 32.954149834325,
+    "longitude": -117.257593775754
+  },
+  "17215 Matinal Road,San Diego,CA,92127": {
+    "latitude": 33.029244645978,
+    "longitude": -117.091263456778
+  },
+  "5282 Willow Walk Rd,Oceanside,CA,92057": {
+    "latitude": 33.276630189864,
+    "longitude": -117.292803384966
+  },
+  "3542 Harwich Drive,Carlsbad,CA,92010": {
+    "latitude": 33.174013524863,
+    "longitude": -117.2964726469
+  },
+  "1214 Oak Avenue,Carlsbad,CA,92008": {
+    "latitude": 33.163401079797,
+    "longitude": -117.339405449218
+  },
+  "15502 Artesian Ridge,San Diego,CA,92127": {
+    "latitude": 33.015853801284,
+    "longitude": -117.151954051644
+  },
+  "15134 Hesta Street,Poway,CA,92064": {
+    "latitude": 32.988598324819,
+    "longitude": -117.057075266287
+  },
+  "16255 Country Day Road,Poway,CA,92064": {
+    "latitude": 33.012779109652,
+    "longitude": -117.020542406021
+  },
+  "15727 Caminito Gilbar,San Diego,CA,92128": {
+    "latitude": 33.001577073243,
+    "longitude": -117.078499159347
+  },
+  "2806 Esturion Court,Carlsbad,CA,92009": {
+    "latitude": 33.112760630023,
+    "longitude": -117.242960313914
+  },
+  "11388 Mustang Ridge Drive,San Diego,CA,92130": {
+    "latitude": 32.925303137361,
+    "longitude": -117.213420307829
+  },
+  "11676 Frames Port Place,San Diego,CA,92126": {
+    "latitude": 32.929004669622,
+    "longitude": -117.16281087937
+  },
+  "17995 Sencillo Drive,San Diego,CA,92128": {
+    "latitude": 33.038466625399,
+    "longitude": -117.062908148888
+  },
+  "8506 Ednalyn Ln,San Diego,CA,92127": {
+    "latitude": 33.016307094608,
+    "longitude": -117.139092524135
+  },
+  "151 Warner St,Oceanside,CA,92058": {
+    "latitude": 33.22476854698,
+    "longitude": -117.335952919599
+  },
+  "4471 44th Street,San Diego,CA,92115": {
+    "latitude": 32.758316641095,
+    "longitude": -117.099892709916
+  },
+  "1202 Capistrano Ave.,Spring Valley,CA,91977": {
+    "latitude": 32.716722745782,
+    "longitude": -116.990576347797
+  },
+  "1194 Persimmon Avenue,El Cajon,CA,92021": {
+    "latitude": 32.811698174482,
+    "longitude": -116.940479053622
+  },
+  "9218 Fullerton Ave,San Diego,CA,92123": {
+    "latitude": 32.797534308768,
+    "longitude": -117.128410878185
+  },
+  "4118 Alicia Dr,San Diego,CA,92107": {
+    "latitude": 32.740984122614,
+    "longitude": -117.23555046005
+  },
+  "4250 Adams Ave,San Diego,CA,92116": {
+    "latitude": 32.763447916491,
+    "longitude": -117.102871805943
+  },
+  "4446 Limerick Way,San Diego,CA,92117": {
+    "latitude": 32.825570769061,
+    "longitude": -117.178845292506
+  },
+  "4161 Caflur Ave,San Diego,CA,92117": {
+    "latitude": 32.817562153944,
+    "longitude": -117.212303419231
+  },
+  "916 Poppy Lane,Carlsbad,CA,92011": {
+    "latitude": 33.100454696967,
+    "longitude": -117.302384151752
+  },
+  "151 Via La Paz,San Marcos,CA,92069": {
+    "latitude": 33.137369185284,
+    "longitude": -117.128511377204
+  },
+  "3330 Valley St,Carlsbad,CA,92008": {
+    "latitude": 33.163841121441,
+    "longitude": -117.332407626013
+  },
+  "1623 Sugar Maple Pl,Chula Vista,CA,91915": {
+    "latitude": 32.62988832436,
+    "longitude": -116.940512748873
+  },
+  "2231 Paseo Levanten,Chula Vista,CA,91913": {
+    "latitude": 32.595745647604,
+    "longitude": -116.978181608477
+  },
+  "2829 N Compass Cir,#2764 (then green arrow),Chula Vista,CA,91914": {
+    "latitude": 32.660823079134,
+    "longitude": -116.948999090562
+  },
+  "82 Bonita Road,Chula Vista,CA,91910": {
+    "latitude": 32.64620294452,
+    "longitude": -117.071921377011
+  },
+  "3240 Olivenhain Farms Rd,Encinitas,CA,92024": {
+    "latitude": 33.05405830641,
+    "longitude": -117.214626882791
+  },
+  "3241 Sitio Montecillo,Carlsbad,CA,92009": {
+    "latitude": 33.099203781737,
+    "longitude": -117.239892285895
+  },
+  "18474 Calle tramonto,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.054398276403,
+    "longitude": -117.194133297165
+  },
+  "29725 Jenny Lane,Vista,CA,92082": {
+    "latitude": 33.253815361882,
+    "longitude": -117.1843377022
+  },
+  "7099 Surfbird Circle,Carlsbad,CA,92011": {
+    "latitude": 33.103821833201,
+    "longitude": -117.286528859887
+  },
+  "1049 Via Carina,Vista,CA,92081": {
+    "latitude": 33.180652788459,
+    "longitude": -117.242375927624
+  },
+  "2705 Fairmount Avenue,San Diego,CA,92105": {
+    "latitude": 32.734329017221,
+    "longitude": -117.100613972685
+  },
+  "14431 Whispering Ridge Rd,San Diego,CA,92131": {
+    "latitude": 32.925787611364,
+    "longitude": -117.030195173356
+  },
+  "1431 Rodeo Drive,San Diego,CA,92037": {
+    "latitude": 32.824436697561,
+    "longitude": -117.260413280344
+  },
+  "230 22nd Street,Del Mar,CA,92014": {
+    "latitude": 32.968076282632,
+    "longitude": -117.26663608908
+  },
+  "1183 monterey pl,Encinitas,CA,92024": {
+    "latitude": 33.058323982665,
+    "longitude": -117.265615005635
+  },
+  "6900 Via Del Charro,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.048939981055,
+    "longitude": -117.184125053316
+  },
+  "961 Firtree Place,Carlsbad,CA,92011": {
+    "latitude": 33.107325594457,
+    "longitude": -117.301419897611
+  },
+  "6604 Edmonton Ave,San Diego,CA,92122": {
+    "latitude": 32.857999346619,
+    "longitude": -117.201506103017
+  },
+  "8026 Gaylen Road,San Diego,CA,92126": {
+    "latitude": 32.91417226331,
+    "longitude": -117.149651542841
+  },
+  "17839 La Amopola,Rancho Sante Fe,CA,92067": {
+    "latitude": 33.041159898528,
+    "longitude": -117.164111834562
+  },
+  "948 Pearl Drive,San Marcos,CA,92078": {
+    "latitude": 33.10647089179,
+    "longitude": -117.194018297453
+  },
+  "471 Concha Lane,San Marcos,CA,92069": {
+    "latitude": 33.153858568125,
+    "longitude": -117.192566132728
+  },
+  "1750 Broken Rock Road,San Marcos,CA,92078": {
+    "latitude": 33.126204657893,
+    "longitude": -117.21698680763
+  },
+  "2982 Orchard Glen,Escondido,CA,92026": {
+    "latitude": 33.175802767824,
+    "longitude": -117.085649090393
+  },
+  "416 Sunridge Place,Escondido,CA,92026": {
+    "latitude": 33.160925183054,
+    "longitude": -117.097662872215
+  },
+  "16055 Newton Hill,San Diego,CA,92127": {
+    "latitude": 33.020614303192,
+    "longitude": -117.140157277295
+  },
+  "8618 Tillage Lane,San Diego,CA,92127": {
+    "latitude": 33.028838291312,
+    "longitude": -117.141189760129
+  },
+  "7395 Los Brazos,San Diego,CA,92127": {
+    "latitude": 32.991214819714,
+    "longitude": -117.168023165859
+  },
+  "16838 Via Los Farolitos,Rancho Santa Fe,CA,92067": {
+    "latitude": 32.999513197224,
+    "longitude": -117.181596484585
+  },
+  "13624 Mar Scenic Drive,Del Mar,CA,92014": {
+    "latitude": 32.946003714086,
+    "longitude": -117.25457285403
+  },
+  "7975 Villas,San Diego,CA,92127": {
+    "latitude": 32.990563923023,
+    "longitude": -117.154670961739
+  },
+  "15577 Churchill Downs,Del Mar,CA,92014": {
+    "latitude": 32.992406432979,
+    "longitude": -117.192737626467
+  },
+  "13 Green Turtle Road,Coronado,CA,92118": {
+    "latitude": 32.626965009899,
+    "longitude": -117.132289855337
+  },
+  "689 Cazorla Avenue,Chula Vista,CA,91910": {
+    "latitude": 32.640466453806,
+    "longitude": -117.027701976256
+  },
+  "1038 Woodlawn Avenue,Chula Vista,CA,91911": {
+    "latitude": 32.611315284209,
+    "longitude": -117.086577972903
+  },
+  "8780 Taurus Pl,San Diego,CA,92126": {
+    "latitude": 32.922948367392,
+    "longitude": -117.134999305538
+  },
+  "9911 fuerte dr,La mesa,CA,91941": {
+    "latitude": 32.774759378645,
+    "longitude": -116.984594015863
+  },
+  "10620 Noakes Road,La Mesa,CA,91941": {
+    "latitude": 32.772644163469,
+    "longitude": -116.966238067004
+  },
+  "10457 Reginas Ct,Santee,CA,92071": {
+    "latitude": 32.852703576373,
+    "longitude": -116.969096631263
+  },
+  "1479 Jefferson Ave,Escondido,CA,92027": {
+    "latitude": 33.13643984177,
+    "longitude": -117.063538887102
+  },
+  "1340 Miraflores Glen,Escondido,CA,92026": {
+    "latitude": 33.154607700722,
+    "longitude": -117.113290343952
+  },
+  "1255 Thomas Avenue,#2,San Diego,CA,92109": {
+    "latitude": 32.795305351166,
+    "longitude": -117.246091373845
+  },
+  "428 West Eighth Avenue,Escondido,CA,92025": {
+    "latitude": 33.113240718162,
+    "longitude": -117.081378974344
+  },
+  "730 Ramona Pl,Del Mar,CA,92014": {
+    "latitude": 32.986315639218,
+    "longitude": -117.252842745396
+  },
+  "2855 Camino Serbal,Carlsbad,CA,92009": {
+    "latitude": 33.079397009257,
+    "longitude": -117.251413463266
+  },
+  "15503 Canyon View Way,Poway,CA,92064": {
+    "latitude": 32.990502651311,
+    "longitude": -116.99815685721
+  },
+  "2117 Madison Avenue,San Diego,CA,92116": {
+    "latitude": 32.760814280603,
+    "longitude": -117.142099950994
+  },
+  "2749 Caminito Merion,San Diego,CA,92037": {
+    "latitude": 32.837032015825,
+    "longitude": -117.241998322886
+  },
+  "922 Begonia Ct,Carlsbad,CA,92011": {
+    "latitude": 33.099611142231,
+    "longitude": -117.301759951423
+  },
+  "1764 Vesper lane,Carlsbad,CA,92011": {
+    "latitude": 33.113420034346,
+    "longitude": -117.276254322974
+  },
+  "14929 Caminito Ladera,Del Mar,CA,92014": {
+    "latitude": 32.987389822019,
+    "longitude": -117.247895075589
+  },
+  "1791 Cottonwood Drive,Vista,CA,92081": {
+    "latitude": 33.184860587672,
+    "longitude": -117.276980195789
+  },
+  "1514 Wildgrove Way,Vista,CA,92081": {
+    "latitude": 33.169841097281,
+    "longitude": -117.246901065692
+  },
+  "21520 Harmony Village Dr.,Escondido,CA,92029": {
+    "latitude": 33.102832936264,
+    "longitude": -117.133621823571
+  },
+  "2978 Via Conquistador,Carlsbad,CA,92009": {
+    "latitude": 33.117712742238,
+    "longitude": -117.236450341175
+  },
+  "17676 La Catrina,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.047601307299,
+    "longitude": -117.154696526544
+  },
+  "7219 San miguel dr,Carlsbad,CA,92011": {
+    "latitude": 33.097993015823,
+    "longitude": -117.312276976794
+  },
+  "9149 Oso Road,Spring Valley,CA,91977": {
+    "latitude": 32.723652903328,
+    "longitude": -117.002497509589
+  },
+  "11464 Meknes Way,San Diego,CA,92129": {
+    "latitude": 32.994564228223,
+    "longitude": -117.089780781926
+  },
+  "4132 Blackton Drive,La Mesa,CA,91941": {
+    "latitude": 32.752228194267,
+    "longitude": -117.044292193392
+  },
+  "6435 Reflection Dr. Apt 204,San Diego,CA,92124": {
+    "latitude": 32.790548369657,
+    "longitude": -117.110470504086
+  },
+  "1537 La Fiesta Dr,San Marcos,CA,92078": {
+    "latitude": 33.125952362607,
+    "longitude": -117.206870269592
+  },
+  "2367 Douglaston Glen,Escondido,CA,92026": {
+    "latitude": 33.165213867633,
+    "longitude": -117.086357696488
+  },
+  "1759 Grain Mill Road,San Marcos,CA,92078": {
+    "latitude": 33.097500998107,
+    "longitude": -117.182146002158
+  },
+  "6129 Paseo Tapajos,Carlsbad,CA,92009": {
+    "latitude": 33.12582223356,
+    "longitude": -117.240049446579
+  },
+  "7306 Alicante Rd,Unit #9,Carlbad,CA,92009": {
+    "latitude": 33.094031770292,
+    "longitude": -117.257805754085
+  },
+  "6742 Limonite Court,Carlsbad,CA,92009": {
+    "latitude": 33.11033788282,
+    "longitude": -117.266079614528
+  },
+  "4302 Pacifica Way,Unit 1,Oceanside,CA,92056": {
+    "latitude": 33.216022994936,
+    "longitude": -117.30187796862
+  },
+  "13753 Paseo Valle Alto,Poway,CA,92064": {
+    "latitude": 32.99758745497,
+    "longitude": -117.03307142343
+  },
+  "13476 Ridley Rd,San Diego,CA,92129": {
+    "latitude": 32.957368988058,
+    "longitude": -117.120725678802
+  },
+  "13033 Aguamarina Point,San Diego,CA,92128": {
+    "latitude": 33.043053412364,
+    "longitude": -117.048608873528
+  },
+  "10570 classico ct,San diego,CA,92127": {
+    "latitude": 33.01510961401,
+    "longitude": -117.108259693304
+  },
+  "2306 Casa Hermosa Ct,Encinitas,CA,92024": {
+    "latitude": 33.057011544265,
+    "longitude": -117.232052440397
+  },
+  "2105 Camino Dr,Escondido,CA,92026": {
+    "latitude": 33.161217376199,
+    "longitude": -117.120161744356
+  },
+  "208 South Ditmar Street,Oceanside,CA,92054": {
+    "latitude": 33.194948920605,
+    "longitude": -117.376186725393
+  },
+  "1740 Seven Oaks Rd,Space #70,Escondido,CA,92026": {
+    "latitude": 33.148507016314,
+    "longitude": -117.101090651518
+  },
+  "672 Sea Ridge Ct,Encinitas,CA,92024": {
+    "latitude": 33.043995454462,
+    "longitude": -117.276864190249
+  },
+  "531 Hotz Street,Spring Valley,CA,91977": {
+    "latitude": 32.702638885333,
+    "longitude": -117.018909527463
+  },
+  "6617 Muirlands Drive,San Diego,CA,92037": {
+    "latitude": 32.832515720666,
+    "longitude": -117.261055669403
+  },
+  "6433 Caminito Formby,Windemere,San Diego,CA,92037": {
+    "latitude": 32.832674264364,
+    "longitude": -117.245015724211
+  },
+  "3314 McGraw Street,San Diego,CA,92117": {
+    "latitude": 32.799157883413,
+    "longitude": -117.209155092579
+  },
+  "4730 Noyes Street,Apt 119,San Diego,CA,92109": {
+    "latitude": 32.805246330241,
+    "longitude": -117.233002864399
+  },
+  "923 Daisy Ave,Carlsbad,CA,92011": {
+    "latitude": 33.102136064834,
+    "longitude": -117.30253494219
+  },
+  "6200 Paseo Colina,Carlsbad,CA,92009": {
+    "latitude": 33.124986934999,
+    "longitude": -117.243722061274
+  },
+  "1818 Andy Lane,Oceanside,CA,92054": {
+    "latitude": 33.180112658618,
+    "longitude": -117.350613371167
+  },
+  "664 Hygeia Avenue,Encinitas,CA,92024": {
+    "latitude": 33.062069771375,
+    "longitude": -117.29782657572
+  },
+  "923 Saint Germain Rd,Chula Vista,CA,91913": {
+    "latitude": 32.64793519054,
+    "longitude": -116.972962197369
+  },
+  "2735 Waterbury Way,Carlsbad,CA,92010": {
+    "latitude": 33.172608550253,
+    "longitude": -117.312448135257
+  },
+  "3567 Louisiana Street,San Diego,CA,92104": {
+    "latitude": 32.74323696864,
+    "longitude": -117.139852595115
+  },
+  "1017 Wind Cave Place,Chula Vista,CA,91914": {
+    "latitude": 32.64949686483,
+    "longitude": -116.951698817756
+  },
+  "630 Crest Dr,Vista,CA,92084": {
+    "latitude": 33.196815989538,
+    "longitude": -117.235479046235
+  },
+  "1522 Engleman Court,Chula Vista,CA,91911": {
+    "latitude": 32.611721387418,
+    "longitude": -117.019358797474
+  },
+  "5566 nerak ct,Bonita,CA,91902": {
+    "latitude": 32.68502004104,
+    "longitude": -117.018891003457
+  },
+  "2640 Noble Canyon Rd,Chula Vista,CA,91915": {
+    "latitude": 32.640870838724,
+    "longitude": -116.947651699627
+  },
+  "4026 Agua Dulce Boulevard,La Mesa,CA,91941": {
+    "latitude": 32.752942458146,
+    "longitude": -116.972426593756
+  },
+  "2271 Aventurine Place,Carlsbad,CA,92009": {
+    "latitude": 33.105439079509,
+    "longitude": -117.256967731405
+  },
+  "1320 Skyros Way,Encinitas,CA,92024": {
+    "latitude": 33.072306086809,
+    "longitude": -117.293453066281
+  },
+  "4754 Marblehead Bay Dr,Oceanside,CA,92057": {
+    "latitude": 33.254807569671,
+    "longitude": -117.307007274268
+  },
+  "1025 Seahorse Court,Carlsbad,CA,92011": {
+    "latitude": 33.111984675337,
+    "longitude": -117.307508092982
+  },
+  "760 Harbor Cliff Way,#115,Oceanside,CA,92054": {
+    "latitude": 33.203630644457,
+    "longitude": -117.378510524229
+  },
+  "1398 Panorama Ridge Road,Oceanside,CA,92056": {
+    "latitude": 33.222318810049,
+    "longitude": -117.274484232662
+  },
+  "940 Barsby Street,Vista,CA,92084": {
+    "latitude": 33.235668709146,
+    "longitude": -117.23020054271
+  },
+  "1703 Tamarack Avenue,Carlsbad,CA,92008": {
+    "latitude": 33.155227039547,
+    "longitude": -117.325322570896
+  },
+  "498 Andrew Ave,Encinitas,CA,92024": {
+    "latitude": 33.080447974187,
+    "longitude": -117.299985921616
+  },
+  "2315 Newport Ave,Encinitas,CA,92007": {
+    "latitude": 33.017851166901,
+    "longitude": -117.279710349291
+  },
+  "8475 Mathis Pl,San Diego,CA,92127": {
+    "latitude": 33.017083510299,
+    "longitude": -117.138696646848
+  },
+  "13616 Paseo De La Huerta,Poway,CA,92064": {
+    "latitude": 32.995623281689,
+    "longitude": -117.038992316015
+  },
+  "14350 Gaelyn Ct,Poway,CA,92064": {
+    "latitude": 32.974412708066,
+    "longitude": -117.044760490323
+  },
+  "1350 Weaver Street,San Diego,CA,92114": {
+    "latitude": 32.719317531548,
+    "longitude": -117.066550169637
+  },
+  "4516 Collwood Ln,San Diego,CA,92115": {
+    "latitude": 32.765845098889,
+    "longitude": -117.084212264551
+  },
+  "1283 Pfeifer Lane,El Cajon,CA,92020": {
+    "latitude": 32.813104574016,
+    "longitude": -116.984398717519
+  },
+  "14760 Via Mantova,San Diego,CA,92127": {
+    "latitude": 32.993430617728,
+    "longitude": -117.160767539014
+  },
+  "2525 San Clemente Terrace,San Diego,CA,92122": {
+    "latitude": 32.841095311028,
+    "longitude": -117.231508622519
+  },
+  "17116 Sobre Los Cerros,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.021863081037,
+    "longitude": -117.214314573079
+  },
+  "971 borden rd SPC #30,San Marcos,CA,92069": {
+    "latitude": 33.154640264415,
+    "longitude": -117.138387270802
+  },
+  "840 Stratford Knoll,Encinitas,CA,92024": {
+    "latitude": 33.052528064257,
+    "longitude": -117.229023052952
+  },
+  "2063 Summit Drive,Escondido,CA,92025": {
+    "latitude": 33.105356433944,
+    "longitude": -117.046853870641
+  },
+  "1922 Julie Dawn Place,Escondido,CA,92026": {
+    "latitude": 33.152972726688,
+    "longitude": -117.117862588315
+  },
+  "1220 Tower Drive,Vista,CA,92083": {
+    "latitude": 33.185637715825,
+    "longitude": -117.229453966594
+  },
+  "4156 Chasin Street,Oceanside,CA,92056": {
+    "latitude": 33.199851202406,
+    "longitude": -117.284374375494
+  },
+  "4734 Chase Ct,Carlsbad,CA,92010": {
+    "latitude": 33.155674423629,
+    "longitude": -117.298601063573
+  },
+  "878 Sunning dale drive,Oceanside,CA,92057": {
+    "latitude": 33.251849512221,
+    "longitude": -117.319017032776
+  },
+  "1692 Mountain Pass Cr,Vista,CA,92081": {
+    "latitude": 33.145525699083,
+    "longitude": -117.244172253294
+  },
+  "2114 Seaquest Tr,Encinitas,CA,92024": {
+    "latitude": 33.079858307298,
+    "longitude": -117.193514293615
+  },
+  "1361 West 9th Avenue,ApT 913,Escondido,CA,92029": {
+    "latitude": 33.108967609289,
+    "longitude": -117.102681369103
+  },
+  "621 Polaris Dr,Encinitas,CA,92024": {
+    "latitude": 33.059996256167,
+    "longitude": -117.283831898721
+  },
+  "1839 corte amarillo,Oceanside,CA,92056": {
+    "latitude": 33.220243157456,
+    "longitude": -117.287225144583
+  },
+  "6109 Paseo Tapajos,Carlsbad,CA,92009": {
+    "latitude": 33.126486164111,
+    "longitude": -117.239983481001
+  },
+  "17690 Azucar Way,San Diego,CA,92127": {
+    "latitude": 33.037134405708,
+    "longitude": -117.085212309419
+  },
+  "14331 Twisted Branch Rd,Poway,Ca,92064": {
+    "latitude": 33.013838079299,
+    "longitude": -117.020100931181
+  },
+  "15980 Sarah Ridge Ct,San Diego,CA,92127": {
+    "latitude": 32.993122415148,
+    "longitude": -117.101306736982
+  },
+  "7524 Plein Aire,San Diego,CA,92127": {
+    "latitude": 32.996203770394,
+    "longitude": -117.167196961663
+  },
+  "13240 Julian Avenue,Lakeside,CA,92040": {
+    "latitude": 32.857151517112,
+    "longitude": -116.907166604375
+  },
+  "8231 Bluffview Court,Spring Valley,CA,91977": {
+    "latitude": 32.696792172592,
+    "longitude": -117.022555236249
+  },
+  "914 Ellwood,San Diego,CA,92114": {
+    "latitude": 32.715327703727,
+    "longitude": -117.083422689272
+  },
+  "494 1st Avenue,Chula Vista,CA,91910": {
+    "latitude": 32.636885285674,
+    "longitude": -117.069432538501
+  },
+  "4464 Castelar Street,Apt 218,San Diego,CA,92107": {
+    "latitude": 32.749796939432,
+    "longitude": -117.236114143038
+  },
+  "4819 Lamont Street,San Diego,CA,92109": {
+    "latitude": 32.806195035952,
+    "longitude": -117.23669056652
+  },
+  "5105 Fontaine Street,San Diego,CA,92120": {
+    "latitude": 32.799794530868,
+    "longitude": -117.0837249407
+  },
+  "15102 Sun Valley Ln,Del Mar,CA,92014": {
+    "latitude": 32.993333387651,
+    "longitude": -117.235232534462
+  },
+  "4657 Rancho Sierra Bend,San Diego,CA,92130": {
+    "latitude": 32.9711885671,
+    "longitude": -117.219502552049
+  },
+  "2710 Lone Jack Rd,Encinitas,CA,92024": {
+    "latitude": 33.051278364403,
+    "longitude": -117.227275677597
+  },
+  "1601 S Nevada St,Oceanside,CA,92054": {
+    "latitude": 33.179717032788,
+    "longitude": -117.362186432519
+  },
+  "32738 Lilac Rd,Valley Center,CA,92082": {
+    "latitude": 33.30651553036,
+    "longitude": -117.083877910433
+  },
+  "3486 Highland Dr,Carlsbad,CA,92008": {
+    "latitude": 33.160373318549,
+    "longitude": -117.333646722759
+  },
+  "11669 Frames Port Place,San Diego,CA,92126": {
+    "latitude": 32.92890098548,
+    "longitude": -117.162231354584
+  },
+  "541 Eldorado Drive,Escondido,CA,92025": {
+    "latitude": 33.103294066667,
+    "longitude": -117.060139187174
+  },
+  "12636 Spindletop Road,San Diego,CA,92129": {
+    "latitude": 32.95182762805,
+    "longitude": -117.136517519661
+  },
+  "1516 Lake Drive,Cardiff,CA,92007": {
+    "latitude": 33.030661313343,
+    "longitude": -117.266683279195
+  },
+  "12547 Darkwood Road,San Diego,CA,92129": {
+    "latitude": 32.949737810041,
+    "longitude": -117.141785964901
+  },
+  "1664 Quest Lane,Chula Vista,CA,91915": {
+    "latitude": 32.624372361519,
+    "longitude": -116.956295621095
+  },
+  "578 Via La Paloma,Chula Vista,CA,91910": {
+    "latitude": 32.649694635835,
+    "longitude": -117.009487513923
+  },
+  "1604 Moonbeam Lane,Chula Vista,CA,91915": {
+    "latitude": 32.625179119699,
+    "longitude": -116.95999950029
+  },
+  "349 Windjammer Circle,Chula Vista,CA,91910": {
+    "latitude": 32.642876586245,
+    "longitude": -117.04968125422
+  },
+  "2399 Hummingbird Street,Chula Vista,CA,91915": {
+    "latitude": 32.62305124785,
+    "longitude": -116.953875430372
+  },
+  "791 Marsopa Drive,Vista,CA,92081": {
+    "latitude": 33.185206927911,
+    "longitude": -117.2625328122
+  },
+  "5216 Via Pauma,Oceanside,CA,92057": {
+    "latitude": 33.245684831983,
+    "longitude": -117.286352672282
+  },
+  "2021 Sonora Ct,Vista,CA,92081": {
+    "latitude": 33.166158759578,
+    "longitude": -117.233266056158
+  },
+  "1219 Stonemark Place,#1,Vista,CA,92081": {
+    "latitude": 33.175250609953,
+    "longitude": -117.243874444274
+  },
+  "3590 Summit Trail Court,Carlsbad,CA,92010": {
+    "latitude": 33.153230470211,
+    "longitude": -117.292997593662
+  },
+  "6566 Halite Place,Carlsbad,CA,92009": {
+    "latitude": 33.121968150661,
+    "longitude": -117.260052355593
+  },
+  "6031 Chandler Dr,San Diego,CA,92117": {
+    "latitude": 32.825436532882,
+    "longitude": -117.172350574831
+  },
+  "3220 Zola Street,San Diego,CA,92106": {
+    "latitude": 32.738685720944,
+    "longitude": -117.220822869437
+  },
+  "2260 El Cajon Boulevard,San Diego,CA,92104": {
+    "latitude": 32.755559958869,
+    "longitude": -117.140347378859
+  },
+  "4586 Leathers Street,San Diego,CA,92117": {
+    "latitude": 32.828201848468,
+    "longitude": -117.22633531188
+  },
+  "1438 Rubenstein Ave,Cardiff,CA,92007": {
+    "latitude": 33.031221978847,
+    "longitude": -117.284728007989
+  },
+  "3457 Corte Panorama,Carlsbad,CA,92009": {
+    "latitude": 33.095569514248,
+    "longitude": -117.225130664755
+  },
+  "1302 Bergamo Place,#102,Encinitas,CA,92024": {
+    "latitude": 33.06632025543,
+    "longitude": -117.27924993135
+  },
+  "1234 Avenida Amistad,San Marcos,CA,92069": {
+    "latitude": 33.163412512822,
+    "longitude": -117.179213844789
+  },
+  "1910 Northstar Way,Unit:117,San Marcos,CA,92078": {
+    "latitude": 33.097786234272,
+    "longitude": -117.217502965227
+  },
+  "4180 Terry Street,Oceanside,CA,92056": {
+    "latitude": 33.200683986396,
+    "longitude": -117.28265122384
+  },
+  "2745 Glasgow Drive,Carlsbad,CA,92010": {
+    "latitude": 33.161214987357,
+    "longitude": -117.30130657428
+  },
+  "1349 Shorebird Lane,Gate Code 1349,Carlsbad,CA,92011": {
+    "latitude": 33.091826240109,
+    "longitude": -117.293003125718
+  },
+  "1413 Camara ct.,Vista,CA,92081": {
+    "latitude": 33.167978009753,
+    "longitude": -117.242796447707
+  },
+  "3535 Linda Vista Dr space 90,San Marcos,CA,92078": {
+    "latitude": 33.14091535897,
+    "longitude": -117.210766178188
+  },
+  "1742 Elfin Forest Road,San Marcos,CA,92078": {
+    "latitude": 33.097180419217,
+    "longitude": -117.197678245107
+  },
+  "702 Via Cafetal,San Marcos,CA,92069": {
+    "latitude": 33.160586051252,
+    "longitude": -117.193063179587
+  },
+  "14874 Morningside Dr,Poway,CA,92064": {
+    "latitude": 32.984971936319,
+    "longitude": -117.065187020723
+  },
+  "16307 Santa Cristobal Street,San Diego,CA,92127": {
+    "latitude": 33.009388713636,
+    "longitude": -117.10786876134
+  },
+  "1410 Victoria Glen,Escondido,CA,92025": {
+    "latitude": 33.06683404514,
+    "longitude": -117.041927071773
+  },
+  "11724 Kismet Road,San Diego,CA,92128": {
+    "latitude": 32.94674953583,
+    "longitude": -117.080997888502
+  },
+  "6135 La Flecha,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.02018167126,
+    "longitude": -117.201068316214
+  },
+  "2732 Rosewood Cir,Oceanside,CA,92056": {
+    "latitude": 33.208862963695,
+    "longitude": -117.26902887098
+  },
+  "13473 peach tree way,San Diego,CA,92130": {
+    "latitude": 32.965773354734,
+    "longitude": -117.182042988568
+  },
+  "5951 Albemarle St,San Diego,CA,92139": {
+    "latitude": 32.677189247998,
+    "longitude": -117.063301260147
+  },
+  "1611 Presidio Point Court,Chula Vista,CA,91911": {
+    "latitude": 32.601744366159,
+    "longitude": -117.023644799843
+  },
+  "7161 Cowles Mountain Boulevard,San Diego,CA,92119": {
+    "latitude": 32.811766361264,
+    "longitude": -117.01747018705
+  },
+  "1233 Elkelton Blvd,Spring Valley,CA,91977": {
+    "latitude": 32.717652592211,
+    "longitude": -117.015744604643
+  },
+  "5014 La Dorna St,San Diego,CA,92115": {
+    "latitude": 32.769957302497,
+    "longitude": -117.059103435399
+  },
+  "420 Birdoon Terrace,Encinitas,CA,92024": {
+    "latitude": 33.075133344659,
+    "longitude": -117.206072396229
+  },
+  "7804 Calle Pinabete,Carlsbad,CA,92009": {
+    "latitude": 33.079526844937,
+    "longitude": -117.257233689193
+  },
+  "3211 Sitio Oceano,GC 8613,Carlsbad,CA,92009": {
+    "latitude": 33.106647749947,
+    "longitude": -117.235402016544
+  },
+  "6389 Paseo Descanso,Carlsbad,CA,92009": {
+    "latitude": 33.117020648493,
+    "longitude": -117.231902739607
+  },
+  "7747 Camino de Arriba,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.055562983759,
+    "longitude": -117.168401105873
+  },
+  "4367 Corte Al Fresco,San Diego,CA,92130": {
+    "latitude": 32.949811361241,
+    "longitude": -117.222568903688
+  },
+  "1428 Stratford Court,Del Mar,CA,92014": {
+    "latitude": 32.958665752299,
+    "longitude": -117.266302908429
+  },
+  "15854 anjou ln,San Diego,CA,92127": {
+    "latitude": 32.991187327072,
+    "longitude": -117.106451213875
+  },
+  "338 Sunflower Glen,Escondido,CA,92026": {
+    "latitude": 33.158691154401,
+    "longitude": -117.088884337381
+  },
+  "1805 Canyon Place,Carlsbad,CA,92008": {
+    "latitude": 33.165860615282,
+    "longitude": -117.332728233809
+  },
+  "1829 Forestdale Drive,Encinitas,CA,92024": {
+    "latitude": 33.042584402972,
+    "longitude": -117.246493118464
+  },
+  "12232 Sunrise Court,Poway,CA,92064": {
+    "latitude": 32.983831871759,
+    "longitude": -117.065847682332
+  },
+  "11820 Ellla Way,San Diego,CA,92128": {
+    "latitude": 32.974914825975,
+    "longitude": -117.080038998779
+  },
+  "15132 Avenida Rorras,San Diego,CA,92128": {
+    "latitude": 32.995132563168,
+    "longitude": -117.073079756029
+  },
+  "14543 Twin Peaks Road,Poway,CA,92064": {
+    "latitude": 32.977664341674,
+    "longitude": -117.015265662696
+  },
+  "7407 Rancho Cabrillo Trail,San Diego,CA,92127": {
+    "latitude": 32.983505564268,
+    "longitude": -117.16615844386
+  },
+  "6650 Canopy Ridge Lane,Unit 58,San Diego,CA,92121": {
+    "latitude": 32.915635869333,
+    "longitude": -117.179609889714
+  },
+  "4607 Da Vinci Street,San Diego,CA,92130": {
+    "latitude": 32.94257090564,
+    "longitude": -117.217315210596
+  },
+  "5141 Avenida Cantaria,San Diego,CA,92130": {
+    "latitude": 32.972027721336,
+    "longitude": -117.207828656401
+  },
+  "605 San Mario Dr,Solana Beach,CA,92075": {
+    "latitude": 33.003119678704,
+    "longitude": -117.240009297263
+  },
+  "2053 Clearwater Place,Chula Vista,CA,91913": {
+    "latitude": 32.656321368486,
+    "longitude": -116.97885140636
+  },
+  "1228 Opal Street,San Diego,CA,92109": {
+    "latitude": 32.808011855375,
+    "longitude": -117.250474522473
+  },
+  "13935 Poway Valley Road,Poway,CA,92064": {
+    "latitude": 32.976594559372,
+    "longitude": -117.029545743498
+  },
+  "2861 Via Alta pl,San Diego,CA,92108": {
+    "latitude": 32.783174683705,
+    "longitude": -117.145076616269
+  },
+  "1646 Kearsarge Road,San Diego,CA,92037": {
+    "latitude": 32.845830080493,
+    "longitude": -117.263465801842
+  },
+  "11353 Meadow Flower Place,San Diego,CA,92127": {
+    "latitude": 33.004596067129,
+    "longitude": -117.084857503457
+  },
+  "6941 Colorado Ave,La Mesa,CA,91942": {
+    "latitude": 32.778191097443,
+    "longitude": -117.045930520187
+  },
+  "8828 Ragweed Ct,San Diego,CA,92129": {
+    "latitude": 32.946042522297,
+    "longitude": -117.133802537403
+  },
+  "14841 High Valley Rd,Poway,CA,92064": {
+    "latitude": 32.989567189007,
+    "longitude": -117.007848348938
+  },
+  "7823 Chadamy Way,San Diego,CA,92130": {
+    "latitude": 32.970147828092,
+    "longitude": -117.155621637197
+  },
+  "5427 Indigo Sage Dr,San Diego,CA,92130": {
+    "latitude": 32.967573955174,
+    "longitude": -117.195509689485
+  },
+  "717 Law Street,San Diego,CA,92109": {
+    "latitude": 32.80193778351,
+    "longitude": -117.257621016939
+  },
+  "14033 Mercado Dr,Del Mar,CA,92014": {
+    "latitude": 32.952371362109,
+    "longitude": -117.250586923794
+  },
+  "10526 Caminito Sulmona,San Diego,CA,92129": {
+    "latitude": 32.964621052595,
+    "longitude": -117.098859221255
+  },
+  "3968 Plateau Place,Carlsbad,CA,92010": {
+    "latitude": 33.174755993846,
+    "longitude": -117.286036925989
+  },
+  "1270 Rubenstein Avenue,Encinitas,CA,92007": {
+    "latitude": 33.034837806148,
+    "longitude": -117.285702823329
+  },
+  "1733 Anza Ave,Vista,CA,92084": {
+    "latitude": 33.226323851024,
+    "longitude": -117.232376233317
+  },
+  "7675 Galleon Way,Carlsbad,CA,92009": {
+    "latitude": 33.082161025648,
+    "longitude": -117.24581829144
+  },
+  "2709 Mateo Pl,Carlsbad,CA,92009": {
+    "latitude": 33.080860112366,
+    "longitude": -117.255858302701
+  },
+  "12187 Knoll Crest Pl,Lakeside,CA,92040": {
+    "latitude": 32.847617730893,
+    "longitude": -116.928964581773
+  },
+  "14509 Springvale St,Poway,CA,92064": {
+    "latitude": 32.957632934189,
+    "longitude": -117.017389888418
+  },
+  "445 Paraiso Avenue,Spring Valley,CA,91977": {
+    "latitude": 32.705334421576,
+    "longitude": -116.996094322296
+  },
+  "1211 Stonemark Place,HOME NUMBER 1 ADU 2,Vista,CA,92081": {
+    "latitude": 33.175334973808,
+    "longitude": -117.243199449611
+  },
+  "1501 Gascony Rd,Encinitas,CA,92024": {
+    "latitude": 33.07641447665,
+    "longitude": -117.287043257284
+  },
+  "2550 Teten Way,Encinitas,CA,92024": {
+    "latitude": 33.040188477859,
+    "longitude": -117.232996075057
+  },
+  "4592 vista de la patria,Del Mar,CA,92014": {
+    "latitude": 32.982208548571,
+    "longitude": -117.235129520872
+  },
+  "6515 La Valle Plateada,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.023276605189,
+    "longitude": -117.193489734639
+  },
+  "18051 Circa Oriente,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.003977315037,
+    "longitude": -117.170702525028
+  },
+  "3313 Wild Oak Lane,Escondido,CA,92027": {
+    "latitude": 33.126863098297,
+    "longitude": -117.008851830386
+  },
+  "13961 Kunde Court,San Diego,CA,92130": {
+    "latitude": 32.969482891713,
+    "longitude": -117.161011284758
+  },
+  "2382 Lozana Road,Del Mar,CA,92014": {
+    "latitude": 32.953137719516,
+    "longitude": -117.252597323271
+  },
+  "16734 Via De Santa Fe,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.016184425455,
+    "longitude": -117.200507315435
+  },
+  "8135 Entrada De Luz East,San Diego,CA,92127": {
+    "latitude": 32.990769573017,
+    "longitude": -117.13366691821
+  },
+  "17373 Circa Del Norte,San Diego,CA,92127": {
+    "latitude": 33.007708686873,
+    "longitude": -117.182427466466
+  },
+  "8619 Tillage Lane,San Diego,CA,92127": {
+    "latitude": 33.028475145357,
+    "longitude": -117.141435098435
+  },
+  "1102 Los Indios Ct,Chula Vista,CA,91910": {
+    "latitude": 32.646883177872,
+    "longitude": -117.01892972785
+  },
+  "1618 Irwin St,Chula Vista,CA,91913": {
+    "latitude": 32.616641187396,
+    "longitude": -116.983003382097
+  },
+  "876 Chesapeake Place,Chula Vista,CA,91914": {
+    "latitude": 32.656035922773,
+    "longitude": -116.947643233904
+  },
+  "5702 Baltimore Drive,Unit 262,La Mesa,CA,91942": {
+    "latitude": 32.78459998443,
+    "longitude": -117.035279971098
+  },
+  "1737 Kennington Rd,Encinitas,CA,92024": {
+    "latitude": 33.077854571435,
+    "longitude": -117.30795929083
+  },
+  "14161 Caminito Vistana,San Diego,CA,92130": {
+    "latitude": 32.9742798549,
+    "longitude": -117.155048482658
+  },
+  "14820 De la Valle Pl,Del Mar,CA,92014": {
+    "latitude": 32.983640219543,
+    "longitude": -117.230327696181
+  },
+  "2737 Valley Creek Drive,Chula Vista,CA,91914": {
+    "latitude": 32.667015964476,
+    "longitude": -116.954250436721
+  },
+  "220 Camino Corto,Space 65,Vista,CA,92083": {
+    "latitude": 33.202279314027,
+    "longitude": -117.249720989377
+  },
+  "1219 Via Angelica,Vista,CA,92081": {
+    "latitude": 33.187244778121,
+    "longitude": -117.2685942693
+  },
+  "408 Woodpark Way,Oceanside,CA,92058": {
+    "latitude": 33.229110750011,
+    "longitude": -117.336327171575
+  },
+  "4832 Luna Drive,Oceanside,CA,92057": {
+    "latitude": 33.249174930737,
+    "longitude": -117.303698350351
+  },
+  "912 Caminito Madrigal,Unit 8,Carlsbad,CA,92011": {
+    "latitude": 33.115766799597,
+    "longitude": -117.312401448056
+  },
+  "2504 La Golondrina St,Carlsbad,CA,92009": {
+    "latitude": 33.114237395634,
+    "longitude": -117.252323737951
+  },
+  "17545 Circa Del Norte,San Diego,CA,92127": {
+    "latitude": 33.00596202398,
+    "longitude": -117.178564834026
+  },
+  "13227 Wimberly Square,#281,San Diego,CA,92128": {
+    "latitude": 32.957375609762,
+    "longitude": -117.094272560018
+  },
+  "774 West Solana Circle,Solana Beach,CA,92075": {
+    "latitude": 32.98252027155,
+    "longitude": -117.266356804067
+  },
+  "13024 Olmeda Court,San Diego,CA,92128": {
+    "latitude": 33.047747948695,
+    "longitude": -117.053127892806
+  },
+  "809 Del Mar Downs,Unit A,Solana Beach,CA,92075": {
+    "latitude": 32.981406442347,
+    "longitude": -117.262393672607
+  },
+  "2023 Via Ladeta,San Diego,CA,92037": {
+    "latitude": 32.824362727266,
+    "longitude": -117.250408808352
+  },
+  "6267 Belmont Trail Court,San Diego,CA,92130": {
+    "latitude": 32.933970234792,
+    "longitude": -117.182995591864
+  },
+  "6654 La Jolla Blvd,San Diego,CA,92037": {
+    "latitude": 32.828539555347,
+    "longitude": -117.277339695616
+  },
+  "6827 Korite Place,Carlsbad,CA,92009": {
+    "latitude": 33.110259679663,
+    "longitude": -117.255808430377
+  },
+  "2937 Corte Pedro,Carlsbad,CA,92009": {
+    "latitude": 33.06924405185,
+    "longitude": -117.246425225049
+  },
+  "685 Beacon Ct,Vista,CA,92083": {
+    "latitude": 33.212445472932,
+    "longitude": -117.257404680018
+  },
+  "753 bijou lime lane,Escondido,CA,92027": {
+    "latitude": 33.154964350702,
+    "longitude": -117.037818095199
+  },
+  "1750 Tara Way,San Marcos,CA,92078": {
+    "latitude": 33.09653196628,
+    "longitude": -117.187270278664
+  },
+  "10308 Burned Oak Lane,Escondido,CA,92026": {
+    "latitude": 33.221174931722,
+    "longitude": -117.108320713559
+  },
+  "925 Daisy Ave,Carlsbad,CA,92011": {
+    "latitude": 33.102138202219,
+    "longitude": -117.302289352427
+  },
+  "1938 Century Way,Escondido,CA,92027": {
+    "latitude": 33.158305964041,
+    "longitude": -117.075131478289
+  },
+  "2905 Via Carrio,Carlsbad,CA,92010": {
+    "latitude": 33.174957788165,
+    "longitude": -117.320991138611
+  },
+  "10676 Brookview Lane,San Diego,CA,92131": {
+    "latitude": 32.906935495747,
+    "longitude": -117.100715812808
+  },
+  "1188 Via Zamia,Encinitas,CA,92024": {
+    "latitude": 33.061991610127,
+    "longitude": -117.279401224702
+  },
+  "4645 Katherine Place,La Mesa,CA,91942": {
+    "latitude": 32.763205469941,
+    "longitude": -117.039224578552
+  },
+  "14505 Wildgrove Road,Poway,CA,92064": {
+    "latitude": 33.000726435799,
+    "longitude": -117.016480619561
+  },
+  "18001 Pacifica Ranch Drive,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.046891737285,
+    "longitude": -117.175149962853
+  },
+  "1141 Laguna Street,Oceanside,CA,92054": {
+    "latitude": 33.184826892421,
+    "longitude": -117.361706987657
+  },
+  "3404 Las Vegas Drive,Oceanside,CA,92054": {
+    "latitude": 33.214815288416,
+    "longitude": -117.339127984521
+  },
+  "4143 Cam. Campana,Oceanside,CA,92057": {
+    "latitude": 33.231941947356,
+    "longitude": -117.315383142473
+  },
+  "2839 Camino Serbal,Carlsbad,CA,92009": {
+    "latitude": 33.080194212068,
+    "longitude": -117.251317406656
+  },
+  "8349 Krenz St,San Diego,CA,92123": {
+    "latitude": 32.802350323259,
+    "longitude": -117.146918491317
+  },
+  "1201 Archer Street,San Diego,CA,92109": {
+    "latitude": 32.811923982954,
+    "longitude": -117.252221562551
+  },
+  "780 Ballantyne Street,Unit A,El Cajon,CA,92021": {
+    "latitude": 32.805307979139,
+    "longitude": -116.958772976398
+  },
+  "11320 Trebol Street,San Diego,CA,92126": {
+    "latitude": 32.92737476664,
+    "longitude": -117.145955877912
+  },
+  "2908 Managua,Carlsbad,CA,92009": {
+    "latitude": 33.094729815188,
+    "longitude": -117.245729610904
+  },
+  "17274 via Recanto,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.027703130165,
+    "longitude": -117.219056886257
+  },
+  "3540 Via Loma Vista,San Diego,CA,92029": {
+    "latitude": 33.066733504211,
+    "longitude": -117.091258343817
+  },
+  "5556 Porter Creek Rd,San Diego,CA,92130": {
+    "latitude": 32.957451507895,
+    "longitude": -117.197506091184
+  },
+  "276 Surfview Ct,Del Mar,CA,92014": {
+    "latitude": 32.94692526243,
+    "longitude": -117.262822742231
+  },
+  "5285 Coastal Sage Trails,San Diego,CA,92130": {
+    "latitude": 32.969631335218,
+    "longitude": -117.20589486752
+  },
+  "331 valley heights dr,Oceanside,CA,92057": {
+    "latitude": 33.230898316591,
+    "longitude": -117.300028082589
+  },
+  "5592 El Camino Real,Apt 200,Carlsbad,CA,92008": {
+    "latitude": 33.141742736633,
+    "longitude": -117.276271841152
+  },
+  "5142 Barry Street,Oceanside,CA,92057": {
+    "latitude": 33.258819358078,
+    "longitude": -117.291377874693
+  },
+  "684 Arden Drive,Encinitas,CA,92024": {
+    "latitude": 33.043763150016,
+    "longitude": -117.288439179439
+  },
+  "12035 Callado Road,San Diego,CA,92128": {
+    "latitude": 33.01537020738,
+    "longitude": -117.071471939362
+  },
+  "11551 Swan Lake Drive,San Diego,CA,92131": {
+    "latitude": 32.928410476506,
+    "longitude": -117.102225225932
+  },
+  "15794 dovewood ct,Poway,CA,92064": {
+    "latitude": 33.001154122409,
+    "longitude": -117.030868156362
+  },
+  "15596 Cobble Creek Ln,San Diego,CA,92131": {
+    "latitude": 32.927423633136,
+    "longitude": -117.012296373496
+  },
+  "1537 El Paseo Drive,San Marcos,CA,92078": {
+    "latitude": 33.119587145336,
+    "longitude": -117.219475562321
+  },
+  "539 Shadywood Drive,Escondido,CA,92026": {
+    "latitude": 33.160829796996,
+    "longitude": -117.086751981213
+  },
+  "13726 Nogales Drive,Del Mar,CA,92014": {
+    "latitude": 32.94787061538,
+    "longitude": -117.255838437591
+  },
+  "4015 Alton Way,Escondido,CA,92025": {
+    "latitude": 33.064232176665,
+    "longitude": -117.049193511274
+  },
+  "636 Weatherstone Way,San Marcos,CA,92078": {
+    "latitude": 33.098531553102,
+    "longitude": -117.178749487353
+  },
+  "15759 Concord Ridge Terrace,San Diego,CA,92127": {
+    "latitude": 33.019623352689,
+    "longitude": -117.140671339417
+  },
+  "1011 Valencia Ave.,San Marcos,CA,92078": {
+    "latitude": 33.120611330085,
+    "longitude": -117.193209359978
+  },
+  "1515 Via Entrada Del Lago,San Marcos,CA,92078": {
+    "latitude": 33.122208292187,
+    "longitude": -117.208212547567
+  },
+  "2188 Gill Village Way,San Diego,CA,92108": {
+    "latitude": 32.774200221884,
+    "longitude": -117.147917159436
+  },
+  "1814 Mattero Avenue,Chula Vista,CA,91913": {
+    "latitude": 32.60651236987,
+    "longitude": -116.995040968524
+  },
+  "8638 Noeline Avenue,Spring Valley,CA,91977": {
+    "latitude": 32.704095743924,
+    "longitude": -117.020987317441
+  },
+  "2376 Element Way,Chula Vista,CA,91915": {
+    "latitude": 32.613964426617,
+    "longitude": -116.960356401727
+  },
+  "4119 Tim Street,Bonita,CA,91902": {
+    "latitude": 32.660168201039,
+    "longitude": -117.017344123226
+  },
+  "1756 Ridgeview Drive,San Diego,CA,92105": {
+    "latitude": 32.72379376121,
+    "longitude": -117.1010888075
+  },
+  "8234 Jordan St,San Diego,CA,92123": {
+    "latitude": 32.803582707652,
+    "longitude": -117.149253621395
+  },
+  "16569 Calle Pulido,San Diego,CA,92128": {
+    "latitude": 33.013723037678,
+    "longitude": -117.07219672253
+  },
+  "1064 Crimson Drive,San Marcos,CA,92069": {
+    "latitude": 33.160778080654,
+    "longitude": -117.1441060757
+  },
+  "12769 Via Terceto,San Diego,CA,92130": {
+    "latitude": 32.949081129836,
+    "longitude": -117.225932645251
+  },
+  "5125 El Secreto,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.017132334885,
+    "longitude": -117.222063642564
+  },
+  "2827 Cebu Place,Carlsbad,CA,92009": {
+    "latitude": 33.106643936181,
+    "longitude": -117.243020831255
+  },
+  "243 Calle De Madera,Encinitas,CA,92024": {
+    "latitude": 33.0626675268,
+    "longitude": -117.298166042798
+  },
+  "1608 Hilltop Ln,San Diego,CA,92024": {
+    "latitude": 33.054370741851,
+    "longitude": -117.253743045616
+  },
+  "7100 Mimosa Dr.,Oceanside,Ca,92011": {
+    "latitude": 33.100725180982,
+    "longitude": -117.271253092806
+  },
+  "1152 Hermes Avenue,Encinitas,CA,92024": {
+    "latitude": 33.069470143606,
+    "longitude": -117.30174307149
+  },
+  "331 Olive Avenue APT 301,Carlsbad,CA,92008": {
+    "latitude": 33.145949949113,
+    "longitude": -117.339035196853
+  },
+  "6680 Lemon Leaf Drive,Carlsbad,CA,92011": {
+    "latitude": 33.110060986648,
+    "longitude": -117.296842959382
+  },
+  "2127 Woodland Heights Glen,Escondido,CA,92026": {
+    "latitude": 33.171314635859,
+    "longitude": -117.136293639027
+  },
+  "2325 Via Francisca,Carlsbad,CA,92008": {
+    "latitude": 33.173134011763,
+    "longitude": -117.327442018933
+  },
+  "1750 Red Barn Road,Encinitas,CA,92024": {
+    "latitude": 33.049676959892,
+    "longitude": -117.248908615321
+  },
+  "13121 Chambord,San Diego,CA,92130": {
+    "latitude": 32.958605276867,
+    "longitude": -117.197719997353
+  },
+  "710 Atwood Place,San Marcos,CA,92069": {
+    "latitude": 33.162869197858,
+    "longitude": -117.154828876795
+  },
+  "769 Ocean Crest Rd,Encinitas,CA,92007": {
+    "latitude": 33.032808756937,
+    "longitude": -117.275232568977
+  },
+  "3024 quebrada circle,Carlsbad,CA,92009": {
+    "latitude": 33.077927074897,
+    "longitude": -117.241895812211
+  },
+  "7020 Glenroy,San Diego,CA,92120": {
+    "latitude": 32.799948003516,
+    "longitude": -117.075038858259
+  },
+  "1246 Tres Lomas Drive,El Cajon,CA,92021": {
+    "latitude": 32.812288302375,
+    "longitude": -116.921875335705
+  },
+  "346 Nova Way,Chula Vista,CA,91911": {
+    "latitude": 32.624952934042,
+    "longitude": -117.046667289476
+  },
+  "6095 Del Cerro Blvd.,San Diego,CA,92120": {
+    "latitude": 32.783631790794,
+    "longitude": -117.068811188018
+  },
+  "2311 Kyanite Place,Carlsbad,CA,92009": {
+    "latitude": 33.117693170494,
+    "longitude": -117.259986222377
+  },
+  "2876 trails lane,carlsbad,CA,92008": {
+    "latitude": 33.17196645456,
+    "longitude": -117.331196357185
+  },
+  "1814 Autumn Pl,Encinitas,CA,92024": {
+    "latitude": 33.054554766535,
+    "longitude": -117.249568857834
+  },
+  "11420 Cabela Place,San Diego,CA,92127": {
+    "latitude": 33.033479686376,
+    "longitude": -117.08443656428
+  },
+  "3776 Jewell Street,San Diego,CA,92109": {
+    "latitude": 32.788804682339,
+    "longitude": -117.235882718692
+  },
+  "5651 Honors Drive,San Diego,CA,92122": {
+    "latitude": 32.844664995952,
+    "longitude": -117.223049773473
+  },
+  "7835 Inception Way,San Diego,CA,92108": {
+    "latitude": 32.778145751347,
+    "longitude": -117.151493549883
+  },
+  "1728 Guizot Street,San Diego,CA,92107": {
+    "latitude": 32.73861598351,
+    "longitude": -117.244860659002
+  },
+  "17096 Oculto Place,San Diego,CA,92127": {
+    "latitude": 33.02583886917,
+    "longitude": -117.085417582228
+  },
+  "9801 Sydney Lane,San Diego,CA,92126": {
+    "latitude": 32.918987792413,
+    "longitude": -117.11971649766
+  },
+  "538 Rimini Road,Del Mar,CA,92014": {
+    "latitude": 32.958641612417,
+    "longitude": -117.260370616457
+  },
+  "7536 Charmant Drive,#1118,San Diego,CA,92122": {
+    "latitude": 32.866327815161,
+    "longitude": -117.226897318487
+  },
+  "325 La Amatista,Del Mar,CA,92014": {
+    "latitude": 32.950100704539,
+    "longitude": -117.260961289173
+  },
+  "3680 Alabama St unit 11,San Diego,CA,92104": {
+    "latitude": 32.745023571302,
+    "longitude": -117.142613426383
+  },
+  "2955 Alpine Blvd,Alpine,CA,91901": {
+    "latitude": 32.83293435482,
+    "longitude": -116.750402467675
+  },
+  "7560 Phoenix Dr,La Mesa,CA,91941": {
+    "latitude": 32.751754030004,
+    "longitude": -117.035303859522
+  },
+  "14027 Hermosillo Way,Poway,CA,92064": {
+    "latitude": 32.967554006245,
+    "longitude": -117.042897360885
+  },
+  "16508 Wilderness Rd,Poway,CA,92064": {
+    "latitude": 33.013849813963,
+    "longitude": -117.029650601107
+  },
+  "3562 Williams Terrace,Encinitas,CA,92024": {
+    "latitude": 33.073635833838,
+    "longitude": -117.199802145921
+  },
+  "8468 Blackburn Ln,San Diego,CA,92127": {
+    "latitude": 33.015146494384,
+    "longitude": -117.14133074374
+  },
+  "2178 Via Sonora,Oceanside,CA,92054": {
+    "latitude": 33.18749888077,
+    "longitude": -117.329636288352
+  },
+  "1053 Camino Ciego,Vista,CA,92084": {
+    "latitude": 33.214826729714,
+    "longitude": -117.224196082551
+  },
+  "1150 Meadow Lake Dr,Apt 12,Vista,CA,92084": {
+    "latitude": 33.211399998149,
+    "longitude": -117.225139968668
+  },
+  "912 Heritage Lane,Vista,CA,92081": {
+    "latitude": 33.162971247529,
+    "longitude": -117.227040481394
+  },
+  "5332 Onterio Street,Oceanside,CA,92056": {
+    "latitude": 33.241860882026,
+    "longitude": -117.270954529415
+  },
+  "1379 Cynthia Lane,Carlsbad,CA,92008": {
+    "latitude": 33.16767437531,
+    "longitude": -117.340834791465
+  },
+  "601 South Clementine Street,Oceanside,CA,92054": {
+    "latitude": 33.191268007826,
+    "longitude": -117.371158002583
+  },
+  "5427 La Crescenta Road,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.038614691719,
+    "longitude": -117.217238432363
+  },
+  "5092 Dubois Drive,San Diego,CA,92117": {
+    "latitude": 32.837623191456,
+    "longitude": -117.199637441523
+  },
+  "5094 Constitution Rd,San Diego,CA,92117": {
+    "latitude": 32.837910900283,
+    "longitude": -117.193500714932
+  },
+  "14789 sierra way,San Diego,CA,92126": {
+    "latitude": 32.897017986,
+    "longitude": -117.149650369375
+  },
+  "5860 hampton ct,San Diego,CA,92120": {
+    "latitude": 32.78764282483,
+    "longitude": -117.07512963427
+  },
+  "2049 Aspen Lane,El Cajon,CA,92019": {
+    "latitude": 32.752579312191,
+    "longitude": -116.912323151209
+  },
+  "1449 Chase Lane,El Cajon,CA,92020": {
+    "latitude": 32.772192336978,
+    "longitude": -116.937557792728
+  },
+  "13725 Choisser Lane,Lakeside,CA,92040": {
+    "latitude": 32.856408377577,
+    "longitude": -116.89764719312
+  },
+  "4086 Gros Ventre Avenue,San Diego,CA,92117": {
+    "latitude": 32.815821484111,
+    "longitude": -117.205730749856
+  },
+  "5791 Rutgers Road,San Diego,CA,92037": {
+    "latitude": 32.820588440085,
+    "longitude": -117.254792711351
+  },
+  "8841 Nottingham Pl,San Diego,CA,92037": {
+    "latitude": 32.866723189534,
+    "longitude": -117.24056962749
+  },
+  "208 Garnet Way,San Marcos,CA,92078": {
+    "latitude": 33.122839491406,
+    "longitude": -117.171189681241
+  },
+  "1446 Dolphin Ct,San Marcos,CA,92078": {
+    "latitude": 33.101291923365,
+    "longitude": -117.202873359063
+  },
+  "1178 Via Vera Cruz,San Marcos,CA,92078": {
+    "latitude": 33.11699751444,
+    "longitude": -117.177959912074
+  },
+  "1468 Glencrest,San Marcos,CA,92078": {
+    "latitude": 33.104224248372,
+    "longitude": -117.203595292384
+  },
+  "2108 meadowlark ranch cir,San marcos,CA,92078": {
+    "latitude": 33.109635102148,
+    "longitude": -117.226175385167
+  },
+  "259 Hill St,Solana Beach,CA,92075": {
+    "latitude": 32.994333725886,
+    "longitude": -117.274169911292
+  },
+  "7901 corte felipe,Carlsbad,CA,92009": {
+    "latitude": 33.073785660357,
+    "longitude": -117.247381767839
+  },
+  "13635 Glencliff Way,San Diego,CA,92130": {
+    "latitude": 32.964778087551,
+    "longitude": -117.218096990706
+  },
+  "4241 Jutland Drive,Suite 200,San Diego,CA,92117": {
+    "latitude": 32.82423859128,
+    "longitude": -117.22717928571
+  },
+  "89 Port of Spain Road,Coronado,CA,92118": {
+    "latitude": 32.61905697762,
+    "longitude": -117.133796670071
+  },
+  "1655 9th Ave,San Diego,CA,92101": {
+    "latitude": 32.722587102429,
+    "longitude": -117.156285483929
+  },
+  "6140 Beaumont Ave,San Diego,CA,92037": {
+    "latitude": 32.822816098492,
+    "longitude": -117.27381175257
+  },
+  "200 Grapevine Road,Unit 135,Vista,CA,92083": {
+    "latitude": 33.19278910037,
+    "longitude": -117.275160872071
+  },
+  "4729 Gateshead Rd,Carlsbad,CA,92010": {
+    "latitude": 33.158735327031,
+    "longitude": -117.3016268468
+  },
+  "2315 Birdie Street,Oceanside,CA,92056": {
+    "latitude": 33.187535588251,
+    "longitude": -117.313759232552
+  },
+  "1569 Wildgrove Way,Vista,CA,92081": {
+    "latitude": 33.169319323809,
+    "longitude": -117.247683683991
+  },
+  "3412 Sea Breeze Walk,Oceanside,CA,92056": {
+    "latitude": 33.183328962505,
+    "longitude": -117.286552245396
+  },
+  "1732 Santa Ivy Avenue,Chula Vista,CA,91913": {
+    "latitude": 32.612344162824,
+    "longitude": -116.993166523517
+  },
+  "1396 Wooden Valley Street,Chula Vista,CA,91913": {
+    "latitude": 32.62951608404,
+    "longitude": -116.973634174547
+  },
+  "3103 Sylvia Street,Bonita,CA,91902": {
+    "latitude": 32.679089341629,
+    "longitude": -117.019445214895
+  },
+  "14365 Highwayy 67,El cajon ,CA,92040": {
+    "latitude": 32.961349009053,
+    "longitude": -116.962494289951
+  },
+  "16915 Silver Pine Ct,San Diego,CA,92127": {
+    "latitude": 33.024676844023,
+    "longitude": -117.116906632258
+  },
+  "15410 Tanner Ridge Circle,San Diego,CA,92127": {
+    "latitude": 33.009130006195,
+    "longitude": -117.13739711658
+  },
+  "14934 Encendido,San Diego,CA,92127": {
+    "latitude": 32.999752877746,
+    "longitude": -117.155297509001
+  },
+  "1676 amante ct,Carlsbad,CA,92011": {
+    "latitude": 33.10944185737,
+    "longitude": -117.281237196774
+  },
+  "3855 Sydney Way,Carlsbad,CA,92008": {
+    "latitude": 33.15307469254,
+    "longitude": -117.338015119237
+  },
+  "2560 Faraday Avenue,Carlsbad,CA,92010": {
+    "latitude": 33.13658961427,
+    "longitude": -117.2679367643
+  },
+  "1444 Eastview Ct,Oceanside,CA,92056": {
+    "latitude": 33.224059689429,
+    "longitude": -117.262910919852
+  },
+  "4835 Ruette De Mer,San Diego,CA,92130": {
+    "latitude": 32.94358461301,
+    "longitude": -117.212770375057
+  },
+  "15663 Via De Santa Fe,Rancho Santa Fe,CA,92067": {
+    "latitude": 32.997075069229,
+    "longitude": -117.20124442
+  },
+  "11270 penanova st,San Diego,CA,92129": {
+    "latitude": 32.99451511027,
+    "longitude": -117.095242178578
+  },
+  "2260 Via Aprilia,Unit 6,Del Mar,CA,92014": {
+    "latitude": 32.9346291362,
+    "longitude": -117.254131965923
+  },
+  "16550 Artesian Hills Court,San Diego,CA,92127": {
+    "latitude": 33.015262751381,
+    "longitude": -117.159861203823
+  },
+  "12173 Carter Lane,San Diego,CA,92128": {
+    "latitude": 32.979416117528,
+    "longitude": -117.072924690821
+  },
+  "8468 Ednalyn Ln,San Diego,Ca,92127": {
+    "latitude": 33.01593376464,
+    "longitude": -117.140044875974
+  },
+  "7940 Canary Way,San Diego,CA,92123": {
+    "latitude": 32.79098611455,
+    "longitude": -117.153747024552
+  },
+  "19919 Elfin Forest Lane,Escondido,CA,92029": {
+    "latitude": 33.073789809399,
+    "longitude": -117.171161350408
+  },
+  "562 E Barham Dr apt 244,San Marcos,CA,92078": {
+    "latitude": 33.138289853529,
+    "longitude": -117.148621826036
+  },
+  "2188 Torrey Glen,Escondido,CA,92026": {
+    "latitude": 33.166466878339,
+    "longitude": -117.12488285132
+  },
+  "1516 w borden rd,San Marcos,CA,92069": {
+    "latitude": 33.160031755995,
+    "longitude": -117.194531186109
+  },
+  "2061 Gayle Way,Carlsbad,CA,92008": {
+    "latitude": 33.165504300578,
+    "longitude": -117.327188717819
+  },
+  "1712 Promenade Circle,Vista,CA,92083": {
+    "latitude": 33.19448799975,
+    "longitude": -117.278305374681
+  },
+  "3612 Alander Ct,Carlsbad,CA,92010": {
+    "latitude": 33.154745624938,
+    "longitude": -117.293089878416
+  },
+  "3933 Alipaz Ct,Oceanside,CA,92058": {
+    "latitude": 33.235228198224,
+    "longitude": -117.326063363499
+  },
+  "1374 Cassins Street,Carlsbad,CA,92011": {
+    "latitude": 33.095540596682,
+    "longitude": -117.29194859848
+  },
+  "11039 Ipai Ct,San Diego,CA,92127": {
+    "latitude": 33.031910007369,
+    "longitude": -117.093633020806
+  },
+  "4758 limerick ave,San Diego,CA,92117": {
+    "latitude": 32.830838166564,
+    "longitude": -117.179050313858
+  },
+  "17501 Los Eucaliptos,Rancho Santa Fe,CA,92067": {
+    "latitude": 33.030074370573,
+    "longitude": -117.197434342093
+  },
+  "10806 Sima Court,Santee,CA,92071": {
+    "latitude": 32.87357191689,
+    "longitude": -116.969862485756
+  },
+  "1864 Caminito Ascua,San Diego,CA,92037": {
+    "latitude": 32.82387066764,
+    "longitude": -117.244452292679
+  },
+  "4295 Benhurst Avenue,San Diego,CA,92122": {
+    "latitude": 32.853645618471,
+    "longitude": -117.198386442474
+  },
+  "5411 Caminito Heraldo,San Diego,CA,92037": {
+    "latitude": 32.814168237529,
+    "longitude": -117.252280235874
+  },
+  "5411 Barclay Ave,San Diego,CA,92120": {
+    "latitude": 32.79675324112,
+    "longitude": -117.074918577948
+  },
+  "2071 Lakeridge Circle,204,Chula Vista,CA,91913": {
+    "latitude": 32.650814667647,
+    "longitude": -116.977692692065
+  },
+  "2290 Element Way,Chula Vista,CA,91915": {
+    "latitude": 32.613491058635,
+    "longitude": -116.960635351464
+  },
+  "761 Springtime Way,San Diego,CA,92019": {
+    "latitude": 32.785669808642,
+    "longitude": -116.90348619451
+  },
+  "3928 Plateau Place,Carlsbad,CA,92010": {
+    "latitude": 33.173836415249,
+    "longitude": -117.286982656125
+  },
+  "1209 Rancho Pacifica Place,Vista,CA,92084": {
+    "latitude": 33.193950133023,
+    "longitude": -117.229090359634
+  },
+  "7062 Calle Portone,San Diego,CA,92091": {
+    "latitude": 33.057790516437,
+    "longitude": -117.18228514175
+  },
+  "3326 Avenida De Loyola,Oceanside,CA,92056": {
+    "latitude": 33.197037900424,
+    "longitude": -117.317363618555
+  },
+  "723 Palette Court,Oceanside,CA,92057": {
+    "latitude": 33.238481885399,
+    "longitude": -117.283954777421
+  },
+  "13718 Silver Lake Drive,Poway,CA,92064": {
+    "latitude": 32.963431618625,
+    "longitude": -117.054913154363
+  },
+  "17099 Bernardo Center Drive,San Diego,CA,92128": {
+    "latitude": 33.024338885687,
+    "longitude": -117.074149622151
+  },
+  "3514 North Sundown Lane,Oceanside,CA,92056": {
+    "latitude": 33.180609202562,
+    "longitude": -117.282308487819
+  },
+  "3860 Margaret Way,Carlsbad,CA,92008": {
+    "latitude": 33.154966529997,
+    "longitude": -117.332201431194
+  },
+  "1953 Wellington Lane,Vista,CA,92081": {
+    "latitude": 33.167002356223,
+    "longitude": -117.223396029893
+  },
+  "3148 Plum Court,Escondido,CA,92027": {
+    "latitude": 33.123469265701,
+    "longitude": -117.009113597222
+  },
+  "1730 Long Ridge Street,Chula Vista,CA,91913": {
+    "latitude": 32.634817302523,
+    "longitude": -116.986084402067
+  },
+  "866 Gold Oak Ct,CHula VIsta,CA,91910": {
+    "latitude": 32.629387421827,
+    "longitude": -117.021903794735
+  },
+  "12856 Vineyard Crest Pl,Lakeside,CA,92040": {
+    "latitude": 32.899370115669,
+    "longitude": -116.896412538782
+  },
+  "1440 Connecticut Street,Imperial Beach,CA,91932": {
+    "latitude": 32.570214621988,
+    "longitude": -117.119048795253
+  },
+  "5223 Surfwalk Way,San Diego,CA,92154": {
+    "latitude": 32.57027069692,
+    "longitude": -117.020041000573
+  },
+  "1245 Palomar Place,Vista,CA,92084": {
+    "latitude": 33.222974647755,
+    "longitude": -117.222519090049
+  },
+  "1510 Grady Place,Carlsbad,CA,92008": {
+    "latitude": 33.152759742529,
+    "longitude": -117.326043079293
+  },
+  "684 Hunter St,Oceanside,CA,92058": {
+    "latitude": 33.234469007344,
+    "longitude": -117.337887881947
+  },
+  "1358 East Indian Rock Road,Vista,CA,92084": {
+    "latitude": 33.219322405392,
+    "longitude": -117.241259206664
+  },
+  "3386 Golfers Dr,Oceanside,CA,92056": {
+    "latitude": 33.185103746683,
+    "longitude": -117.310922964155
+  },
+  "1291 La Jolla Rancho Road,San Diego,CA,92037": {
+    "latitude": 32.822608562569,
+    "longitude": -117.261781039304
+  },
+  "1415 Thomas Avenue,San Diego,CA,92109": {
+    "latitude": 32.795867567321,
+    "longitude": -117.243163072152
+  },
+  "4831 West Alder Drive,San Diego,CA,92116": {
+    "latitude": 32.766972045771,
+    "longitude": -117.098808426922
+  },
+  "2058 Silverado St,San Marcos,CA,92078": {
+    "latitude": 33.107961780908,
+    "longitude": -117.218309974865
+  },
+  "821 almond rd,San Marcos,CA,92078": {
+    "latitude": 33.119706880823,
+    "longitude": -117.163915698027
+  },
+  "1717 Tara Way,San Marcos,CA,92078": {
+    "latitude": 33.097442953427,
+    "longitude": -117.185657768131
+  },
+  "5134 Whitman Way,Carlsbad,CA,92008": {
+    "latitude": 33.141599977253,
+    "longitude": -117.303225398988
+  },
+  "4220 Vista Del Rio Way,UNIT 2,Oceanside,CA,92057": {
+    "latitude": 33.228287395662,
+    "longitude": -117.313176690281
+  },
+  "1705 Kraft Street,Oceanside,CA,92058": {
+    "latitude": 33.209036133815,
+    "longitude": -117.370284524453
+  },
+  "1411 North Melrose Drive,Apt 108,Vista,CA,92083": {
+    "latitude": 33.217901882351,
+    "longitude": -117.258527771225
+  },
+  "7341 Calle Conifera,Carlsbad,CA,92009": {
+    "latitude": 33.087306298822,
+    "longitude": -117.230518971212
+  },
+  "7620 Calle Madero,Carlsbad,CA,92009": {
+    "latitude": 33.083744870072,
+    "longitude": -117.248819683329
+  },
+  "3371 Calle Odessa,Carlsbad,CA,92009": {
+    "latitude": 33.077893307947,
+    "longitude": -117.234266995502
+  },
+  "10528 Stony Ridge Court,San Diego,CA,92131": {
+    "latitude": 32.929516929635,
+    "longitude": -117.103508914403
+  },
+  "1109 Miramonte Glen,Escondido,CA,92026": {
+    "latitude": 33.152954915144,
+    "longitude": -117.109504825021
+  },
+  "4855 Frazee Rd,Build 8 #807,Oceanside,CA,92057": {
+    "latitude": 33.236672776362,
+    "longitude": -117.291778577356
+  },
+  "773 Catherine Ave,San Marcos,CA,92069": {
+    "latitude": 33.150487701944,
+    "longitude": -117.14332530142
+  },
+  "11929 Caminito Corriente,San Diego,CA,92128": {
+    "latitude": 32.995933412107,
+    "longitude": -117.073260218405
+  },
+  "1163 East Washington Avenue,El Cajon,CA,92019": {
+    "latitude": 32.787417016359,
+    "longitude": -116.941503992743
+  },
+  "9399 Tropico Drive,La Mesa,CA,91941": {
+    "latitude": 32.757621194589,
+    "longitude": -116.995482191907
+  },
+  "3675 spa street,San diego,CA,92105": {
+    "latitude": 32.745545973417,
+    "longitude": -117.075631626451
+  },
+  "13899 Deanly Court,Lakeside,CA,92040": {
+    "latitude": 32.849040978052,
+    "longitude": -116.892141707657
+  },
+  "4262 Helix Del Sur,La Mesa,CA,91941": {
+    "latitude": 32.754612636172,
+    "longitude": -116.976589549788
+  },
+  "13382 Cooper Greens Way,San Diego,CA,92129": {
+    "latitude": 32.964596284071,
+    "longitude": -117.157730607855
+  },
+  "770 Capistrano Drive,Capistrano Park ,Oceanside,CA,92058": {
+    "latitude": 33.210906088236,
+    "longitude": -117.381475890986
+  },
+  "6259 Strada Fragante,Rancho Santa Fe,CA,92091": {
+    "latitude": 33.051477560332,
+    "longitude": -117.198958004452
+  },
+  "8989 Hampe Ct,San Diego,CA,92129": {
+    "latitude": 32.971930491259,
+    "longitude": -117.135717550821
+  },
+  "13215 Ann O Reno Lane,Poway,CA,92064": {
+    "latitude": 32.956679827979,
+    "longitude": -117.027744807782
+  },
+  "13442 Old winery rd,Poway,CA,92064": {
+    "latitude": 33.035606720036,
+    "longitude": -117.039301440604
+  },
+  "14950 Valle Del Sur Ct,San Diego,CA,92127": {
+    "latitude": 33.000508757774,
+    "longitude": -117.128135365028
+  }
+}
